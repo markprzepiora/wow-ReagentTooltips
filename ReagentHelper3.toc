@@ -3,7 +3,7 @@
 ## Notes: Shows within a reagent items tooltip the Profession and/or Class it is used for.
 ## OptionalDeps: Ace3, LibBabble-Inventory-3.0
 ## SavedVariables: ReagentHelper3DB
-## Title: Reagent Helper 3: Remastered
+## Title: Reagent Helper 3
 ## Version: 3.0
 ## X-Category: Bags & Inventory
 ## X-Embeds: Ace3
