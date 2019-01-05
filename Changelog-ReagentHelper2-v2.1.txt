@@ -1,0 +1,45 @@
+------------------------------------------------------------------------
+r87 | davie3 | 2013-02-09 21:28:42 +0000 (Sat, 09 Feb 2013) | 1 line
+Changed paths:
+   A /tags/v2.1 (from /trunk:86)
+
+Tagging as v2.1
+------------------------------------------------------------------------
+r86 | davie3 | 2013-02-09 21:28:16 +0000 (Sat, 09 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Changelog.txt
+
+Updated Changelog.txt.
+------------------------------------------------------------------------
+r85 | davie3 | 2013-02-09 21:26:41 +0000 (Sat, 09 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Localization/enUS.lua
+   M /trunk/embeds.xml
+
+Fixed an error loading Libs.
+------------------------------------------------------------------------
+r84 | davie3 | 2013-01-29 18:22:11 +0000 (Tue, 29 Jan 2013) | 3 lines
+Changed paths:
+   D /trunk/Data/DB/Class
+   M /trunk/Data/DB/Profession/Alchemy.lua
+   M /trunk/Data/DB/Profession/Blacksmithing.lua
+   M /trunk/Data/DB/Profession/Cooking.lua
+   M /trunk/Data/DB/Profession/Enchanting.lua
+   M /trunk/Data/DB/Profession/Engineering.lua
+   M /trunk/Data/DB/Profession/FirstAid.lua
+   M /trunk/Data/DB/Profession/Inscription.lua
+   M /trunk/Data/DB/Profession/Jewelcrafting.lua
+   M /trunk/Data/DB/Profession/Leatherworking.lua
+   M /trunk/Data/DB/Profession/Mining.lua
+   M /trunk/Data/DB/Profession/Tailoring.lua
+   M /trunk/Data/Options/Defaults.lua
+   M /trunk/Data/Options/Options.lua
+   M /trunk/LoadDB.xml
+   M /trunk/Localization/enUS.lua
+   M /trunk/ReagentHelper2.lua
+   M /trunk/ReagentHelper2.toc
+
+Removed Classes from the DB and any corresponding options and code. As of patch 5.0.4, class reagents are no longer needed to cast certain spells.
+Toc update to v2.1.
+Updated DB for Mists (current patch 5.1).
+------------------------------------------------------------------------
