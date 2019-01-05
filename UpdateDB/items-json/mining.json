@@ -1,0 +1,1008 @@
+[
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72094,
+    "level": 90,
+    "name": "6Black Trillium Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 468000,
+    "reqskill": 2520,
+    "reqskillrank": 75,
+    "sellprice": 350
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72103,
+    "level": 90,
+    "name": "6White Trillium Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 451354,
+    "reqskill": 2520,
+    "reqskillrank": 75,
+    "sellprice": 350
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72092,
+    "level": 86,
+    "name": "7Ghost Iron Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19,
+      23
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 97020,
+    "reqskill": 2520,
+    "reqskillrank": 1,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52183,
+    "level": 85,
+    "name": "6Pyrite Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 454545,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52185,
+    "level": 83,
+    "name": "7Elementium Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 37878,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 2250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52186,
+    "level": 83,
+    "name": "7Elementium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pyriumbar",
+        "n": "Smelt Elementium",
+        "s": 186,
+        "t": 6,
+        "ti": 74530
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 105555,
+    "sellprice": 5400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52327,
+    "level": 83,
+    "name": "7Volatile Earth",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 80800,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 53038,
+    "level": 81,
+    "name": "7Obsidium Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 87500,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36910,
+    "level": 80,
+    "name": "6Titanium Ore",
+    "slot": 0,
+    "source": [
+      19
+    ],
+    "sourcemore": [
+      {
+        "n": "Titanium Vein",
+        "t": 2,
+        "ti": 191133
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 888889,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 41163,
+    "level": 80,
+    "name": "6Titanium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 3500000,
+    "sellprice": 4200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35624,
+    "level": 75,
+    "name": "6Eternal Earth",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 156223,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35627,
+    "level": 75,
+    "name": "6Eternal Shadow",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 403498,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36860,
+    "level": 75,
+    "name": "6Eternal Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 4273
+      },
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 864373,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36912,
+    "level": 75,
+    "name": "7Saronite Ore",
+    "slot": 0,
+    "source": [
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 110000,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36909,
+    "level": 72,
+    "name": "7Cobalt Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 143566,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23426,
+    "level": 70,
+    "name": "6Khorium Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 5300000,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23427,
+    "level": 70,
+    "name": "6Eternium Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 166000,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23447,
+    "level": 70,
+    "name": "6Eternium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_11",
+        "n": "Smelt Eternium",
+        "s": 186,
+        "t": 6,
+        "ti": 29359
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 509000,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23449,
+    "level": 70,
+    "name": "6Khorium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_09",
+        "n": "Smelt Khorium",
+        "s": 186,
+        "t": 6,
+        "ti": 29361
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 11280000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21884,
+    "level": 65,
+    "name": "6Primal Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 5640000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22452,
+    "level": 65,
+    "name": "6Primal Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 120500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23425,
+    "level": 65,
+    "name": "7Adamantite Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 70754,
+    "reqskill": 2523,
+    "reqskillrank": 25,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23446,
+    "level": 65,
+    "name": "7Adamantite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_10",
+        "n": "Smelt Adamantite",
+        "s": 186,
+        "t": 6,
+        "ti": 29358
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 109000,
+    "sellprice": 3000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23573,
+    "level": 65,
+    "name": "7Hardened Adamantite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_adamantite",
+        "n": "Smelt Hardened Adamantite",
+        "s": 186,
+        "t": 6,
+        "ti": 29686
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 969998,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 18562,
+    "level": 60,
+    "name": "4Elementium Ingot",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 2677
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 380000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17010,
+    "level": 60,
+    "name": "5Fiery Core",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 2717
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 74997,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 18567,
+    "level": 60,
+    "name": "7Elemental Flux",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 57757,
+    "buyprice": 30000,
+    "sellprice": 7500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23424,
+    "level": 60,
+    "name": "7Fel Iron Ore",
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 3483,
+        "c2": 8,
+        "n": "Outland Sucks!",
+        "t": 5,
+        "ti": 10236
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 102000,
+    "reqskill": 2523,
+    "reqskillrank": 1,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23445,
+    "level": 60,
+    "name": "7Fel Iron Bar",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_feliron",
+        "n": "Smelt Fel Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 29356
+      },
+      {
+        "n": "Adamantite Bound Chest",
+        "t": 2,
+        "ti": 181802
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 209999,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12360,
+    "level": 55,
+    "name": "6Arcanite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_stonetablet_05",
+        "n": "Transmute: Arcanite",
+        "s": 171,
+        "t": 6,
+        "ti": 17187
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 4000000,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 156930,
+    "level": 55,
+    "name": "7Rich Illusion Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 36475,
+    "cooldown": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 11370,
+    "level": 50,
+    "name": "7Dark Iron Ore",
+    "slot": 0,
+    "source": [
+      19
+    ],
+    "sourcemore": [
+      {
+        "n": "Dark Iron Deposit",
+        "t": 2,
+        "ti": 165658
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 182608,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12359,
+    "level": 50,
+    "name": "7Thorium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_07",
+        "n": "Smelt Thorium",
+        "s": 186,
+        "t": 6,
+        "ti": 16153
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 34030,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7911,
+    "level": 40,
+    "name": "6Truesilver Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 92999,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3858,
+    "level": 40,
+    "name": "7Mithril Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 32000,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10620,
+    "level": 40,
+    "name": "7Thorium Ore",
+    "slot": 0,
+    "source": [
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 19000,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2772,
+    "level": 30,
+    "name": "7Iron Ore",
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 21739,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 150
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3575,
+    "level": 30,
+    "name": "7Iron Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_iron",
+        "n": "Smelt Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 3307
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 63000,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3857,
+    "level": 30,
+    "name": "7Coal",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 8154,
+    "buyprice": 500,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2776,
+    "level": 25,
+    "name": "6Gold Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 65500,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2771,
+    "level": 20,
+    "name": "7Tin Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "n": "Rathis Tomber",
+        "t": 1,
+        "ti": 16224,
+        "z": 3433
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 12121,
+    "buyprice": 100,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3576,
+    "level": 20,
+    "name": "7Tin Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_05",
+        "n": "Smelt Tin",
+        "s": 186,
+        "t": 6,
+        "ti": 3304
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 11700,
+    "sellprice": 35
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2775,
+    "level": 10,
+    "name": "6Silver Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "n": "Rathis Tomber",
+        "t": 1,
+        "ti": 16224,
+        "z": 3433
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 206000,
+    "buyprice": 300,
+    "sellprice": 75
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2770,
+    "level": 10,
+    "name": "7Copper Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "n": "Rathis Tomber",
+        "t": 1,
+        "ti": 16224,
+        "z": 3433
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 17112,
+    "buyprice": 20,
+    "reqskill": 755,
+    "reqskillrank": 1,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2840,
+    "level": 10,
+    "name": "7Copper Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_02",
+        "n": "Smelt Copper",
+        "s": 186,
+        "t": 6,
+        "ti": 2657
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 24600,
+    "sellprice": 10
+  }
+]

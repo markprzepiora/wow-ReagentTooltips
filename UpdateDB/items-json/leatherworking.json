@@ -1,0 +1,4580 @@
+[
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 165703,
+    "level": 120,
+    "name": "4Breath of Bwonsamdi",
+    "slot": 0,
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152542,
+    "level": 120,
+    "name": "5Hardened Tempest Hide",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_skinning_80_hardenedtempesthide",
+        "n": "Hardened Tempest Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 272278
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 5029,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 153051,
+    "level": 111,
+    "name": "6Mistscale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 9615,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 154165,
+    "level": 111,
+    "name": "6Calcified Bone",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1585,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 154722,
+    "level": 111,
+    "name": "6Tempest Hide",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 9699,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152541,
+    "level": 111,
+    "name": "7Coarse Leather",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 52405,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 153050,
+    "level": 111,
+    "name": "7Shimmerscale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 18500,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 154164,
+    "level": 111,
+    "name": "7Blood-Stained Bone",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 258000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 162461,
+    "level": 110,
+    "name": "4Sanguicell",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 9389
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 124124,
+    "level": 110,
+    "name": "5Blood of Sargeras",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16,
+      17,
+      19,
+      23,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_blood-of-sargeras",
+        "n": "Transmute: Blood of Sargeras",
+        "s": 171,
+        "t": 6,
+        "ti": 213257
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "buyprice": 50000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 130180,
+    "level": 110,
+    "name": "5Dawnlight",
+    "slot": 0,
+    "source": [
+      2,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 11580000,
+    "reqlevel": 1,
+    "sellprice": 25000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 130182,
+    "level": 110,
+    "name": "5Maelstrom Sapphire",
+    "slot": 0,
+    "source": [
+      2,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 435000,
+    "reqlevel": 1,
+    "sellprice": 25000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 151568,
+    "level": 110,
+    "name": "5Primal Sargerite",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17,
+      19,
+      23,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_primalsargerite",
+        "n": "Transmute: Primal Sargerite",
+        "s": 171,
+        "t": 6,
+        "ti": 247701
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 152668,
+    "level": 110,
+    "name": "5Expulsom",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 162460,
+    "level": 110,
+    "name": "5Hydrocore",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 165948,
+    "level": 110,
+    "name": "5Tidalcore",
+    "slot": 0,
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124116,
+    "level": 110,
+    "name": "6Felhide",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1835000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124440,
+    "level": 110,
+    "name": "7Arkhana",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_70_arkhana",
+        "n": "Ley Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 224199
+      },
+      {
+        "n": "Illnea Bloodthorn",
+        "t": 1,
+        "ti": 115264,
+        "z": 7502
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 158855,
+    "buyprice": 28000,
+    "sellprice": 700
+  },
+  {
+    "classs": 12,
+    "flags2": -2147475456,
+    "id": 136538,
+    "level": 101,
+    "name": "7Namha's Stonehide Leather",
+    "slot": 0,
+    "subclass": 0,
+    "firstseenpatch": 0,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 151566,
+    "level": 101,
+    "name": "7Fiendish Leather",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Maras",
+        "t": 1,
+        "ti": 129674
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 4545,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -1610604544,
+    "id": 127759,
+    "level": 100,
+    "name": "5Felblight",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      17,
+      19,
+      23
+    ],
+    "sourcemore": [
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 602475,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 110611,
+    "level": 100,
+    "name": "6Burnished Leather",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "sourcemore": [
+      {
+        "z": 12
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113262,
+    "level": 100,
+    "name": "6Sorcerous Water",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 10198,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113263,
+    "level": 100,
+    "name": "6Sorcerous Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "sourcemore": [
+      {
+        "n": "Dead Calm",
+        "t": 23,
+        "ti": 544
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 59300,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113264,
+    "level": 100,
+    "name": "6Sorcerous Air",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 12128,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 118472,
+    "level": 100,
+    "name": "6Savage Blood",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_boilingblood",
+        "n": "Transmute: Savage Blood",
+        "s": 171,
+        "t": 6,
+        "ti": 181643
+      },
+      {
+        "n": "Barn Work Order",
+        "t": 2,
+        "ti": 238761
+      },
+      {
+        "n": "Deathhoof",
+        "t": 23,
+        "ti": 402
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 548484,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475200,
+    "id": 120945,
+    "level": 100,
+    "name": "6Primal Spirit",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      17,
+      19,
+      23,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109119,
+    "level": 100,
+    "name": "7True Iron Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 21800,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109126,
+    "level": 100,
+    "name": "7Gorgrond Flytrap",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 9375,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 110609,
+    "level": 100,
+    "name": "7Raw Beast Hide",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 24494,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 123918,
+    "level": 100,
+    "name": "7Leystone Ore",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_leystone",
+        "n": "Mass Prospect Leystone",
+        "s": 755,
+        "t": 6,
+        "ti": 225902
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 91575,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124113,
+    "level": 100,
+    "name": "7Stonehide Leather",
+    "reqlevel": 98,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      21,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": -182,
+        "c2": 5,
+        "n": "Skin Deep",
+        "t": 5,
+        "ti": 39958
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 39402,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124115,
+    "level": 100,
+    "name": "7Stormscale",
+    "reqlevel": 98,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": -182,
+        "c2": 5,
+        "n": "Skin Deep",
+        "t": 5,
+        "ti": 39958
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 57419,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 124437,
+    "level": 100,
+    "name": "7Shal'dorei Silk",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      21
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 27575,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 124438,
+    "level": 100,
+    "name": "7Unbroken Claw",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19,
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Illnea Bloodthorn",
+        "t": 1,
+        "ti": 115264,
+        "z": 7502
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 405,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 124439,
+    "level": 100,
+    "name": "7Unbroken Tooth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Illnea Bloodthorn",
+        "t": 1,
+        "ti": 115264,
+        "z": 7502
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 1560,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 151567,
+    "level": 100,
+    "name": "7Lightweave Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "Maras",
+        "t": 1,
+        "ti": 129674
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 4400,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72163,
+    "level": 90,
+    "name": "5Magnificent Hide",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1462498,
+    "sellprice": 32500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76061,
+    "level": 90,
+    "name": "5Spirit of Harmony",
+    "reqlevel": 85,
+    "slot": 0,
+    "source": [
+      2,
+      3,
+      4
+    ],
+    "sourcemore": [
+      {
+        "p": 3
+      },
+      {
+        "c": 6661,
+        "c2": 12,
+        "n": "Many More Giant Dinosaur Bones",
+        "t": 5,
+        "ti": 32615
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1905000,
+    "buyprice": 9999999
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 80433,
+    "level": 90,
+    "name": "5Blood Spirit",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "z": 6507
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 60000,
+    "buyprice": 2000000,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 94289,
+    "level": 90,
+    "name": "5Haunting Spirit",
+    "slot": 0,
+    "source": [
+      2,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 1607500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 98617,
+    "level": 90,
+    "name": "5Hardened Magnificent Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "sellprice": 32500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 102218,
+    "level": 90,
+    "name": "5Spirit of War",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 1700498
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147459072,
+    "id": 111557,
+    "level": 90,
+    "name": "7Sumptuous Fur",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 25833,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 79101,
+    "level": 88,
+    "name": "7Prismatic Scale",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_tradeskill_skinning_prismaticscale",
+        "n": "Prismatic Scale",
+        "s": 165,
+        "t": 6,
+        "ti": 163220
+      },
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 25000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112157,
+    "level": 88,
+    "name": "7Prismatic Scale Fragment",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 400000,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72120,
+    "level": 86,
+    "name": "7Exotic Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_tradeskill_skinning_shaleatherscraps",
+        "n": "Exotic Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 124627
+      },
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 19098,
+    "sellprice": 156
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72162,
+    "level": 86,
+    "name": "7Sha-Touched Leather",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 11000,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 550
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 71998,
+    "level": 85,
+    "name": "4Essence of Destruction",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 2531,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475200,
+    "id": 52078,
+    "level": 85,
+    "name": "5Chaos Orb",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 285000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52980,
+    "level": 85,
+    "name": "5Pristine Hide",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 4800000,
+    "buyprice": 130000,
+    "sellprice": 32500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 61981,
+    "level": 85,
+    "name": "6Inferno Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkred03",
+        "n": "Inferno Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 86005
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 270733,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52979,
+    "level": 85,
+    "name": "7Blackened Dragonscale",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_rubysanctum2",
+        "n": "Blackened Dragonscale",
+        "s": 165,
+        "t": 6,
+        "ti": 163216
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 17066,
+    "sellprice": 10250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52982,
+    "level": 85,
+    "name": "7Deepsea Scale",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_deepseascales",
+        "n": "Deepsea Scale",
+        "s": 165,
+        "t": 6,
+        "ti": 163218
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 100000,
+    "sellprice": 1100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112155,
+    "level": 85,
+    "name": "7Deepsea Scale Fragment",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Shredtooth Frenzy",
+        "t": 1,
+        "ti": 52417,
+        "z": 1977
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 61111,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 11
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112156,
+    "level": 85,
+    "name": "7Blackened Dragonscale Fragment",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 10200,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 10250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52325,
+    "level": 83,
+    "name": "7Volatile Fire",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 379000,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52326,
+    "level": 83,
+    "name": "7Volatile Water",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 489997,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52327,
+    "level": 83,
+    "name": "7Volatile Earth",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 80800,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52328,
+    "level": 83,
+    "name": "7Volatile Air",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 177680,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52329,
+    "level": 83,
+    "name": "7Volatile Life",
+    "slot": 0,
+    "source": [
+      2,
+      17
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 164975,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 56516,
+    "level": 83,
+    "name": "7Heavy Savage Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "item_savageleatherhide",
+        "n": "Heavy Savage Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 78436
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 714285,
+    "sellprice": 495
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52976,
+    "level": 81,
+    "name": "7Savage Leather",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "item_savageleather",
+        "n": "Savage Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 84950
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 41634,
+    "sellprice": 425
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34057,
+    "level": 80,
+    "name": "4Abyss Crystal",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 128495
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22682,
+    "level": 80,
+    "name": "5Frozen Rune",
+    "reqlevel": 60,
+    "slot": 0,
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "cooldown": 180000,
+    "sellprice": 20000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147458816,
+    "id": 43102,
+    "level": 80,
+    "name": "5Frozen Orb",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "dd": -2,
+        "n": "The Captain's Chest",
+        "t": 2,
+        "ti": 201710,
+        "z": 4820
+      },
+      {
+        "bd": 1,
+        "z": 4395
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 512820,
+    "buyprice": 750000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 45087,
+    "level": 80,
+    "name": "5Runed Orb",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "z": 4273
+      },
+      {
+        "z": 4395
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 1963,
+    "buyprice": 1000000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 47556,
+    "level": 80,
+    "name": "5Crusader Orb",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "z": 4722
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 49800,
+    "buyprice": 1250000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 49908,
+    "level": 80,
+    "name": "5Primordial Saronite",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 127017,
+    "buyprice": 1500000,
+    "sellprice": 70000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 69237,
+    "level": 80,
+    "name": "5Living Ember",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "z": 5723
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 2400,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 38425,
+    "level": 80,
+    "name": "7Heavy Borean Leather",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_19",
+        "n": "Heavy Borean Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 50936
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 330000,
+    "sellprice": 13500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52977,
+    "level": 78,
+    "name": "7Savage Leather Scraps",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 10400,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 325
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 30183,
+    "level": 75,
+    "name": "4Nether Vortex",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "n": "G'eras",
+        "t": 1,
+        "ti": 18525,
+        "z": 3703
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 19305,
+    "buyprice": 700000,
+    "sellprice": 20000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 44128,
+    "level": 75,
+    "name": "5Arctic Fur",
+    "slot": 0,
+    "source": [
+      5,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 497000,
+    "buyprice": 120000,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34055,
+    "level": 75,
+    "name": "6Greater Cosmic Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 36200,
+    "cooldown": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35622,
+    "level": 75,
+    "name": "6Eternal Water",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 730000,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35623,
+    "level": 75,
+    "name": "6Eternal Air",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 4273
+      },
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 237500,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35624,
+    "level": 75,
+    "name": "6Eternal Earth",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 156223,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35625,
+    "level": 75,
+    "name": "6Eternal Life",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_misc_bag_18",
+        "n": "Alchemist's Cache",
+        "q": 3,
+        "t": 3,
+        "ti": 46110
+      },
+      {
+        "bd": 1,
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 216900,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35627,
+    "level": 75,
+    "name": "6Eternal Shadow",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 403498,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36860,
+    "level": 75,
+    "name": "6Eternal Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 4273
+      },
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 864373,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37700,
+    "level": 75,
+    "name": "7Crystallized Air",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 10584,
+    "cooldown": 500,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37703,
+    "level": 75,
+    "name": "7Crystallized Shadow",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 35500,
+    "cooldown": 500,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37705,
+    "level": 75,
+    "name": "7Crystallized Water",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 41536,
+    "cooldown": 500,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 38557,
+    "level": 75,
+    "name": "7Icy Dragonscale",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_monsterscales_19",
+        "n": "Icy Dragonscale",
+        "s": 165,
+        "t": 6,
+        "ti": 163222
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 12163,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 38561,
+    "level": 75,
+    "name": "7Jormungar Scale",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_monsterscales_18",
+        "n": "Jormungar Scale",
+        "s": 165,
+        "t": 6,
+        "ti": 163224
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 249000,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112158,
+    "level": 75,
+    "name": "7Icy Dragonscale Fragment",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 29999,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112178,
+    "level": 75,
+    "name": "7Jormungar Scale Fragment",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22450,
+    "level": 70,
+    "name": "4Void Crystal",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 106000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34664,
+    "level": 70,
+    "name": "5Sunmote",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "dd": 2,
+        "z": 4075
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 23399,
+    "sellprice": 22500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21844,
+    "level": 70,
+    "name": "7Bolt of Soulcloth",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_soulcloth_bolt",
+        "n": "Bolt of Soulcloth",
+        "s": 197,
+        "t": 6,
+        "ti": 26750
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 200000,
+    "sellprice": 8000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 25707,
+    "level": 70,
+    "name": "7Fel Hide",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_13",
+        "n": "Fel Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 163229
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 389999,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 33567,
+    "level": 70,
+    "name": "7Borean Leather Scraps",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 4500,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 450
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 33568,
+    "level": 70,
+    "name": "7Borean Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_15",
+        "n": "Borean Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 64661
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 18750,
+    "sellprice": 2250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 38426,
+    "level": 70,
+    "name": "7Eternium Thread",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 9100,
+    "buyprice": 30000,
+    "sellprice": 7500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 38558,
+    "level": 70,
+    "name": "7Nerubian Chitin",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_nerubianchitin_01",
+        "n": "Nerubian Chitin",
+        "s": 165,
+        "t": 6,
+        "ti": 163223
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 25000,
+    "sellprice": 1100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112177,
+    "level": 70,
+    "name": "7Nerubian Chitin Fragment",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 79899,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 11
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112182,
+    "level": 70,
+    "name": "7Patch of Fel Hide",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 4800,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22448,
+    "level": 65,
+    "name": "5Small Prismatic Shard",
+    "slot": 0,
+    "source": [
+      1,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchant_shardprismaticsmall",
+        "n": "Small Prismatic Shard",
+        "s": 333,
+        "t": 6,
+        "ti": 42615
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 12284
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23571,
+    "level": 65,
+    "name": "5Primal Might",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_nature_lightningoverload",
+        "n": "Transmute: Primal Might",
+        "s": 171,
+        "t": 6,
+        "ti": 29688
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 13000000,
+    "sellprice": 16000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 23572,
+    "level": 65,
+    "name": "5Primal Nether",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "G'eras",
+        "t": 1,
+        "ti": 18525,
+        "z": 3703
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 13899,
+    "buyprice": 500000,
+    "sellprice": 16000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 32428,
+    "level": 65,
+    "name": "5Heart of Darkness",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 5049,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21884,
+    "level": 65,
+    "name": "6Primal Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 5640000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21885,
+    "level": 65,
+    "name": "6Primal Water",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1100000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21886,
+    "level": 65,
+    "name": "6Primal Life",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_life",
+        "n": "Transmute: Primal Earth to Life",
+        "s": 171,
+        "t": 6,
+        "ti": 28585
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1250000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22451,
+    "level": 65,
+    "name": "6Primal Air",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_air",
+        "n": "Transmute: Primal Water to Air",
+        "s": 171,
+        "t": 6,
+        "ti": 28569
+      },
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 3611682,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22452,
+    "level": 65,
+    "name": "6Primal Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 120500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22456,
+    "level": 65,
+    "name": "6Primal Shadow",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_shadow",
+        "n": "Transmute: Primal Water to Shadow",
+        "s": 171,
+        "t": 6,
+        "ti": 28581
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 2092500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22457,
+    "level": 65,
+    "name": "6Primal Mana",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_mana",
+        "n": "Transmute: Primal Fire to Mana",
+        "s": 171,
+        "t": 6,
+        "ti": 28583
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 2397500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23793,
+    "level": 65,
+    "name": "7Heavy Knothide Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_11",
+        "n": "Heavy Knothide Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 32455
+      },
+      {
+        "n": "Heavy Fel Iron Chest",
+        "t": 2,
+        "ti": 181800
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 634000,
+    "sellprice": 6250
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 20381,
+    "level": 63,
+    "name": "6Dreamscale",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15410,
+    "level": 60,
+    "name": "5Scale of Onyxia",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "n": "Onyxia",
+        "t": 1,
+        "ti": 10184,
+        "z": 2159
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 66000,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17010,
+    "level": 60,
+    "name": "5Fiery Core",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 2717
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 74997,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17011,
+    "level": 60,
+    "name": "5Lava Core",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 2717
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 10367,
+    "sellprice": 2000
+  },
+  {
+    "classs": 12,
+    "flags2": -2147475456,
+    "id": 11754,
+    "level": 60,
+    "name": "6Black Diamond",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 0,
+    "firstseenpatch": 0,
+    "avgbuyout": 3100,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12809,
+    "level": 60,
+    "name": "6Guardian Stone",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 490
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 218181,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15414,
+    "level": 60,
+    "name": "7Red Dragonscale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 518000,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17012,
+    "level": 60,
+    "name": "7Core Leather",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 100300,
+    "sellprice": 1000
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 19767,
+    "level": 60,
+    "name": "7Primal Bat Leather",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 6000,
+    "sellprice": 2000
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 19768,
+    "level": 60,
+    "name": "7Primal Tiger Leather",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 125000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21887,
+    "level": 60,
+    "name": "7Knothide Leather",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_10",
+        "n": "Knothide Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 32454
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 22727,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22445,
+    "level": 60,
+    "name": "7Arcane Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 49898
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 25649,
+    "level": 60,
+    "name": "7Knothide Leather Scraps",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 5600,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 25699,
+    "level": 60,
+    "name": "7Crystal Infused Leather",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_12",
+        "n": "Crystal Infused Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 163226
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 90000,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 25700,
+    "level": 60,
+    "name": "7Fel Scales",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_monsterscales_04",
+        "n": "Fel Scales",
+        "s": 165,
+        "t": 6,
+        "ti": 163228
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 260000,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 25708,
+    "level": 60,
+    "name": "7Thick Clefthoof Leather",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_14",
+        "n": "Thick Clefthoof Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 163225
+      },
+      {
+        "z": 3518
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 50000,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 29539,
+    "level": 60,
+    "name": "7Cobra Scales",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_monsterscales_18",
+        "n": "Cobra Scales",
+        "s": 165,
+        "t": 6,
+        "ti": 163231
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 6263717,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 29547,
+    "level": 60,
+    "name": "7Wind Scales",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_monsterscales_06",
+        "n": "Wind Scales",
+        "s": 165,
+        "t": 6,
+        "ti": 163232
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 2990000,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 29548,
+    "level": 60,
+    "name": "7Nether Dragonscales",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_monsterscales_10",
+        "n": "Nether Dragonscales",
+        "s": 165,
+        "t": 6,
+        "ti": 163230
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 672000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112179,
+    "level": 60,
+    "name": "7Patch of Thick Clefthoof Leather",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 75
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112180,
+    "level": 60,
+    "name": "7Patch of Crystal Infused Leather",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 21129,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112181,
+    "level": 60,
+    "name": "7Fel Scale Fragment",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 506000,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112183,
+    "level": 60,
+    "name": "7Nether Dragonscale Fragment",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112184,
+    "level": 60,
+    "name": "7Cobra Scale Fragment",
+    "slot": 0,
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112185,
+    "level": 60,
+    "name": "7Wind Scale Fragment",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 10000,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7076,
+    "level": 55,
+    "name": "6Essence of Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 6666,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7078,
+    "level": 55,
+    "name": "6Essence of Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_fire_volcano",
+        "n": "Transmute: Air to Fire",
+        "s": 171,
+        "t": 6,
+        "ti": 17559
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 34000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7080,
+    "level": 55,
+    "name": "6Essence of Water",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1284999,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7082,
+    "level": 55,
+    "name": "6Essence of Air",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_nature_earthbind",
+        "n": "Transmute: Water to Air",
+        "s": 171,
+        "t": 6,
+        "ti": 17562
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 914000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12803,
+    "level": 55,
+    "name": "6Living Essence",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_nature_abolishmagic",
+        "n": "Transmute: Earth to Life",
+        "s": 171,
+        "t": 6,
+        "ti": 17566
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 25614,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12804,
+    "level": 55,
+    "name": "7Powerful Mojo",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 153000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12810,
+    "level": 55,
+    "name": "7Enchanted Leather",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_rune_05",
+        "n": "Enchanted Leather",
+        "s": 333,
+        "t": 6,
+        "ti": 17181
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1339326,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14048,
+    "level": 55,
+    "name": "7Bolt of Runecloth",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_purplefire_02",
+        "n": "Bolt of Runecloth",
+        "s": 197,
+        "t": 6,
+        "ti": 18401
+      },
+      {
+        "icon": "inv_box_02",
+        "n": "Mithril Bound Trunk",
+        "q": 1,
+        "t": 3,
+        "ti": 21228
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 37500,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14342,
+    "level": 55,
+    "name": "7Mooncloth",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_moonrag_01",
+        "n": "Mooncloth",
+        "s": 197,
+        "t": 6,
+        "ti": 18560
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 900000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15408,
+    "level": 55,
+    "name": "7Heavy Scorpid Scale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 89950,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15416,
+    "level": 55,
+    "name": "7Black Dragonscale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 183046,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4342,
+    "level": 50,
+    "name": "7Purple Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 652994,
+    "buyprice": 2500,
+    "sellprice": 625
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8170,
+    "level": 50,
+    "name": "7Rugged Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_02",
+        "n": "Rugged Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 22331
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 21600,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8171,
+    "level": 50,
+    "name": "7Rugged Hide",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 16185,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 14047,
+    "level": 50,
+    "name": "7Runecloth",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 3919,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14227,
+    "level": 50,
+    "name": "7Ironweb Spider Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 36250,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14256,
+    "level": 50,
+    "name": "7Felcloth",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "n": "Vi'el",
+        "t": 1,
+        "ti": 16015,
+        "z": 618
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 195000,
+    "buyprice": 8000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14341,
+    "level": 50,
+    "name": "7Rune Thread",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 19999,
+    "buyprice": 5000,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15407,
+    "level": 50,
+    "name": "7Cured Rugged Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pelt_bear_03",
+        "n": "Cured Rugged Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 19047
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 153846,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15412,
+    "level": 50,
+    "name": "7Green Dragonscale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 143324,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15415,
+    "level": 50,
+    "name": "7Blue Dragonscale",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 599998,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15417,
+    "level": 50,
+    "name": "7Devilsaur Leather",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 390000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15419,
+    "level": 50,
+    "name": "7Warbear Leather",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 2498750,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7075,
+    "level": 45,
+    "name": "7Core of Earth",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 604,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7077,
+    "level": 45,
+    "name": "7Heart of Fire",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1360,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7079,
+    "level": 45,
+    "name": "7Globe of Water",
+    "slot": 0,
+    "source": [
+      2,
+      16
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 24401,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7081,
+    "level": 45,
+    "name": "7Breath of Wind",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1350000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8154,
+    "level": 45,
+    "name": "7Scorpid Scale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 9900,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8165,
+    "level": 45,
+    "name": "7Worn Dragonscale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 166665,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 3864,
+    "level": 40,
+    "name": "6Citrine",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 32266,
+    "sellprice": 800
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7971,
+    "level": 40,
+    "name": "6Black Pearl",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 27600,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8153,
+    "level": 40,
+    "name": "6Wildvine",
+    "slot": 0,
+    "source": [
+      2,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 3903826,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2325,
+    "level": 40,
+    "name": "7Black Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 20000,
+    "buyprice": 1000,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4304,
+    "level": 40,
+    "name": "7Thick Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_08",
+        "n": "Thick Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 20650
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 28000,
+    "sellprice": 300
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 4338,
+    "level": 40,
+    "name": "7Mageweave Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 2174,
+    "buyprice": 1000,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8150,
+    "level": 40,
+    "name": "7Deeprock Salt",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 2437,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8169,
+    "level": 40,
+    "name": "7Thick Hide",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 9800,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8172,
+    "level": 40,
+    "name": "7Cured Thick Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pelt_bear_01",
+        "n": "Cured Thick Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 10482
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 102182,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8343,
+    "level": 40,
+    "name": "7Heavy Silken Thread",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 124024,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10285,
+    "level": 40,
+    "name": "7Shadow Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 910000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 1529,
+    "level": 35,
+    "name": "6Jade",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 26534,
+    "sellprice": 700
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4305,
+    "level": 35,
+    "name": "7Bolt of Silk Cloth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_silk_03",
+        "n": "Bolt of Silk Cloth",
+        "s": 197,
+        "t": 6,
+        "ti": 3839
+      },
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 45999,
+    "buyprice": 2400,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4337,
+    "level": 35,
+    "name": "7Thick Spider's Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 2600,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 5785,
+    "level": 35,
+    "name": "7Thick Murloc Scale",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 4500,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8167,
+    "level": 35,
+    "name": "7Turtle Scale",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 65919,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4234,
+    "level": 30,
+    "name": "7Heavy Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_07",
+        "n": "Heavy Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 20649
+      },
+      {
+        "n": "Murhane",
+        "t": 1,
+        "ti": 44286,
+        "z": 4709
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 49400,
+    "buyprice": 600,
+    "sellprice": 150
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4235,
+    "level": 30,
+    "name": "7Heavy Hide",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 90000,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4236,
+    "level": 30,
+    "name": "7Cured Heavy Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pelt_wolf_02",
+        "n": "Cured Heavy Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 3818
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 400458,
+    "sellprice": 225
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4291,
+    "level": 30,
+    "name": "7Silken Thread",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 10000,
+    "buyprice": 500,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4461,
+    "level": 30,
+    "name": "7Raptor Hide",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 9999,
+    "sellprice": 208
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 5637,
+    "level": 30,
+    "name": "7Large Fang",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 99500,
+    "sellprice": 75
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7071,
+    "level": 30,
+    "name": "7Iron Buckle",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_armorkit_12",
+        "n": "Iron Buckle",
+        "s": 164,
+        "t": 6,
+        "ti": 8768
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 200000,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 11291,
+    "level": 30,
+    "name": "7Star Wood",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 22800,
+    "buyprice": 4500,
+    "sellprice": 1125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 1206,
+    "level": 25,
+    "name": "6Moss Agate",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 145000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 5500,
+    "level": 25,
+    "name": "6Iridescent Pearl",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 50000,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2997,
+    "level": 25,
+    "name": "7Bolt of Woolen Cloth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_wool_03",
+        "n": "Bolt of Woolen Cloth",
+        "s": 197,
+        "t": 6,
+        "ti": 2964
+      },
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 26320,
+    "buyprice": 400,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4340,
+    "level": 25,
+    "name": "7Gray Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 288442,
+    "buyprice": 350,
+    "sellprice": 87
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7067,
+    "level": 25,
+    "name": "7Elemental Earth",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 38800,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7070,
+    "level": 25,
+    "name": "7Elemental Water",
+    "slot": 0,
+    "source": [
+      2,
+      16
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 7700,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3356,
+    "level": 24,
+    "name": "7Kingsblood",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 12305,
+    "buyprice": 120,
+    "reqskill": 773,
+    "reqskillrank": 1,
+    "sellprice": 30
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2319,
+    "level": 20,
+    "name": "7Medium Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_05",
+        "n": "Medium Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 20648
+      },
+      {
+        "n": "Murhane",
+        "t": 1,
+        "ti": 44286,
+        "z": 4709
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 25772,
+    "buyprice": 200,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2321,
+    "level": 20,
+    "name": "7Fine Thread",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 30000,
+    "buyprice": 100,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3182,
+    "level": 20,
+    "name": "7Spider's Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 410745,
+    "sellprice": 387
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4232,
+    "level": 20,
+    "name": "7Medium Hide",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Murhane",
+        "t": 1,
+        "ti": 44286,
+        "z": 4709
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 14400,
+    "buyprice": 500,
+    "sellprice": 125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4233,
+    "level": 20,
+    "name": "7Cured Medium Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pelt_bear_02",
+        "n": "Cured Medium Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 3817
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 49800,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 5498,
+    "level": 15,
+    "name": "6Small Lustrous Pearl",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 12100,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2605,
+    "level": 15,
+    "name": "7Green Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 259724,
+    "buyprice": 100,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 5784,
+    "level": 15,
+    "name": "7Slimy Murloc Scale",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 7400,
+    "sellprice": 75
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 783,
+    "level": 10,
+    "name": "7Light Hide",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 11974,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2318,
+    "level": 10,
+    "name": "7Light Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_03",
+        "n": "Light Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 2881
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 10600,
+    "sellprice": 15
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2604,
+    "level": 10,
+    "name": "7Red Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 22000,
+    "buyprice": 50,
+    "sellprice": 12
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2840,
+    "level": 10,
+    "name": "7Copper Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_02",
+        "n": "Smelt Copper",
+        "s": 186,
+        "t": 6,
+        "ti": 2657
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 24600,
+    "sellprice": 10
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4231,
+    "level": 10,
+    "name": "7Cured Light Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pelt_wolf_01",
+        "n": "Cured Light Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 3816
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 69999,
+    "sellprice": 110
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4289,
+    "level": 10,
+    "name": "7Salt",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 200000,
+    "buyprice": 50,
+    "sellprice": 12
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 5082,
+    "level": 10,
+    "name": "7Thin Kodo Leather",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 20000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2320,
+    "level": 5,
+    "name": "7Coarse Thread",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 12495,
+    "buyprice": 10,
+    "sellprice": 2
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2324,
+    "level": 5,
+    "name": "7Bleach",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 17699,
+    "buyprice": 25,
+    "sellprice": 6
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2934,
+    "level": 5,
+    "name": "7Ruined Leather Scraps",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 3684,
+    "reqskill": 393,
+    "reqskillrank": 1,
+    "sellprice": 7
+  },
+  {
+    "classs": 12,
+    "flags2": -2147475456,
+    "id": 12607,
+    "level": 1,
+    "name": "5Brilliant Chromatic Scale",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "n": "Chromaggus",
+        "t": 1,
+        "ti": 14020,
+        "z": 2677
+      }
+    ],
+    "subclass": 0,
+    "firstseenpatch": 0,
+    "avgbuyout": 63125,
+    "sellprice": 8048
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 18240,
+    "level": 1,
+    "name": "6Ogre Tannin",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "dd": -1,
+        "z": 2557
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 15,
+    "flags2": -2147475456,
+    "id": 5373,
+    "level": 1,
+    "name": "7Lucky Charm",
+    "slot": 0,
+    "source": [
+      2,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 345510,
+    "sellprice": 72,
+    "sheathtype": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 6470,
+    "level": 1,
+    "name": "7Deviate Scale",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 3480,
+    "sellprice": 20
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 6471,
+    "level": 1,
+    "name": "7Perfect Deviate Scale",
+    "slot": 0,
+    "source": [
+      2,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 16666,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7286,
+    "level": 1,
+    "name": "7Black Whelp Scale",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Ebon Whelp",
+        "t": 1,
+        "ti": 42042,
+        "z": 11
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 155336,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7392,
+    "level": 1,
+    "name": "7Green Whelp Scale",
+    "slot": 0,
+    "source": [
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Noxious Whelp",
+        "t": 1,
+        "ti": 39384,
+        "z": 357
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1399999,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17056,
+    "level": 1,
+    "name": "7Light Feather",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      21
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 26,
+    "sellprice": 7
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 160059,
+    "level": 1,
+    "name": "7Amber Tanning Oil",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 56,
+    "buyprice": 250,
+    "reqlevel": 1,
+    "sellprice": 62
+  }
+]

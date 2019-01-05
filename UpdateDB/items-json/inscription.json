@@ -1,0 +1,2214 @@
+[
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 165703,
+    "level": 120,
+    "name": "4Breath of Bwonsamdi",
+    "slot": 0,
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152510,
+    "level": 111,
+    "name": "6Anchor Weed",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_anchorweed",
+        "n": "Mass Mill Anchor Weed",
+        "s": 773,
+        "t": 6,
+        "ti": 256308
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 4625000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 153669,
+    "level": 111,
+    "name": "6Viridescent Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 2675000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 158189,
+    "level": 111,
+    "name": "6Viridescent Ink",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_80_viridescentink",
+        "n": "Viridescent Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 264778
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 1900000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152505,
+    "level": 111,
+    "name": "7Riverbud",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_riverbud",
+        "n": "Mass Mill Riverbud",
+        "s": 773,
+        "t": 6,
+        "ti": 256217
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 327500,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152506,
+    "level": 111,
+    "name": "7Star Moss",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_starmoss",
+        "n": "Mass Mill Star Moss",
+        "s": 773,
+        "t": 6,
+        "ti": 256218
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 237483,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152507,
+    "level": 111,
+    "name": "7Akunda's Bite",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_akundasbite",
+        "n": "Mass Mill Akunda's Bite",
+        "s": 773,
+        "t": 6,
+        "ti": 256219
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 317000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152508,
+    "level": 111,
+    "name": "7Winter's Kiss",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_winterskiss",
+        "n": "Mass Mill Winter's Kiss",
+        "s": 773,
+        "t": 6,
+        "ti": 256220
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 215837,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152509,
+    "level": 111,
+    "name": "7Siren's Pollen",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_pollen",
+        "n": "Mass Mill Siren's Pollen",
+        "s": 773,
+        "t": 6,
+        "ti": 256221
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 384150,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152511,
+    "level": 111,
+    "name": "7Sea Stalk",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16,
+      17
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_herb_seastalk",
+        "n": "Mass Mill Sea Stalk",
+        "s": 773,
+        "t": 6,
+        "ti": 256223
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 249000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 153635,
+    "level": 111,
+    "name": "7Ultramarine Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 4450,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 153636,
+    "level": 111,
+    "name": "7Crimson Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 103060,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 158187,
+    "level": 111,
+    "name": "7Ultramarine Ink",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_80_ultramarineink",
+        "n": "Ultramarine Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 264776
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 4390,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 158188,
+    "level": 111,
+    "name": "7Crimson Ink",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_80_crimsonink",
+        "n": "Crimson Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 264777
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 128700,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 124124,
+    "level": 110,
+    "name": "5Blood of Sargeras",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16,
+      17,
+      19,
+      23,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_blood-of-sargeras",
+        "n": "Transmute: Blood of Sargeras",
+        "s": 171,
+        "t": 6,
+        "ti": 213257
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "buyprice": 50000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 152668,
+    "level": 110,
+    "name": "5Expulsom",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 162460,
+    "level": 110,
+    "name": "5Hydrocore",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 165948,
+    "level": 110,
+    "name": "5Tidalcore",
+    "slot": 0,
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 129032,
+    "level": 110,
+    "name": "7Roseate Pigment",
+    "reqlevel": 102,
+    "slot": 0,
+    "source": [
+      1,
+      4,
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 107142,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 129034,
+    "level": 110,
+    "name": "7Sallow Pigment",
+    "slot": 0,
+    "source": [
+      1,
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 1099312,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124106,
+    "level": 101,
+    "name": "6Felwort",
+    "slot": 0,
+    "source": [
+      2,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 935999,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124101,
+    "level": 101,
+    "name": "7Aethril",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 72595,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124102,
+    "level": 101,
+    "name": "7Dreamleaf",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 100898,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124103,
+    "level": 101,
+    "name": "7Foxflower",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 132000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124104,
+    "level": 101,
+    "name": "7Fjarnskaggl",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      17
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 125982,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124105,
+    "level": 101,
+    "name": "7Starlight Rose",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 392384,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 128304,
+    "level": 101,
+    "name": "7Yseralline Seed",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17,
+      18
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_herbalism_70_yserallineseed",
+        "n": "Mass Mill Foxflower",
+        "s": 773,
+        "t": 6,
+        "ti": 209660
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 28007,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 151565,
+    "level": 101,
+    "name": "7Astral Glory",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "sourcemore": [
+      {
+        "n": "Maras",
+        "t": 1,
+        "ti": 129674
+      }
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 51020,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -1610604544,
+    "id": 127759,
+    "level": 100,
+    "name": "5Felblight",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      17,
+      19,
+      23
+    ],
+    "sourcemore": [
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 602475,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 112377,
+    "level": 100,
+    "name": "6War Paints",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "buyprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113261,
+    "level": 100,
+    "name": "6Sorcerous Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 16999,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113262,
+    "level": 100,
+    "name": "6Sorcerous Water",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 10198,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113264,
+    "level": 100,
+    "name": "6Sorcerous Air",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 12128,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 118472,
+    "level": 100,
+    "name": "6Savage Blood",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_boilingblood",
+        "n": "Transmute: Savage Blood",
+        "s": 171,
+        "t": 6,
+        "ti": 181643
+      },
+      {
+        "n": "Barn Work Order",
+        "t": 2,
+        "ti": 238761
+      },
+      {
+        "n": "Deathhoof",
+        "t": 23,
+        "ti": 402
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 548484,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475200,
+    "id": 120945,
+    "level": 100,
+    "name": "6Primal Spirit",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      17,
+      19,
+      23,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109118,
+    "level": 100,
+    "name": "7Blackrock Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 9543,
+    "sellprice": 350
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109124,
+    "level": 100,
+    "name": "7Frostweed",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 8343,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109125,
+    "level": 100,
+    "name": "7Fireweed",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 7937,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109126,
+    "level": 100,
+    "name": "7Gorgrond Flytrap",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 9375,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109127,
+    "level": 100,
+    "name": "7Starflower",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 7571,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109128,
+    "level": 100,
+    "name": "7Nagrand Arrowbloom",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 7495,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109129,
+    "level": 100,
+    "name": "7Talador Orchid",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 7580,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113111,
+    "level": 100,
+    "name": "7Warbinder's Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkcerulean02",
+        "n": "Warbinder's Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 178497
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 60000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 114931,
+    "level": 100,
+    "name": "7Cerulean Pigment",
+    "slot": 0,
+    "source": [
+      1,
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 51874,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76061,
+    "level": 90,
+    "name": "5Spirit of Harmony",
+    "reqlevel": 85,
+    "slot": 0,
+    "source": [
+      2,
+      3,
+      4
+    ],
+    "sourcemore": [
+      {
+        "p": 3
+      },
+      {
+        "c": 6661,
+        "c2": 12,
+        "n": "Many More Giant Dinosaur Bones",
+        "t": 5,
+        "ti": 32615
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1905000,
+    "buyprice": 9999999
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 79253,
+    "level": 86,
+    "name": "6Misty Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 291000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 79255,
+    "level": 86,
+    "name": "6Starlight Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_ink_starlight",
+        "n": "Starlight Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 111646
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 165500,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72096,
+    "level": 86,
+    "name": "7Ghost Iron Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_ghostiron",
+        "n": "Smelt Ghost Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 102165
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 251000,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 79251,
+    "level": 86,
+    "name": "7Shadow Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 63000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 79254,
+    "level": 86,
+    "name": "7Ink of Dreams",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_ink_dreams",
+        "n": "Ink of Dreams",
+        "s": 773,
+        "t": 6,
+        "ti": 111645
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 141091,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 79731,
+    "level": 85,
+    "name": "5Scroll of Wisdom",
+    "reqlevel": 85,
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      4
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_scrollofwisdom_02",
+        "n": "Scroll of Wisdom",
+        "s": 773,
+        "t": 6,
+        "ti": 112996
+      },
+      {
+        "n": "Ancient Guo-Lai Cache",
+        "t": 2,
+        "ti": 214388,
+        "z": 5840
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 61981,
+    "level": 85,
+    "name": "6Inferno Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkred03",
+        "n": "Inferno Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 86005
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 270733,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 67319,
+    "level": 85,
+    "name": "7Preserved Ogre Eye",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_box_04",
+        "n": "Flame-Scarred Junkbox",
+        "q": 1,
+        "t": 3,
+        "ti": 63349
+      },
+      {
+        "z": 4922
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 1698300,
+    "buyprice": 328990,
+    "sellprice": 8224
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 67335,
+    "level": 85,
+    "name": "7Silver Charm Bracelet",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_box_04",
+        "n": "Flame-Scarred Junkbox",
+        "q": 1,
+        "t": 3,
+        "ti": 63349
+      },
+      {
+        "z": 4922
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 384000,
+    "buyprice": 445561,
+    "sellprice": 11139
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72237,
+    "level": 85,
+    "name": "7Rain Poppy",
+    "slot": 0,
+    "source": [
+      2,
+      17,
+      23
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 6200,
+    "reqskill": 773,
+    "reqskillrank": 1,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52325,
+    "level": 83,
+    "name": "7Volatile Fire",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 379000,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52326,
+    "level": 83,
+    "name": "7Volatile Water",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 489997,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52327,
+    "level": 83,
+    "name": "7Volatile Earth",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 80800,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52328,
+    "level": 83,
+    "name": "7Volatile Air",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 177680,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52329,
+    "level": 83,
+    "name": "7Volatile Life",
+    "slot": 0,
+    "source": [
+      2,
+      17
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 164975,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 61980,
+    "level": 81,
+    "name": "6Burning Embers",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 389997,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 61978,
+    "level": 81,
+    "name": "7Blackfallow Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkblack03",
+        "n": "Blackfallow Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 86004
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 189207,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 61979,
+    "level": 81,
+    "name": "7Ashen Pigment",
+    "slot": 0,
+    "source": [
+      16,
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 365401,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 62323,
+    "level": 81,
+    "name": "7Deathwing Scale Fragment",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_box_04",
+        "n": "Flame-Scarred Junkbox",
+        "q": 1,
+        "t": 3,
+        "ti": 63349
+      },
+      {
+        "z": 4922
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 1424998,
+    "buyprice": 60000,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147458816,
+    "id": 43102,
+    "level": 80,
+    "name": "5Frozen Orb",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "dd": -2,
+        "n": "The Captain's Chest",
+        "t": 2,
+        "ti": 201710,
+        "z": 4820
+      },
+      {
+        "bd": 1,
+        "z": 4395
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 512820,
+    "buyprice": 750000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43109,
+    "level": 80,
+    "name": "6Icy Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 259856,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35625,
+    "level": 75,
+    "name": "6Eternal Life",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_misc_bag_18",
+        "n": "Alchemist's Cache",
+        "q": 3,
+        "t": 3,
+        "ti": 46110
+      },
+      {
+        "bd": 1,
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 216900,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35627,
+    "level": 75,
+    "name": "6Eternal Shadow",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 403498,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43108,
+    "level": 70,
+    "name": "6Ebon Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 1000000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43127,
+    "level": 70,
+    "name": "6Snowfall Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkbluewhite01",
+        "n": "Snowfall Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57716
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 280000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39343,
+    "level": 70,
+    "name": "7Azure Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 120074,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43126,
+    "level": 70,
+    "name": "7Ink of the Sea",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkpurple01",
+        "n": "Ink of the Sea",
+        "s": 773,
+        "t": 6,
+        "ti": 57715
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 87400,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21886,
+    "level": 65,
+    "name": "6Primal Life",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_life",
+        "n": "Transmute: Primal Earth to Life",
+        "s": 171,
+        "t": 6,
+        "ti": 28585
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1250000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43107,
+    "level": 60,
+    "name": "6Sapphire Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 50000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43125,
+    "level": 60,
+    "name": "6Darkflame Ink",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkblack04",
+        "n": "Darkflame Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57714
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 43500,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39342,
+    "level": 60,
+    "name": "7Nether Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 150000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43124,
+    "level": 60,
+    "name": "7Ethereal Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkblack02",
+        "n": "Ethereal Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57713
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 199999,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43106,
+    "level": 50,
+    "name": "6Ruby Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 1120000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43123,
+    "level": 50,
+    "name": "6Ink of the Sky",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkbluewhite03",
+        "n": "Ink of the Sky",
+        "s": 773,
+        "t": 6,
+        "ti": 57712
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 70000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39341,
+    "level": 50,
+    "name": "7Silvery Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 100000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43122,
+    "level": 50,
+    "name": "7Shimmering Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inksilver01",
+        "n": "Shimmering Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57711
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 130000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43105,
+    "level": 40,
+    "name": "6Indigo Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 30000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43121,
+    "level": 40,
+    "name": "6Fiery Ink",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkred01",
+        "n": "Fiery Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57710
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 133333,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39340,
+    "level": 40,
+    "name": "7Violet Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 150000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43120,
+    "level": 40,
+    "name": "7Celestial Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkpurple03",
+        "n": "Celestial Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57709
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 110169,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43104,
+    "level": 30,
+    "name": "6Burnt Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 255000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43119,
+    "level": 30,
+    "name": "6Royal Ink",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkpurple04",
+        "n": "Royal Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57708
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 27500,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39339,
+    "level": 30,
+    "name": "7Emerald Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 700186,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43118,
+    "level": 30,
+    "name": "7Jadefire Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkgreen03",
+        "n": "Jadefire Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57707
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 147000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43103,
+    "level": 20,
+    "name": "6Verdant Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 100000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43117,
+    "level": 20,
+    "name": "6Dawnstar Ink",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkyellow04",
+        "n": "Dawnstar Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57706
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 100000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39338,
+    "level": 20,
+    "name": "7Golden Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 225000,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43116,
+    "level": 20,
+    "name": "7Lion's Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkyellow02",
+        "n": "Lion's Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57704
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 95061,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 43115,
+    "level": 10,
+    "name": "6Hunter's Ink",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkgreen02",
+        "n": "Hunter's Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 57703
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 34799,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39334,
+    "level": 10,
+    "name": "7Dusky Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 139500,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39774,
+    "level": 10,
+    "name": "7Midnight Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkblack01",
+        "n": "Midnight Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 53462
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 79200,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4470,
+    "level": 5,
+    "name": "7Simple Wood",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 4750,
+    "buyprice": 38,
+    "sellprice": 9
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3371,
+    "level": 1,
+    "name": "7Crystal Vial",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 20374,
+    "buyprice": 150,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39151,
+    "level": 1,
+    "name": "7Alabaster Pigment",
+    "slot": 0,
+    "source": [
+      18
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 149600,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39354,
+    "level": 1,
+    "name": "7Light Parchment",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 14800,
+    "buyprice": 15,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39469,
+    "level": 1,
+    "name": "7Moonglow Ink",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_inscription_inkwhite02",
+        "n": "Moonglow Ink",
+        "s": 773,
+        "t": 6,
+        "ti": 52843
+      }
+    ],
+    "subclass": 16,
+    "firstseenpatch": 0,
+    "avgbuyout": 324758,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 158186,
+    "level": 1,
+    "name": "7Distilled Water",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 9596,
+    "buyprice": 250,
+    "reqlevel": 1,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 158205,
+    "level": 1,
+    "name": "7Acacia Powder",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 14057,
+    "buyprice": 1000,
+    "sellprice": 250
+  }
+]

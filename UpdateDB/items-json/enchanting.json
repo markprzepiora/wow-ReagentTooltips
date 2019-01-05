@@ -1,0 +1,1060 @@
+[
+  {
+    "classs": 7,
+    "flags2": 8192,
+    "id": 152882,
+    "level": 120,
+    "name": "4Runed Norgal Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124442,
+    "level": 110,
+    "name": "4Chaos Crystal",
+    "slot": 0,
+    "source": [
+      2,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152877,
+    "level": 110,
+    "name": "4Veiled Crystal",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152876,
+    "level": 110,
+    "name": "5Umbra Shard",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_80_umbrashard",
+        "n": "Veiled Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 290361
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124440,
+    "level": 110,
+    "name": "7Arkhana",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_70_arkhana",
+        "n": "Ley Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 224199
+      },
+      {
+        "n": "Illnea Bloodthorn",
+        "t": 1,
+        "ti": 115264,
+        "z": 7502
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152875,
+    "level": 110,
+    "name": "7Gloom Dust",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_80_shadowdust",
+        "n": "Umbra Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 290360
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124441,
+    "level": 110,
+    "name": "5Leylight Shard",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_70_leylightcrystal",
+        "n": "Chaos Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 252106
+      },
+      {
+        "n": "Illnea Bloodthorn",
+        "t": 1,
+        "ti": 115264,
+        "z": 7502
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 111245,
+    "level": 100,
+    "name": "5Luminous Shard",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_wod_crystalshard3",
+        "n": "Luminous Shard",
+        "s": 333,
+        "t": 6,
+        "ti": 169091
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109693,
+    "level": 100,
+    "name": "7Draenic Dust",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113588,
+    "level": 100,
+    "name": "4Temporal Crystal",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 115504,
+    "level": 95,
+    "name": "4Fractured Temporal Crystal",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      4,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchanting_wod_crystalshard4",
+        "n": "Temporal Binding",
+        "s": 333,
+        "t": 6,
+        "ti": 182129
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 115502,
+    "level": 95,
+    "name": "5Small Luminous Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 102218,
+    "level": 90,
+    "name": "5Spirit of War",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 80433,
+    "level": 90,
+    "name": "5Blood Spirit",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "z": 6507
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 74247,
+    "level": 90,
+    "name": "5Ethereal Shard",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 94289,
+    "level": 90,
+    "name": "5Haunting Spirit",
+    "slot": 0,
+    "source": [
+      2,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 74248,
+    "level": 90,
+    "name": "4Sha Crystal",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_crystalepic2",
+        "n": "Sha Crystal",
+        "s": 333,
+        "t": 6,
+        "ti": 116499
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 74250,
+    "level": 87,
+    "name": "6Mysterious Essence",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 74252,
+    "level": 87,
+    "name": "5Small Ethereal Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 74249,
+    "level": 86,
+    "name": "7Spirit Dust",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_powder_copper",
+        "n": "Mysterious Diffusion",
+        "s": 333,
+        "t": 6,
+        "ti": 118237
+      },
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52722,
+    "level": 85,
+    "name": "4Maelstrom Crystal",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 52723,
+    "level": 85,
+    "name": "5Runed Elementium Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52721,
+    "level": 85,
+    "name": "5Heavenly Shard",
+    "slot": 0,
+    "source": [
+      1,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_largeshard_superior",
+        "n": "Maelstrom Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 104698
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52720,
+    "level": 85,
+    "name": "5Small Heavenly Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": 8192,
+    "id": 105718,
+    "level": 85,
+    "name": "4Sha Crystal Fragment",
+    "slot": 0,
+    "source": [
+      2,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52719,
+    "level": 83,
+    "name": "6Greater Celestial Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52718,
+    "level": 81,
+    "name": "6Lesser Celestial Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52555,
+    "level": 81,
+    "name": "7Hypnotic Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 44452,
+    "level": 81,
+    "name": "5Runed Titanium Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34052,
+    "level": 80,
+    "name": "5Dream Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": 8192,
+    "id": 89738,
+    "level": 80,
+    "name": "6Essence or Dust",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_shaman_spectraltransformation",
+        "n": "Abyssal Shatter",
+        "s": 333,
+        "t": 6,
+        "ti": 69412
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34057,
+    "level": 80,
+    "name": "4Abyss Crystal",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34053,
+    "level": 80,
+    "name": "5Small Dream Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34055,
+    "level": 75,
+    "name": "6Greater Cosmic Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 25845,
+    "level": 75,
+    "name": "8Eternium Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22450,
+    "level": 70,
+    "name": "4Void Crystal",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 41741,
+    "level": 70,
+    "name": "8Cobalt Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 41745,
+    "level": 70,
+    "name": "8Titanium Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34054,
+    "level": 70,
+    "name": "7Infinite Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22449,
+    "level": 70,
+    "name": "5Large Prismatic Shard",
+    "slot": 0,
+    "source": [
+      1,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 25844,
+    "level": 70,
+    "name": "8Adamantite Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34056,
+    "level": 70,
+    "name": "6Lesser Cosmic Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22448,
+    "level": 65,
+    "name": "5Small Prismatic Shard",
+    "slot": 0,
+    "source": [
+      1,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchant_shardprismaticsmall",
+        "n": "Small Prismatic Shard",
+        "s": 333,
+        "t": 6,
+        "ti": 42615
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22446,
+    "level": 65,
+    "name": "6Greater Planar Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 22462,
+    "level": 61,
+    "name": "5Runed Adamantite Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 22461,
+    "level": 61,
+    "name": "5Runed Fel Iron Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 22463,
+    "level": 61,
+    "name": "5Runed Eternium Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22445,
+    "level": 60,
+    "name": "7Arcane Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 25843,
+    "level": 60,
+    "name": "8Fel Iron Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22447,
+    "level": 60,
+    "name": "6Lesser Planar Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 16207,
+    "level": 58,
+    "name": "5Runed Arcanite Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 156930,
+    "level": 55,
+    "name": "7Rich Illusion Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14344,
+    "level": 55,
+    "name": "5Large Brilliant Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 16206,
+    "level": 55,
+    "name": "8Arcanite Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 16203,
+    "level": 55,
+    "name": "6Greater Eternal Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 16204,
+    "level": 50,
+    "name": "7Light Illusion Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 16202,
+    "level": 50,
+    "name": "6Lesser Eternal Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14343,
+    "level": 50,
+    "name": "5Small Brilliant Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 11144,
+    "level": 40,
+    "name": "8Truesilver Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 11145,
+    "level": 40,
+    "name": "5Runed Truesilver Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 11128,
+    "level": 30,
+    "name": "8Golden Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 11130,
+    "level": 30,
+    "name": "5Runed Golden Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "flags2": 8192,
+    "id": 6339,
+    "level": 20,
+    "name": "5Runed Silver Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "attainable": 2,
+    "classs": 7,
+    "commondrop": true,
+    "flags2": 8192,
+    "id": 6338,
+    "level": 20,
+    "name": "8Silver Rod",
+    "slot": 0,
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10939,
+    "level": 15,
+    "name": "6Greater Magic Essence",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10940,
+    "level": 10,
+    "name": "7Strange Dust",
+    "slot": 0,
+    "source": [
+      5,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10938,
+    "level": 10,
+    "name": "6Lesser Magic Essence",
+    "slot": 0,
+    "source": [
+      5,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": 8192,
+    "id": 6218,
+    "level": 5,
+    "name": "7Runed Copper Rod",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_staff_goldfeathered_01",
+        "n": "Runed Copper Rod",
+        "s": 333,
+        "t": 6,
+        "ti": 7421
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": 8192,
+    "id": 6217,
+    "level": 5,
+    "name": "7Copper Rod",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0
+  }
+]

@@ -1,0 +1,6151 @@
+[
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 165703,
+    "level": 120,
+    "name": "4Breath of Bwonsamdi",
+    "slot": 0,
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 161131,
+    "level": 120,
+    "name": "5Barely Stable Azerite Reactor",
+    "reqlevel": 110,
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "sourcemore": [
+      {
+        "n": "Dr. Wrenchly von Boom",
+        "t": 1,
+        "ti": 140319,
+        "z": 8064
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "buyprice": 300000000,
+    "maxcount": 1,
+    "sellprice": 75000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 161132,
+    "level": 120,
+    "name": "5Crush Resistant Stabilizer",
+    "reqlevel": 120,
+    "slot": 0,
+    "source": [
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 8064
+      },
+      {
+        "z": 8064
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "reqskill": 202,
+    "reqskillrank": 1,
+    "sellprice": 25000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 161136,
+    "level": 120,
+    "name": "5Azerite Forged Protection Plating",
+    "reqlevel": 120,
+    "slot": 0,
+    "source": [
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 8064
+      },
+      {
+        "z": 8064
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "reqskill": 202,
+    "reqskillrank": 1,
+    "sellprice": 25000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 161137,
+    "level": 120,
+    "name": "5Blast-Fired Electric Servomotor",
+    "reqlevel": 120,
+    "slot": 0,
+    "source": [
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 8064
+      },
+      {
+        "z": 8064
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "reqskill": 202,
+    "reqskillrank": 1,
+    "sellprice": 25000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152513,
+    "level": 111,
+    "name": "6Platinum Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 312000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152512,
+    "level": 111,
+    "name": "7Monelite Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      23
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 379800,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 152579,
+    "level": 111,
+    "name": "7Storm Silver Ore",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      23
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 354545,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 162461,
+    "level": 110,
+    "name": "4Sanguicell",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 9389
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 124124,
+    "level": 110,
+    "name": "5Blood of Sargeras",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16,
+      17,
+      19,
+      23,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_blood-of-sargeras",
+        "n": "Transmute: Blood of Sargeras",
+        "s": 171,
+        "t": 6,
+        "ti": 213257
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "buyprice": 50000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 130178,
+    "level": 110,
+    "name": "5Furystone",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 6878300,
+    "reqlevel": 1,
+    "sellprice": 25000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 151568,
+    "level": 110,
+    "name": "5Primal Sargerite",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      17,
+      19,
+      23,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_primalsargerite",
+        "n": "Transmute: Primal Sargerite",
+        "s": 171,
+        "t": 6,
+        "ti": 247701
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 152668,
+    "level": 110,
+    "name": "5Expulsom",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 162460,
+    "level": 110,
+    "name": "5Hydrocore",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 163203,
+    "level": 110,
+    "name": "5Hypersensitive Azeritometer Sensor",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 15089999,
+    "buyprice": 50000000,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475392,
+    "id": 165948,
+    "level": 110,
+    "name": "5Tidalcore",
+    "slot": 0,
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124116,
+    "level": 110,
+    "name": "6Felhide",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1835000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124444,
+    "level": 110,
+    "name": "6Infernal Brimstone",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 983996,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 127004,
+    "level": 110,
+    "name": "7Imbued Silkweave",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_tailoring_70_silkweaveimbued",
+        "n": "Imbued Silkweave",
+        "s": 197,
+        "t": 6,
+        "ti": 185962
+      },
+      {
+        "icon": "inv_misc_coinbag13",
+        "n": "Wyrmtongue Cache of Finery",
+        "q": 3,
+        "t": 3,
+        "ti": 153119
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 122999,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 151564,
+    "level": 110,
+    "name": "7Empyrium",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_starmetal",
+        "n": "Mass Prospect Empyrium",
+        "s": 755,
+        "t": 6,
+        "ti": 247761
+      },
+      {
+        "n": "Maras",
+        "t": 1,
+        "ti": 129674
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 32000,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 123919,
+    "level": 105,
+    "name": "7Felslate",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_felslate",
+        "n": "Mass Prospect Felslate",
+        "s": 755,
+        "t": 6,
+        "ti": 225904
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 241862,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124461,
+    "level": 105,
+    "name": "7Demonsteel Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_blacksmithing_70_demonsteelbar",
+        "n": "Demonsteel Bar",
+        "s": 164,
+        "t": 6,
+        "ti": 184442
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 877897,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124106,
+    "level": 101,
+    "name": "6Felwort",
+    "slot": 0,
+    "source": [
+      2,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 935999,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124109,
+    "level": 101,
+    "name": "7Highmountain Salmon",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16
+    ],
+    "sourcemore": [
+      {
+        "z": 7503
+      },
+      {
+        "z": 7503
+      }
+    ],
+    "subclass": 8,
+    "firstseenpatch": 0,
+    "avgbuyout": 142000,
+    "buyprice": 25000,
+    "sellprice": 625
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124112,
+    "level": 101,
+    "name": "7Black Barracuda",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16
+    ],
+    "subclass": 8,
+    "firstseenpatch": 0,
+    "avgbuyout": 117497,
+    "buyprice": 25000,
+    "sellprice": 625
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124119,
+    "level": 101,
+    "name": "7Big Gamy Ribs",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 8,
+    "firstseenpatch": 0,
+    "avgbuyout": 57685,
+    "buyprice": 1200,
+    "sellprice": 30
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124121,
+    "level": 101,
+    "name": "7Wildfowl Egg",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 8,
+    "firstseenpatch": 0,
+    "avgbuyout": 1150,
+    "buyprice": 1200,
+    "sellprice": 30
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113588,
+    "level": 100,
+    "name": "4Temporal Crystal",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 476995
+  },
+  {
+    "classs": 7,
+    "flags2": -1610604544,
+    "id": 127759,
+    "level": 100,
+    "name": "5Felblight",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      17,
+      19,
+      23
+    ],
+    "sourcemore": [
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      },
+      {
+        "z": 6723
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 602475,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 111366,
+    "level": 100,
+    "name": "6Gearspring Parts",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "buyprice": 500000,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113261,
+    "level": 100,
+    "name": "6Sorcerous Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 16999,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113262,
+    "level": 100,
+    "name": "6Sorcerous Water",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 10198,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 113263,
+    "level": 100,
+    "name": "6Sorcerous Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "sourcemore": [
+      {
+        "n": "Dead Calm",
+        "t": 23,
+        "ti": 544
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 59300,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 118472,
+    "level": 100,
+    "name": "6Savage Blood",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      25
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_boilingblood",
+        "n": "Transmute: Savage Blood",
+        "s": 171,
+        "t": 6,
+        "ti": 181643
+      },
+      {
+        "n": "Barn Work Order",
+        "t": 2,
+        "ti": 238761
+      },
+      {
+        "n": "Deathhoof",
+        "t": 23,
+        "ti": 402
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 548484,
+    "buyprice": 4000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475200,
+    "id": 120945,
+    "level": 100,
+    "name": "6Primal Spirit",
+    "reqlevel": 90,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      17,
+      19,
+      23,
+      25
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109118,
+    "level": 100,
+    "name": "7Blackrock Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 9543,
+    "sellprice": 350
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109119,
+    "level": 100,
+    "name": "7True Iron Ore",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 21800,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 109128,
+    "level": 100,
+    "name": "7Nagrand Arrowbloom",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 7495,
+    "buyprice": 9848,
+    "sellprice": 2462
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 123918,
+    "level": 100,
+    "name": "7Leystone Ore",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_leystone",
+        "n": "Mass Prospect Leystone",
+        "s": 755,
+        "t": 6,
+        "ti": 225902
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 91575,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124113,
+    "level": 100,
+    "name": "7Stonehide Leather",
+    "reqlevel": 98,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      21,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": -182,
+        "c2": 5,
+        "n": "Skin Deep",
+        "t": 5,
+        "ti": 39958
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 39402,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 124115,
+    "level": 100,
+    "name": "7Stormscale",
+    "reqlevel": 98,
+    "slot": 0,
+    "source": [
+      2,
+      4,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": -182,
+        "c2": 5,
+        "n": "Skin Deep",
+        "t": 5,
+        "ti": 39958
+      },
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 57419,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 124437,
+    "level": 100,
+    "name": "7Shal'dorei Silk",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      21
+    ],
+    "sourcemore": [
+      {
+        "z": 7502
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 27575,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76061,
+    "level": 90,
+    "name": "5Spirit of Harmony",
+    "reqlevel": 85,
+    "slot": 0,
+    "source": [
+      2,
+      3,
+      4
+    ],
+    "sourcemore": [
+      {
+        "p": 3
+      },
+      {
+        "c": 6661,
+        "c2": 12,
+        "n": "Many More Giant Dinosaur Bones",
+        "t": 5,
+        "ti": 32615
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1905000,
+    "buyprice": 9999999
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76131,
+    "level": 90,
+    "name": "5Primordial Ruby",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19,
+      20
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gem_x4_rare_uncut_red",
+        "n": "Transmute: Primordial Ruby",
+        "s": 171,
+        "t": 6,
+        "ti": 114784
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 1550000,
+    "sellprice": 35000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76132,
+    "level": 90,
+    "name": "5Primal Diamond",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 1570000,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76138,
+    "level": 90,
+    "name": "5River's Heart",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19,
+      20
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gem_x4_rare_uncut_blue",
+        "n": "Transmute: River's Heart",
+        "s": 171,
+        "t": 6,
+        "ti": 114766
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 1269990,
+    "sellprice": 35000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76139,
+    "level": 90,
+    "name": "5Wild Jade",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19,
+      20
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gem_x4_rare_uncut_green",
+        "n": "Transmute: Wild Jade",
+        "s": 171,
+        "t": 6,
+        "ti": 114767
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 1650000,
+    "sellprice": 35000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76140,
+    "level": 90,
+    "name": "5Vermilion Onyx",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19,
+      20
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gem_x4_rare_uncut_orange",
+        "n": "Transmute: Vermilion Onyx",
+        "s": 171,
+        "t": 6,
+        "ti": 114776
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 542987,
+    "sellprice": 35000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76142,
+    "level": 90,
+    "name": "5Sun's Radiance",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19,
+      20
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gem_x4_rare_uncut_yellow",
+        "n": "Transmute: Sun's Radiance",
+        "s": 171,
+        "t": 6,
+        "ti": 114778
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 1200000,
+    "sellprice": 35000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 83092,
+    "level": 90,
+    "name": "5Orb of Mystery",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "sourcemore": [
+      {
+        "n": "Big Keech",
+        "t": 1,
+        "ti": 61650,
+        "z": 5840
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 10005000,
+    "buyprice": 200000000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 94113,
+    "level": 90,
+    "name": "5Jard's Peculiar Energy Source",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_battery_01",
+        "n": "Jard's Peculiar Energy Source",
+        "s": 202,
+        "t": 6,
+        "ti": 139176
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72095,
+    "level": 90,
+    "name": "6Trillium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 1742400,
+    "sellprice": 4200
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147459072,
+    "id": 111557,
+    "level": 90,
+    "name": "7Sumptuous Fur",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 25833,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72104,
+    "level": 88,
+    "name": "6Living Steel",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 13260000,
+    "sellprice": 3600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72093,
+    "level": 88,
+    "name": "7Kyparite",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 29000,
+    "reqskill": 2520,
+    "reqskillrank": 25,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 76133,
+    "level": 87,
+    "name": "6Lapis Lazuli",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 143500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72096,
+    "level": 86,
+    "name": "7Ghost Iron Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_ghostiron",
+        "n": "Smelt Ghost Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 102165
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 251000,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 72988,
+    "level": 86,
+    "name": "7Windwool Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      21
+    ],
+    "sourcemore": [
+      {
+        "z": 5840
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 6151,
+    "sellprice": 1750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 77467,
+    "level": 86,
+    "name": "7Ghost Iron Bolts",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_40",
+        "n": "Ghost Iron Bolts",
+        "s": 202,
+        "t": 6,
+        "ti": 127113
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 647999,
+    "sellprice": 3125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 77468,
+    "level": 86,
+    "name": "7High-Explosive Gunpowder",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_41",
+        "n": "High-Explosive Gunpowder",
+        "s": 202,
+        "t": 6,
+        "ti": 127114
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 250000,
+    "sellprice": 3125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475200,
+    "id": 52078,
+    "level": 85,
+    "name": "5Chaos Orb",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 285000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 58480,
+    "level": 85,
+    "name": "6Truegold",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_truegold",
+        "n": "Transmute: Truegold",
+        "s": 171,
+        "t": 6,
+        "ti": 80243
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 14380000,
+    "sellprice": 23100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52190,
+    "level": 84,
+    "name": "5Inferno Ruby",
+    "reqlevel": 83,
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 254816,
+    "sellprice": 32000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52191,
+    "level": 84,
+    "name": "5Ocean Sapphire",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 179999,
+    "sellprice": 32000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52192,
+    "level": 84,
+    "name": "5Dream Emerald",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 160000,
+    "sellprice": 32000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52186,
+    "level": 83,
+    "name": "7Elementium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pyriumbar",
+        "n": "Smelt Elementium",
+        "s": 186,
+        "t": 6,
+        "ti": 74530
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 105555,
+    "sellprice": 5400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52325,
+    "level": 83,
+    "name": "7Volatile Fire",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 379000,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52327,
+    "level": 83,
+    "name": "7Volatile Earth",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 80800,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52328,
+    "level": 83,
+    "name": "7Volatile Air",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 177680,
+    "sellprice": 875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 53039,
+    "level": 83,
+    "name": "7Hardened Elementium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_ebonsteelbar",
+        "n": "Smelt Hardened Elementium",
+        "s": 186,
+        "t": 6,
+        "ti": 74537
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 1890000,
+    "sellprice": 10800
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52179,
+    "level": 81,
+    "name": "6Alicite",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_ore_khorium",
+        "n": "Crystalline Geode",
+        "q": 4,
+        "t": 3,
+        "ti": 78890
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 43999,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52181,
+    "level": 81,
+    "name": "6Hessonite",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_ore_khorium",
+        "n": "Crystalline Geode",
+        "q": 4,
+        "t": 3,
+        "ti": 78890
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 60999,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52182,
+    "level": 81,
+    "name": "6Jasper",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_ore_khorium",
+        "n": "Crystalline Geode",
+        "q": 4,
+        "t": 3,
+        "ti": 78890
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 49154,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 52976,
+    "level": 81,
+    "name": "7Savage Leather",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "item_savageleather",
+        "n": "Savage Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 84950
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 41634,
+    "sellprice": 425
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 53010,
+    "level": 81,
+    "name": "7Embersilk Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      16
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 16720,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 54849,
+    "level": 81,
+    "name": "7Obsidium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_stone_15",
+        "n": "Smelt Obsidium",
+        "s": 186,
+        "t": 6,
+        "ti": 84038
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 194444,
+    "dmgrange": 0.6,
+    "sellprice": 4800,
+    "sheathtype": 3,
+    "speed": 2.6
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 60224,
+    "level": 81,
+    "name": "7Handful of Obsidium Bolts",
+    "slot": 0,
+    "source": [
+      1,
+      22,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_33",
+        "n": "Handful of Obsidium Bolts",
+        "s": 202,
+        "t": 6,
+        "ti": 84403
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 297669,
+    "sellprice": 2375
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 62778,
+    "level": 81,
+    "name": "7Toughened Flesh",
+    "slot": 0,
+    "source": [
+      2,
+      16
+    ],
+    "subclass": 8,
+    "firstseenpatch": 0,
+    "avgbuyout": 8699,
+    "sellprice": 248
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 67749,
+    "level": 81,
+    "name": "7Electrified Ether",
+    "slot": 0,
+    "source": [
+      1,
+      22,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_electrifiedether",
+        "n": "Electrified Ether",
+        "s": 202,
+        "t": 6,
+        "ti": 94748
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 478000,
+    "sellprice": 2375
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36922,
+    "level": 80,
+    "name": "4King's Amber",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      20
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_jewelcrafting_gem_36",
+        "n": "Transmute: King's Amber",
+        "s": 171,
+        "t": 6,
+        "ti": 66660
+      }
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 6880000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 34052,
+    "level": 80,
+    "name": "5Dream Shard",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 457000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36918,
+    "level": 80,
+    "name": "5Scarlet Ruby",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 194437,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36921,
+    "level": 80,
+    "name": "5Autumn's Glow",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 470000,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36924,
+    "level": 80,
+    "name": "5Sky Sapphire",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 61625,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36927,
+    "level": 80,
+    "name": "5Twilight Opal",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 106773,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36930,
+    "level": 80,
+    "name": "5Monarch Topaz",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 3269500,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36933,
+    "level": 80,
+    "name": "5Forest Emerald",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 100000,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147458816,
+    "id": 43102,
+    "level": 80,
+    "name": "5Frozen Orb",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "dd": -2,
+        "n": "The Captain's Chest",
+        "t": 2,
+        "ti": 201710,
+        "z": 4820
+      },
+      {
+        "bd": 1,
+        "z": 4395
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 512820,
+    "buyprice": 750000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 44499,
+    "level": 80,
+    "name": "5Salvaged Iron Golem Parts",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 12000000,
+    "buyprice": 30000000,
+    "reqskill": 202,
+    "reqskillrank": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 44500,
+    "level": 80,
+    "name": "5Elementium-Plated Exhaust Pipe",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 50000,
+    "buyprice": 15000000,
+    "reqskill": 202,
+    "reqskillrank": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 44501,
+    "level": 80,
+    "name": "5Goblin-Machined Piston",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 3107400,
+    "buyprice": 10000000,
+    "reqskill": 202,
+    "reqskillrank": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37663,
+    "level": 80,
+    "name": "6Titansteel Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_titansteel_blue",
+        "n": "Smelt Titansteel",
+        "s": 186,
+        "t": 6,
+        "ti": 55208
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 14900000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 41163,
+    "level": 80,
+    "name": "6Titanium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 3500000,
+    "sellprice": 4200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36913,
+    "level": 80,
+    "name": "7Saronite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_yoggthorite",
+        "n": "Smelt Saronite",
+        "s": 186,
+        "t": 6,
+        "ti": 49258
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 391500,
+    "sellprice": 3600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 38425,
+    "level": 80,
+    "name": "7Heavy Borean Leather",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_19",
+        "n": "Heavy Borean Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 50936
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 330000,
+    "sellprice": 13500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 40533,
+    "level": 80,
+    "name": "7Walnut Stock",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 50000,
+    "buyprice": 50000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 44128,
+    "level": 75,
+    "name": "5Arctic Fur",
+    "slot": 0,
+    "source": [
+      5,
+      23
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 497000,
+    "buyprice": 120000,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35622,
+    "level": 75,
+    "name": "6Eternal Water",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 730000,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35623,
+    "level": 75,
+    "name": "6Eternal Air",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 4273
+      },
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 237500,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35624,
+    "level": 75,
+    "name": "6Eternal Earth",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 156223,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35625,
+    "level": 75,
+    "name": "6Eternal Life",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_misc_bag_18",
+        "n": "Alchemist's Cache",
+        "q": 3,
+        "t": 3,
+        "ti": 46110
+      },
+      {
+        "bd": 1,
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 216900,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35627,
+    "level": 75,
+    "name": "6Eternal Shadow",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      19,
+      22
+    ],
+    "sourcemore": [
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 403498,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36860,
+    "level": 75,
+    "name": "6Eternal Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      22
+    ],
+    "sourcemore": [
+      {
+        "z": 4273
+      },
+      {
+        "n": "Frozo the Renowned",
+        "t": 1,
+        "ti": 40160,
+        "z": 4395
+      },
+      {
+        "z": 4273
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 864373,
+    "buyprice": 24000,
+    "cooldown": 500,
+    "sellprice": 6000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36920,
+    "level": 75,
+    "name": "6Sun Crystal",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 41182,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37701,
+    "level": 75,
+    "name": "7Crystallized Earth",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 9380,
+    "cooldown": 500,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37702,
+    "level": 75,
+    "name": "7Crystallized Fire",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 60390,
+    "cooldown": 500,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 37705,
+    "level": 75,
+    "name": "7Crystallized Water",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 41536,
+    "cooldown": 500,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 36916,
+    "level": 72,
+    "name": "7Cobalt Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_cobalt",
+        "n": "Smelt Cobalt",
+        "s": 186,
+        "t": 6,
+        "ti": 49252
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 294000,
+    "sellprice": 2400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39690,
+    "level": 72,
+    "name": "7Volatile Blasting Trigger",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_04",
+        "n": "Volatile Blasting Trigger",
+        "s": 202,
+        "t": 6,
+        "ti": 53281
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 150999,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39681,
+    "level": 71,
+    "name": "7Handful of Cobalt Bolts",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_29",
+        "n": "Handful of Cobalt Bolts",
+        "s": 202,
+        "t": 6,
+        "ti": 56349
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 333329,
+    "sellprice": 2800
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39684,
+    "level": 71,
+    "name": "7Hair Trigger",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 258761,
+    "buyprice": 9000,
+    "sellprice": 2250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22449,
+    "level": 70,
+    "name": "5Large Prismatic Shard",
+    "slot": 0,
+    "source": [
+      1,
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 165035
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23436,
+    "level": 70,
+    "name": "5Living Ruby",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 121427,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23437,
+    "level": 70,
+    "name": "5Talasite",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 28600,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23438,
+    "level": 70,
+    "name": "5Star of Elune",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 32600,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23439,
+    "level": 70,
+    "name": "5Noble Topaz",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 40599,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23440,
+    "level": 70,
+    "name": "5Dawnstone",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 56761,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23441,
+    "level": 70,
+    "name": "5Nightseye",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 32500,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 24271,
+    "level": 70,
+    "name": "5Spellcloth",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_spellfire",
+        "n": "Spellcloth",
+        "s": 197,
+        "t": 6,
+        "ti": 31373
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 4440000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 24272,
+    "level": 70,
+    "name": "5Shadowcloth",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_felcloth_ebon",
+        "n": "Shadowcloth",
+        "s": 197,
+        "t": 6,
+        "ti": 36686
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 7182434,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23449,
+    "level": 70,
+    "name": "6Khorium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_09",
+        "n": "Smelt Khorium",
+        "s": 186,
+        "t": 6,
+        "ti": 29361
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 11280000,
+    "sellprice": 12500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 35128,
+    "level": 70,
+    "name": "6Hardened Khorium",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_thorium",
+        "n": "Smelt Hardened Khorium",
+        "s": 186,
+        "t": 6,
+        "ti": 46353
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 6000000,
+    "sellprice": 11250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23785,
+    "level": 70,
+    "name": "7Hardened Adamantite Tube",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_hardenedadamantitetube",
+        "n": "Hardened Adamantite Tube",
+        "s": 202,
+        "t": 6,
+        "ti": 30307
+      },
+      {
+        "n": "Dealer Najeeb",
+        "t": 1,
+        "ti": 20981,
+        "z": 3523
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 2759999,
+    "buyprice": 120000,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23786,
+    "level": 70,
+    "name": "7Khorium Power Core",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_khoriumpowercore",
+        "n": "Khorium Power Core",
+        "s": 202,
+        "t": 6,
+        "ti": 30308
+      },
+      {
+        "n": "Qiff",
+        "t": 1,
+        "ti": 19575,
+        "z": 3523
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 21950000,
+    "buyprice": 48000,
+    "sellprice": 12000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23787,
+    "level": 70,
+    "name": "7Felsteel Stabilizer",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_felstabilizer",
+        "n": "Felsteel Stabilizer",
+        "s": 202,
+        "t": 6,
+        "ti": 30309
+      },
+      {
+        "n": "Qiff",
+        "t": 1,
+        "ti": 19575,
+        "z": 3523
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 10590000,
+    "buyprice": 48000,
+    "sellprice": 12000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 33470,
+    "level": 70,
+    "name": "7Frostweave Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      21
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 11045,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 33568,
+    "level": 70,
+    "name": "7Borean Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_15",
+        "n": "Borean Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 64661
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 18750,
+    "sellprice": 2250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39682,
+    "level": 70,
+    "name": "7Overcharged Capacitor",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_27",
+        "n": "Overcharged Capacitor",
+        "s": 202,
+        "t": 6,
+        "ti": 56464
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 309000,
+    "sellprice": 12000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39683,
+    "level": 70,
+    "name": "7Froststeel Tube",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_28",
+        "n": "Froststeel Tube",
+        "s": 202,
+        "t": 6,
+        "ti": 56471
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 499999,
+    "sellprice": 12000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 32423,
+    "level": 68,
+    "name": "7Icy Blasting Primers",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_15",
+        "n": "Icy Blasting Primers",
+        "s": 202,
+        "t": 6,
+        "ti": 39971
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 9750,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22448,
+    "level": 65,
+    "name": "5Small Prismatic Shard",
+    "slot": 0,
+    "source": [
+      1,
+      15
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_enchant_shardprismaticsmall",
+        "n": "Small Prismatic Shard",
+        "s": 333,
+        "t": 6,
+        "ti": 42615
+      }
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 12284
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23571,
+    "level": 65,
+    "name": "5Primal Might",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_nature_lightningoverload",
+        "n": "Transmute: Primal Might",
+        "s": 171,
+        "t": 6,
+        "ti": 29688
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 13000000,
+    "sellprice": 16000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 23572,
+    "level": 65,
+    "name": "5Primal Nether",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "G'eras",
+        "t": 1,
+        "ti": 18525,
+        "z": 3703
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 13899,
+    "buyprice": 500000,
+    "sellprice": 16000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21884,
+    "level": 65,
+    "name": "6Primal Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 5640000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21885,
+    "level": 65,
+    "name": "6Primal Water",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1100000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21886,
+    "level": 65,
+    "name": "6Primal Life",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_life",
+        "n": "Transmute: Primal Earth to Life",
+        "s": 171,
+        "t": 6,
+        "ti": 28585
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1250000,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21929,
+    "level": 65,
+    "name": "6Flame Spessarite",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 20000,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22451,
+    "level": 65,
+    "name": "6Primal Air",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_air",
+        "n": "Transmute: Primal Water to Air",
+        "s": 171,
+        "t": 6,
+        "ti": 28569
+      },
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 3611682,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22452,
+    "level": 65,
+    "name": "6Primal Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Shattered Hand Executioner",
+        "t": 1,
+        "ti": 17301,
+        "z": 3714
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 120500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22456,
+    "level": 65,
+    "name": "6Primal Shadow",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_shadow",
+        "n": "Transmute: Primal Water to Shadow",
+        "s": 171,
+        "t": 6,
+        "ti": 28581
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 2092500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22457,
+    "level": 65,
+    "name": "6Primal Mana",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_primal_mana",
+        "n": "Transmute: Primal Fire to Mana",
+        "s": 171,
+        "t": 6,
+        "ti": 28583
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 2397500,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23077,
+    "level": 65,
+    "name": "6Blood Garnet",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 30000,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23079,
+    "level": 65,
+    "name": "6Deep Peridot",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 25000,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23112,
+    "level": 65,
+    "name": "6Golden Draenite",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 434000,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22573,
+    "level": 65,
+    "name": "7Mote of Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_mote_earth01",
+        "n": "Earth Shatter",
+        "s": 186,
+        "t": 6,
+        "ti": 35750
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 5850,
+    "buyprice": 1600,
+    "cooldown": 500,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22574,
+    "level": 65,
+    "name": "7Mote of Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      19
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_elemental_mote_fire01",
+        "n": "Fire Sunder",
+        "s": 186,
+        "t": 6,
+        "ti": 35751
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 347000,
+    "buyprice": 1600,
+    "cooldown": 500,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23446,
+    "level": 65,
+    "name": "7Adamantite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_10",
+        "n": "Smelt Adamantite",
+        "s": 186,
+        "t": 6,
+        "ti": 29358
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 109000,
+    "sellprice": 3000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23573,
+    "level": 65,
+    "name": "7Hardened Adamantite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_adamantite",
+        "n": "Smelt Hardened Adamantite",
+        "s": 186,
+        "t": 6,
+        "ti": 29686
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 969998,
+    "sellprice": 30000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23784,
+    "level": 65,
+    "name": "7Adamantite Frame",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_adamantiteframe",
+        "n": "Adamantite Frame",
+        "s": 202,
+        "t": 6,
+        "ti": 30306
+      },
+      {
+        "z": 3523
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 3100000,
+    "buyprice": 40000,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23793,
+    "level": 65,
+    "name": "7Heavy Knothide Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_11",
+        "n": "Heavy Knothide Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 32455
+      },
+      {
+        "n": "Heavy Fel Iron Chest",
+        "t": 2,
+        "ti": 181800
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 634000,
+    "sellprice": 6250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17010,
+    "level": 60,
+    "name": "5Fiery Core",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 2717
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 74997,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 17011,
+    "level": 60,
+    "name": "5Lava Core",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 2717
+      }
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 10367,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12364,
+    "level": 60,
+    "name": "6Huge Emerald",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 45454,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12800,
+    "level": 60,
+    "name": "6Azerothian Diamond",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 72765,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23448,
+    "level": 60,
+    "name": "6Felsteel Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_felsteel",
+        "n": "Smelt Felsteel",
+        "s": 186,
+        "t": 6,
+        "ti": 29360
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 2505000,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21840,
+    "level": 60,
+    "name": "7Bolt of Netherweave",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_netherweave_bolt",
+        "n": "Bolt of Netherweave",
+        "s": 197,
+        "t": 6,
+        "ti": 26745
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 25831,
+    "sellprice": 4000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21877,
+    "level": 60,
+    "name": "7Netherweave Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      21
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 2502,
+    "sellprice": 800
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 21887,
+    "level": 60,
+    "name": "7Knothide Leather",
+    "slot": 0,
+    "source": [
+      1,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_10",
+        "n": "Knothide Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 32454
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 22727,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 22445,
+    "level": 60,
+    "name": "7Arcane Dust",
+    "slot": 0,
+    "source": [
+      15
+    ],
+    "subclass": 12,
+    "firstseenpatch": 0,
+    "avgbuyout": 49898
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23445,
+    "level": 60,
+    "name": "7Fel Iron Bar",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_feliron",
+        "n": "Smelt Fel Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 29356
+      },
+      {
+        "n": "Adamantite Bound Chest",
+        "t": 2,
+        "ti": 181802
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 209999,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23781,
+    "level": 60,
+    "name": "7Elemental Blasting Powder",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_ammo_gunpowder_07",
+        "n": "Elemental Blasting Powder",
+        "s": 202,
+        "t": 6,
+        "ti": 30303
+      },
+      {
+        "icon": "inv_crate_01",
+        "n": "Heavy Supply Crate",
+        "q": 1,
+        "t": 3,
+        "ti": 27481
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 174000,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23782,
+    "level": 60,
+    "name": "7Fel Iron Casing",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_felironcasing",
+        "n": "Fel Iron Casing",
+        "s": 202,
+        "t": 6,
+        "ti": 30304
+      },
+      {
+        "n": "Qiff",
+        "t": 1,
+        "ti": 19575,
+        "z": 3523
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 989994,
+    "buyprice": 32000,
+    "sellprice": 8000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 23783,
+    "level": 60,
+    "name": "7Handful of Fel Iron Bolts",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_felironbolts",
+        "n": "Handful of Fel Iron Bolts",
+        "s": 202,
+        "t": 6,
+        "ti": 30305
+      },
+      {
+        "icon": "inv_crate_01",
+        "n": "Heavy Supply Crate",
+        "q": 1,
+        "t": 3,
+        "ti": 27481
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 341000,
+    "buyprice": 6000,
+    "sellprice": 1500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 90146,
+    "level": 60,
+    "name": "7Tinker's Kit",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_enggizmos_17",
+        "n": "Tinker's Kit",
+        "s": 202,
+        "t": 6,
+        "ti": 131563
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 149498,
+    "buyprice": 20000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 13467,
+    "level": 58,
+    "name": "7Icecap",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 35098,
+    "buyprice": 1000,
+    "reqskill": 773,
+    "reqskillrank": 1,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 16006,
+    "level": 58,
+    "name": "7Delicate Arcanite Converter",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_07",
+        "n": "Delicate Arcanite Converter",
+        "s": 202,
+        "t": 6,
+        "ti": 19815
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 7188758,
+    "sellprice": 10000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7076,
+    "level": 55,
+    "name": "6Essence of Earth",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      19
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 6666,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7078,
+    "level": 55,
+    "name": "6Essence of Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_fire_volcano",
+        "n": "Transmute: Air to Fire",
+        "s": 171,
+        "t": 6,
+        "ti": 17559
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 34000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7080,
+    "level": 55,
+    "name": "6Essence of Water",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1284999,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7082,
+    "level": 55,
+    "name": "6Essence of Air",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_nature_earthbind",
+        "n": "Transmute: Water to Air",
+        "s": 171,
+        "t": 6,
+        "ti": 17562
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 914000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12360,
+    "level": 55,
+    "name": "6Arcanite Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_stonetablet_05",
+        "n": "Transmute: Arcanite",
+        "s": 171,
+        "t": 6,
+        "ti": 17187
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 4000000,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12361,
+    "level": 55,
+    "name": "6Blue Sapphire",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 39500,
+    "sellprice": 7000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12799,
+    "level": 55,
+    "name": "6Large Opal",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 39899,
+    "sellprice": 7000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12803,
+    "level": 55,
+    "name": "6Living Essence",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_nature_abolishmagic",
+        "n": "Transmute: Earth to Life",
+        "s": 171,
+        "t": 6,
+        "ti": 17566
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 25614,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12808,
+    "level": 55,
+    "name": "6Essence of Undeath",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_shadow_shadetruesight",
+        "n": "Transmute: Water to Undeath",
+        "s": 171,
+        "t": 6,
+        "ti": 17564
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 489803,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12655,
+    "level": 55,
+    "name": "7Enchanted Thorium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 139999,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12804,
+    "level": 55,
+    "name": "7Powerful Mojo",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 153000,
+    "sellprice": 2000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12810,
+    "level": 55,
+    "name": "7Enchanted Leather",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_rune_05",
+        "n": "Enchanted Leather",
+        "s": 333,
+        "t": 6,
+        "ti": 17181
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 1339326,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15994,
+    "level": 52,
+    "name": "7Thorium Widget",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_04",
+        "n": "Thorium Widget",
+        "s": 202,
+        "t": 6,
+        "ti": 19791
+      },
+      {
+        "n": "Irontree Shredder",
+        "t": 1,
+        "ti": 48259,
+        "z": 361
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 79500,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 6037,
+    "level": 50,
+    "name": "6Truesilver Bar",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Solid Chest",
+        "t": 2,
+        "ti": 2850
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 54500,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 7910,
+    "level": 50,
+    "name": "6Star Ruby",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 10099,
+    "sellprice": 5000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4342,
+    "level": 50,
+    "name": "7Purple Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 652994,
+    "buyprice": 2500,
+    "sellprice": 625
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8170,
+    "level": 50,
+    "name": "7Rugged Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_02",
+        "n": "Rugged Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 22331
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 21600,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10647,
+    "level": 50,
+    "name": "7Engineer's Ink",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 107949,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 11371,
+    "level": 50,
+    "name": "7Dark Iron Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_mithril",
+        "n": "Smelt Dark Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 14891
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 4639897,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12359,
+    "level": 50,
+    "name": "7Thorium Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_07",
+        "n": "Smelt Thorium",
+        "s": 186,
+        "t": 6,
+        "ti": 16153
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 34030,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 14047,
+    "level": 50,
+    "name": "7Runecloth",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 3919,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 14227,
+    "level": 50,
+    "name": "7Ironweb Spider Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 36250,
+    "sellprice": 2500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15407,
+    "level": 50,
+    "name": "7Cured Rugged Hide",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pelt_bear_03",
+        "n": "Cured Rugged Hide",
+        "s": 165,
+        "t": 6,
+        "ti": 19047
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 153846,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 15992,
+    "level": 50,
+    "name": "7Dense Blasting Powder",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_ammo_gunpowder_01",
+        "n": "Dense Blasting Powder",
+        "s": 202,
+        "t": 6,
+        "ti": 19788
+      },
+      {
+        "n": "Irontree Shredder",
+        "t": 1,
+        "ti": 48259,
+        "z": 361
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 1360,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 18631,
+    "level": 50,
+    "name": "7Truesilver Transformer",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_staff_18",
+        "n": "Truesilver Transformer",
+        "s": 202,
+        "t": 6,
+        "ti": 23071
+      },
+      {
+        "n": "Irontree Shredder",
+        "t": 1,
+        "ti": 48259,
+        "z": 361
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 4889114,
+    "sellprice": 3000
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 7909,
+    "level": 45,
+    "name": "6Aquamarine",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 16200,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4339,
+    "level": 45,
+    "name": "7Bolt of Mageweave",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_fabric_mageweave_03",
+        "n": "Bolt of Mageweave",
+        "s": 197,
+        "t": 6,
+        "ti": 3865
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 15400,
+    "sellprice": 1250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7075,
+    "level": 45,
+    "name": "7Core of Earth",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 604,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7077,
+    "level": 45,
+    "name": "7Heart of Fire",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1360,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7079,
+    "level": 45,
+    "name": "7Globe of Water",
+    "slot": 0,
+    "source": [
+      2,
+      16
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 24401,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7972,
+    "level": 45,
+    "name": "7Ichor of Undeath",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 575,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10286,
+    "level": 45,
+    "name": "7Heart of the Wild",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 534,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 12365,
+    "level": 45,
+    "name": "7Dense Stone",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 700,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10561,
+    "level": 43,
+    "name": "7Mithril Casing",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_mithrilcasing_01",
+        "n": "Mithril Casing",
+        "s": 202,
+        "t": 6,
+        "ti": 12599
+      },
+      {
+        "dd": -1,
+        "z": 2100
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 148500,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 9060,
+    "level": 42,
+    "name": "7Inlaid Mithril Cylinder",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_musket_01",
+        "n": "Inlaid Mithril Cylinder",
+        "s": 164,
+        "t": 6,
+        "ti": 11454
+      },
+      {
+        "dd": -1,
+        "z": 2100
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 3990000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 9061,
+    "level": 42,
+    "name": "7Goblin Rocket Fuel",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_cask_02",
+        "n": "Goblin Rocket Fuel",
+        "s": 171,
+        "t": 6,
+        "ti": 11456
+      },
+      {
+        "dd": -1,
+        "z": 2100
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 2990000,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 3864,
+    "level": 40,
+    "name": "6Citrine",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 32266,
+    "sellprice": 800
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8153,
+    "level": 40,
+    "name": "6Wildvine",
+    "slot": 0,
+    "source": [
+      2,
+      17
+    ],
+    "subclass": 9,
+    "firstseenpatch": 0,
+    "avgbuyout": 3903826,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3860,
+    "level": 40,
+    "name": "7Mithril Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_06",
+        "n": "Smelt Mithril",
+        "s": 186,
+        "t": 6,
+        "ti": 10097
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 43795,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4304,
+    "level": 40,
+    "name": "7Thick Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_08",
+        "n": "Thick Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 20650
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 28000,
+    "sellprice": 300
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 4338,
+    "level": 40,
+    "name": "7Mageweave Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 2174,
+    "buyprice": 1000,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 8150,
+    "level": 40,
+    "name": "7Deeprock Salt",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 2437,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10285,
+    "level": 40,
+    "name": "7Shadow Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 910000,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10560,
+    "level": 40,
+    "name": "7Unstable Trigger",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_battery_01",
+        "n": "Unstable Trigger",
+        "s": 202,
+        "t": 6,
+        "ti": 12591
+      },
+      {
+        "n": "Venture Co. Shredder",
+        "t": 1,
+        "ti": 4260,
+        "z": 33
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 298031,
+    "sellprice": 1000
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10559,
+    "level": 39,
+    "name": "7Mithril Tube",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_musket_01",
+        "n": "Mithril Tube",
+        "s": 202,
+        "t": 6,
+        "ti": 12589
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 379000,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 16000,
+    "level": 39,
+    "name": "7Thorium Tube",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_pipe_04",
+        "n": "Thorium Tube",
+        "s": 202,
+        "t": 6,
+        "ti": 19795
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 10325,
+    "sellprice": 3750
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 1529,
+    "level": 35,
+    "name": "6Jade",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 26534,
+    "sellprice": 700
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3859,
+    "level": 35,
+    "name": "7Steel Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_steel",
+        "n": "Smelt Steel",
+        "s": 186,
+        "t": 6,
+        "ti": 3569
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 49400,
+    "sellprice": 60
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4337,
+    "level": 35,
+    "name": "7Thick Spider's Silk",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 2600,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7912,
+    "level": 35,
+    "name": "7Solid Stone",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 671,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10505,
+    "level": 35,
+    "name": "7Solid Blasting Powder",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_powder_black",
+        "n": "Solid Blasting Powder",
+        "s": 202,
+        "t": 6,
+        "ti": 12585
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 47281,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4389,
+    "level": 34,
+    "name": "7Gyrochronatom",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_pocketwatch_02",
+        "n": "Gyrochronatom",
+        "s": 202,
+        "t": 6,
+        "ti": 3961
+      },
+      {
+        "z": 33
+      },
+      {
+        "z": 33
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 239900,
+    "buyprice": 3000,
+    "sellprice": 750
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4387,
+    "level": 32,
+    "name": "7Iron Strut",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_spear_05",
+        "n": "Iron Strut",
+        "s": 202,
+        "t": 6,
+        "ti": 3958
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 343000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 1705,
+    "level": 30,
+    "name": "6Lesser Moonstone",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 3251,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3577,
+    "level": 30,
+    "name": "6Gold Bar",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 41000,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 3575,
+    "level": 30,
+    "name": "7Iron Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_iron",
+        "n": "Smelt Iron",
+        "s": 186,
+        "t": 6,
+        "ti": 3307
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 63000,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4234,
+    "level": 30,
+    "name": "7Heavy Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_07",
+        "n": "Heavy Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 20649
+      },
+      {
+        "n": "Murhane",
+        "t": 1,
+        "ti": 44286,
+        "z": 4709
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 49400,
+    "buyprice": 600,
+    "sellprice": 150
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 4306,
+    "level": 30,
+    "name": "7Silk Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 7010,
+    "buyprice": 600,
+    "sellprice": 150
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 10558,
+    "level": 30,
+    "name": "7Gold Power Core",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_battery_02",
+        "n": "Gold Power Core",
+        "s": 202,
+        "t": 6,
+        "ti": 12584
+      },
+      {
+        "n": "Venture Co. Shredder",
+        "t": 1,
+        "ti": 4260,
+        "z": 33
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 31250,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 11291,
+    "level": 30,
+    "name": "7Star Wood",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 22800,
+    "buyprice": 4500,
+    "sellprice": 1125
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4382,
+    "level": 29,
+    "name": "7Bronze Framework",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_bronzeframework_01",
+        "n": "Bronze Framework",
+        "s": 202,
+        "t": 6,
+        "ti": 3953
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 187708,
+    "buyprice": 2400,
+    "sellprice": 600
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7191,
+    "level": 26,
+    "name": "7Fused Wiring",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gear_03",
+        "n": "Fused Wiring",
+        "s": 202,
+        "t": 6,
+        "ti": 39895
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 101400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 163569,
+    "level": 26,
+    "name": "7Insulated Wiring",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      22,
+      23
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 22300,
+    "buyprice": 100,
+    "sellprice": 5
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 1206,
+    "level": 25,
+    "name": "6Moss Agate",
+    "slot": 0,
+    "source": [
+      2,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 145000,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2838,
+    "level": 25,
+    "name": "7Heavy Stone",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 9583,
+    "sellprice": 60
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4375,
+    "level": 25,
+    "name": "7Whirring Bronze Gizmo",
+    "slot": 0,
+    "source": [
+      1,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_02",
+        "n": "Whirring Bronze Gizmo",
+        "s": 202,
+        "t": 6,
+        "ti": 3942
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 200000,
+    "sellprice": 115
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4377,
+    "level": 25,
+    "name": "7Heavy Blasting Powder",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_dust_06",
+        "n": "Heavy Blasting Powder",
+        "s": 202,
+        "t": 6,
+        "ti": 3945
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 30276,
+    "sellprice": 150
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4400,
+    "level": 25,
+    "name": "7Heavy Stock",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 150000,
+    "buyprice": 2000,
+    "sellprice": 500
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4402,
+    "level": 25,
+    "name": "7Small Flame Sac",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 10000,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7067,
+    "level": 25,
+    "name": "7Elemental Earth",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 38800,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7068,
+    "level": 25,
+    "name": "7Elemental Fire",
+    "slot": 0,
+    "source": [
+      1,
+      2
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "spell_fire_fire",
+        "n": "Transmute: Elemental Fire",
+        "s": 171,
+        "t": 6,
+        "ti": 25146
+      }
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 1209,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 7069,
+    "level": 25,
+    "name": "7Elemental Air",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "subclass": 10,
+    "firstseenpatch": 0,
+    "avgbuyout": 189999,
+    "sellprice": 400
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4371,
+    "level": 21,
+    "name": "7Bronze Tube",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16,
+      22
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_gizmo_pipe_01",
+        "n": "Bronze Tube",
+        "s": 202,
+        "t": 6,
+        "ti": 3938
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 99959,
+    "buyprice": 800,
+    "sellprice": 200
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 1210,
+    "level": 20,
+    "name": "6Shadowgem",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 6392,
+    "sellprice": 250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2319,
+    "level": 20,
+    "name": "7Medium Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_05",
+        "n": "Medium Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 20648
+      },
+      {
+        "n": "Murhane",
+        "t": 1,
+        "ti": 44286,
+        "z": 4709
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 25772,
+    "buyprice": 200,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2841,
+    "level": 20,
+    "name": "7Bronze Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_bronze",
+        "n": "Smelt Bronze",
+        "s": 186,
+        "t": 6,
+        "ti": 2659
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 41666,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4404,
+    "level": 18,
+    "name": "7Silver Contact",
+    "slot": 0,
+    "source": [
+      1,
+      5,
+      22,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_04",
+        "n": "Silver Contact",
+        "s": 202,
+        "t": 6,
+        "ti": 3973
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 198000,
+    "buyprice": 100,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 818,
+    "level": 15,
+    "name": "6Tigerseye",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      17,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 13399,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 2592,
+    "level": 15,
+    "name": "7Wool Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "sourcemore": [
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 3748,
+    "buyprice": 135,
+    "sellprice": 33
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2605,
+    "level": 15,
+    "name": "7Green Dye",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 259724,
+    "buyprice": 100,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2836,
+    "level": 15,
+    "name": "7Coarse Stone",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 800,
+    "sellprice": 15
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4364,
+    "level": 15,
+    "name": "7Coarse Blasting Powder",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      5,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_dust_02",
+        "n": "Coarse Blasting Powder",
+        "s": 202,
+        "t": 6,
+        "ti": 3929
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 956,
+    "buyprice": 48,
+    "sellprice": 12
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2842,
+    "level": 10,
+    "name": "6Silver Bar",
+    "reqlevel": 10,
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      4
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_01",
+        "n": "Smelt Silver",
+        "s": 186,
+        "t": 6,
+        "ti": 2658
+      },
+      {
+        "z": 40
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 234000,
+    "sellprice": 100
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2318,
+    "level": 10,
+    "name": "7Light Leather",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      23
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_leatherscrap_03",
+        "n": "Light Leather",
+        "s": 165,
+        "t": 6,
+        "ti": 2881
+      }
+    ],
+    "subclass": 6,
+    "firstseenpatch": 0,
+    "avgbuyout": 10600,
+    "sellprice": 15
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2840,
+    "level": 10,
+    "name": "7Copper Bar",
+    "slot": 0,
+    "source": [
+      1
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_ingot_02",
+        "n": "Smelt Copper",
+        "s": 186,
+        "t": 6,
+        "ti": 2657
+      }
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 24600,
+    "sellprice": 10
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4399,
+    "level": 10,
+    "name": "7Wooden Stock",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 100000,
+    "buyprice": 200,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4359,
+    "level": 8,
+    "name": "7Handful of Copper Bolts",
+    "slot": 0,
+    "source": [
+      1,
+      2,
+      16
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_gear_06",
+        "n": "Handful of Copper Bolts",
+        "s": 202,
+        "t": 6,
+        "ti": 3922
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 14140,
+    "sellprice": 12
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 774,
+    "level": 7,
+    "name": "6Malachite",
+    "slot": 0,
+    "source": [
+      2,
+      16,
+      17,
+      19,
+      20,
+      21
+    ],
+    "subclass": 4,
+    "firstseenpatch": 0,
+    "avgbuyout": 6000,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "commondrop": true,
+    "flags2": -2147475456,
+    "id": 2589,
+    "level": 5,
+    "name": "7Linen Cloth",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      16,
+      17,
+      19,
+      21,
+      23
+    ],
+    "sourcemore": [
+      {
+        "n": "Andra",
+        "t": 1,
+        "ti": 16631,
+        "z": 3487
+      }
+    ],
+    "subclass": 5,
+    "firstseenpatch": 0,
+    "avgbuyout": 1611,
+    "buyprice": 55,
+    "sellprice": 13
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 2835,
+    "level": 5,
+    "name": "7Rough Stone",
+    "slot": 0,
+    "source": [
+      2,
+      19
+    ],
+    "subclass": 7,
+    "firstseenpatch": 0,
+    "avgbuyout": 1875,
+    "sellprice": 2
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4357,
+    "level": 5,
+    "name": "7Rough Blasting Powder",
+    "slot": 0,
+    "source": [
+      1,
+      5
+    ],
+    "sourcemore": [
+      {
+        "c": 11,
+        "icon": "inv_misc_dust_01",
+        "n": "Rough Blasting Powder",
+        "s": 202,
+        "t": 6,
+        "ti": 3918
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 20000,
+    "buyprice": 16,
+    "sellprice": 4
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4470,
+    "level": 5,
+    "name": "7Simple Wood",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 4750,
+    "buyprice": 38,
+    "sellprice": 9
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 144329,
+    "level": 1,
+    "name": "6Hardened Felglass",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "icon": "inv_misc_enggizmos_17",
+        "n": "Sprocket Container",
+        "q": 2,
+        "t": 3,
+        "ti": 144330
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 12980000,
+    "sellprice": 6250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 814,
+    "level": 1,
+    "name": "7Flask of Oil",
+    "slot": 0,
+    "source": [
+      2,
+      22
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 1092,
+    "sellprice": 25
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 4611,
+    "level": 1,
+    "name": "7Blue Pearl",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Giant Clam",
+        "t": 2,
+        "ti": 2744
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 16666,
+    "sellprice": 50
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 39354,
+    "level": 1,
+    "name": "7Light Parchment",
+    "slot": 0,
+    "source": [
+      5
+    ],
+    "subclass": 11,
+    "firstseenpatch": 0,
+    "avgbuyout": 14800,
+    "buyprice": 15,
+    "sellprice": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 136633,
+    "level": 1,
+    "name": "7Loose Trigger",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 7200,
+    "buyprice": 25000,
+    "sellprice": 6250
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 136636,
+    "level": 1,
+    "name": "7Sniping Scope",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 12799,
+    "buyprice": 57500,
+    "sellprice": 14375
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 136637,
+    "level": 1,
+    "name": "7Oversized Blasting Cap",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 16800,
+    "buyprice": 11500,
+    "sellprice": 2875
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 136638,
+    "level": 1,
+    "name": "7True Iron Barrel",
+    "slot": 0,
+    "source": [
+      2,
+      5
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 18511,
+    "buyprice": 89500,
+    "sellprice": 22375
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 140781,
+    "level": 1,
+    "name": "7X-87 Battle Circuit",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "dd": -1,
+        "z": 721
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "maxcount": 50,
+    "reqlevel": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 140782,
+    "level": 1,
+    "name": "7Neural Net Detangler",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "n": "Cache of Heroic Innovation",
+        "t": 2,
+        "ti": 279655,
+        "z": 4273
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "maxcount": 1,
+    "reqlevel": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 140783,
+    "level": 1,
+    "name": "7Predictive Combat Operations Databank",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "bd": 1,
+        "n": "Iron Juggernaut",
+        "t": 1,
+        "ti": 71466,
+        "z": 6738
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "maxcount": 1,
+    "reqlevel": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 140784,
+    "level": 1,
+    "name": "7Fel Piston Stabilizer",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 3520
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "maxcount": 1,
+    "reqlevel": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147475456,
+    "id": 140785,
+    "level": 1,
+    "name": "7Hardened Circuitboard Plating",
+    "slot": 0,
+    "source": [
+      2
+    ],
+    "sourcemore": [
+      {
+        "z": 3537
+      }
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "maxcount": 50,
+    "reqlevel": 1
+  },
+  {
+    "classs": 7,
+    "flags2": -2147459072,
+    "id": 160502,
+    "level": 1,
+    "name": "7Chemical Blasting Cap",
+    "slot": 0,
+    "source": [
+      2,
+      5,
+      22,
+      23
+    ],
+    "subclass": 1,
+    "firstseenpatch": 0,
+    "avgbuyout": 48545,
+    "buyprice": 11500,
+    "sellprice": 2875
+  }
+]
