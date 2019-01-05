@@ -1,4 +1,4 @@
-﻿--[[
+--[[
   Data Parsed from WowHead.com
 ]]
 

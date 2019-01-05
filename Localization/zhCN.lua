@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 	Chinese (simplified) Locale.
 ]]
 

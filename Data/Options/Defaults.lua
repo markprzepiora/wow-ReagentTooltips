@@ -1,4 +1,4 @@
-﻿local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper2 = ReagentHelper2;
 
 ReagentHelper2.defaults = {
 	profile = {

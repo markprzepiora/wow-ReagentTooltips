@@ -1,4 +1,4 @@
-﻿ReagentHelper2 = LibStub("AceAddon-3.0"):NewAddon("ReagentHelper2", "AceEvent-3.0", "AceConsole-3.0")
+ReagentHelper2 = LibStub("AceAddon-3.0"):NewAddon("ReagentHelper2", "AceEvent-3.0", "AceConsole-3.0")
 local AceConfig = LibStub("AceConfigDialog-3.0");
 local L = LibStub("AceLocale-3.0"):GetLocale("ReagentHelper2");
 local BabbleInventory = LibStub("LibBabble-Inventory-3.0"):GetLookupTable();
