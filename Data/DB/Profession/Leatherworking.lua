@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Leatherworking = {
+ReagentHelper3.Leatherworking = {
   165703, --Breath of Bwonsamdi
   152542, --Hardened Tempest Hide
   153051, --Mistscale

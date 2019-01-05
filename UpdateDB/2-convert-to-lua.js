@@ -25,9 +25,9 @@ files.forEach(({ jsonFileName, luaName }) => {
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.${luaName} = {
+ReagentHelper3.${luaName} = {
 ${luaItemLines.join("\n")}
 }
 `;

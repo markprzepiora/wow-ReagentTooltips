@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Alchemy = {
+ReagentHelper3.Alchemy = {
   165703, --Breath of Bwonsamdi
   152510, --Anchor Weed
   152577, --Deep Sea Satin

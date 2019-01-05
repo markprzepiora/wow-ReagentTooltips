@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Blacksmithing = {
+ReagentHelper3.Blacksmithing = {
   165703, --Breath of Bwonsamdi
   152513, --Platinum Ore
   152512, --Monelite Ore

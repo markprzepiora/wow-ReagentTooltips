@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Mining = {
+ReagentHelper3.Mining = {
   72094, --Black Trillium Ore
   72103, --White Trillium Ore
   72092, --Ghost Iron Ore

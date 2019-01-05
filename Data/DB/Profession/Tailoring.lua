@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Tailoring = {
+ReagentHelper3.Tailoring = {
   165703, --Breath of Bwonsamdi
   158378, --Embroidered Deep Sea Satin
   152577, --Deep Sea Satin

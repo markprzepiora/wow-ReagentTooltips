@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Jewelcrafting = {
+ReagentHelper3.Jewelcrafting = {
   153716, --Jewelhammer's Focus
   77951, --Shadowy Gem
   77952, --Elementium Gem Cluster

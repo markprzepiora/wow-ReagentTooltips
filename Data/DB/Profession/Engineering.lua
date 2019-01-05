@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.Engineering = {
+ReagentHelper3.Engineering = {
   165703, --Breath of Bwonsamdi
   161131, --Barely Stable Azerite Reactor
   161132, --Crush Resistant Stabilizer

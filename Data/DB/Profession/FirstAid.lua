@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.FirstAid = {
+ReagentHelper3.FirstAid = {
 	1288, --Large Venom Sac
 	1475, --Small Venom Sac
 	2589, --Linen Cloth

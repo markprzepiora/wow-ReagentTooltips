@@ -1,6 +1,6 @@
-local ReagentHelper2 = ReagentHelper2;
+local ReagentHelper3 = ReagentHelper3;
 
-ReagentHelper2.defaults = {
+ReagentHelper3.defaults = {
 	profile = {
 		Disabled = false,
 		DisableProfession = false,
