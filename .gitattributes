@@ -1,5 +1,6 @@
 /UpdateDB export-ignore
 /logo.png export-ignore
 /logo.psd export-ignore
+/bin export-ignore
 .gitattributes export-ignore
 .gitignore export-ignore
