@@ -1,4 +1,4 @@
-## Author: Davie3
+## Author: Mark Przepiora, Davie3
 ## Interface: 80100
 ## Notes: Shows within a reagent items tooltip the Profession and/or Class it is used for.
 ## OptionalDeps: Ace3, LibBabble-Inventory-3.0
