@@ -43,6 +43,7 @@ function ReagentTooltips:CheckDb()
 end
 
 function ReagentTooltips:GetItemIDFromLink(itemLink)
+  -- Regex taken from http://wowwiki.wikia.com/wiki/ItemLink
   local _, _, _, _, id, _, _, _, _, _, _, _, _, _ = string.find(
     itemLink,
     "|?c?f?f?(%x*)|?H?([^:]*):?(%d+):?(%d*):?(%d*):?(%d*):?(%d*):?(%d*):?(%-?%d*):?(%-?%d*):?(%d*):?(%d*):?(%-?%d*)|?h?%[?([^%[%]]*)%]?|?h?|?r?"
