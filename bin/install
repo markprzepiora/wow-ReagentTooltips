@@ -17,7 +17,14 @@ cd "$PROGDIR"/..
 rm -rf "$addons_dir"/ReagentHelper2
 rm -rf "$addons_dir"/ReagentHelper3
 
-rsync --archive --verbose --delete \
+(
+  cd UpdateDB
+  node 2-convert-to-lua.js
+)
+rsync \
+  --verbose \
+  --archive \
+  --delete \
   --exclude '.git*' \
   --exclude bin \
   --exclude dist \
