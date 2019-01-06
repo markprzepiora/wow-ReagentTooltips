@@ -62,37 +62,47 @@ local mod = function(n, k)
   return n - math.floor(n/k)*k
 end
 
+local inGroupsOf = function(array, n)
+  local arrays = {}
+  local subarray = {}
+  for index, value in ipairs(array) do
+    table.insert(subarray, value)
+
+    if (mod(index, n) == 0) or (index == #(array)) then
+      table.insert(arrays, subarray)
+      subarray = {}
+    end
+  end
+
+  return arrays
+end
+
 function ReagentTooltips.ModifyItemTooltip(tooltip)
   if (not ReagentTooltips.db.profile.Disabled) then
-    local ToolTipString = "";
     local itemName, itemLink = tooltip:GetItem();
     local itemID = ReagentTooltips:GetItemIDFromLink(itemLink);
     local ToolTipList = ReagentTooltips:SearchReagentDB(itemID);
+
     if (not itemID) or (not ToolTipList) or (#(ToolTipList) == 0) then
       return;
     end
+
     table.sort(ToolTipList);
+
     if (not ReagentTooltips.db.profile.ToolTipCommma) then
       -- In the normal case, we just put one profession on each line
       for _, v in pairs(ToolTipList) do
         tooltip:AddLine(v);
       end
     else
-      for index, v in pairs(ToolTipList) do
-        if (ToolTipString == "") then
-          ToolTipString = v;
-        else
-          -- When we reach three words on a line, split
-          if (index > 3 and mod(index, 3) == 1) then
-            tooltip:AddLine(ToolTipString .. ",");
-            ToolTipString = v;
-          -- Until then, join with commas
-          else
-            ToolTipString = ToolTipString .. ", " .. v;
-          end
+      local GroupedToolTipList = inGroupsOf(ToolTipList, 3);
+      for index, sublist in ipairs(GroupedToolTipList) do
+        local trailingComma = ","
+        if (index == #(GroupedToolTipList)) then
+          trailingComma = ""
         end
+        tooltip:AddLine(table.concat(sublist, ", ") ..  trailingComma)
       end
-      tooltip:AddLine(ToolTipString);
     end
     tooltip:Show();
   end
