@@ -44,7 +44,7 @@ function ReagentTooltips:CheckDb()
 end
 
 function ReagentTooltips.ModifyItemTooltip(tooltip)
-  if (ReagentTooltips.db.profile.Disabled == false) then
+  if (not ReagentTooltips.db.profile.Disabled) then
     local ToolTipString = "";
     local TooltTipStringCount = 1;
     local itemName, itemLink = tooltip:GetItem();
@@ -52,7 +52,6 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
     if (not itemName) or (not ToolTipList) or (#(ToolTipList) == 0) then
       return;
     end
-    ReagentTooltips:SearchReagentDB(itemName);
     table.sort(ToolTipList);
     if (ReagentTooltips.db.profile.ToolTipCommma == false) then
       for k, v in pairs(ToolTipList) do
@@ -82,88 +81,35 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
 end
 
 function ReagentTooltips:SearchReagentDB(ItemName)
-  if (not ItemName) or (not tostring(ItemName)) then
-    return;
+  if (ReagentTooltips.db.profile.Disabled) or (not ItemName) or (not tostring(ItemName)) then
+    return {};
   end
+
   local ToolTipList = {};
-  if (not ReagentTooltips.db.profile.Disabled) then
-    for k, v in pairs(ReagentTooltips.Alchemy) do
+
+  local professions = {
+    "Alchemy",
+    "Blacksmithing",
+    "Cooking",
+    "Enchanting",
+    "Engineering",
+    "FirstAid",
+    "Inscription",
+    "Jewelcrafting",
+    "Leatherworking",
+    "Mining",
+    "Tailoring",
+  };
+
+  for k, profession in ipairs(professions) do
+    for k, v in pairs(ReagentTooltips[profession]) do
       local item = GetItemInfo(v);
       if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Alchemy"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Blacksmithing) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Blacksmithing"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Cooking) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Cooking"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Enchanting) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Enchanting"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Engineering) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Engineering"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.FirstAid) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["First Aid"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Inscription) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Inscription"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Jewelcrafting) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Jewelcrafting"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Leatherworking) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Leatherworking"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Mining) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Mining"]);
-        break;
-      end
-    end
-    for k, v in pairs(ReagentTooltips.Tailoring) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
-        table.insert(ToolTipList, BabbleInventory["Tailoring"]);
+        table.insert(ToolTipList, BabbleInventory[profession]);
         break;
       end
     end
   end
+
   return ToolTipList;
 end
