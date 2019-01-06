@@ -22,5 +22,3 @@ Localization\esES.lua
 Localization\deDE.lua
 ReagentTooltips.lua
 LoadDB.xml
-Data\Options\Options.lua
-Data\Options\Defaults.lua
