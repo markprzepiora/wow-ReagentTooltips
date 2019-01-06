@@ -34,7 +34,6 @@ function ReagentTooltips:CheckDb()
     ReagentTooltips.Cooking and
     ReagentTooltips.Enchanting and
     ReagentTooltips.Engineering and
-    ReagentTooltips.FirstAid and
     ReagentTooltips.Inscription and
     ReagentTooltips.Jewelcrafting and
     ReagentTooltips.Leatherworking and
@@ -101,7 +100,6 @@ function ReagentTooltips:SearchReagentDB(itemIDQuery)
     "Cooking",
     "Enchanting",
     "Engineering",
-    "FirstAid",
     "Inscription",
     "Jewelcrafting",
     "Leatherworking",

@@ -4,7 +4,6 @@
 	<Script file="Data\DB\Profession\Cooking.lua" />
 	<Script file="Data\DB\Profession\Enchanting.lua" />
 	<Script file="Data\DB\Profession\Engineering.lua" />
-	<Script file="Data\DB\Profession\FirstAid.lua" />
 	<Script file="Data\DB\Profession\Inscription.lua" />
 	<Script file="Data\DB\Profession\Jewelcrafting.lua" />
 	<Script file="Data\DB\Profession\Leatherworking.lua" />
