@@ -43,13 +43,22 @@ function ReagentTooltips:CheckDb()
   )
 end
 
+function ReagentTooltips:GetItemIDFromLink(itemLink)
+  local _, _, _, _, id, _, _, _, _, _, _, _, _, _ = string.find(
+    itemLink,
+    "|?c?f?f?(%x*)|?H?([^:]*):?(%d+):?(%d*):?(%d*):?(%d*):?(%d*):?(%d*):?(%-?%d*):?(%-?%d*):?(%d*):?(%d*):?(%-?%d*)|?h?%[?([^%[%]]*)%]?|?h?|?r?"
+  )
+  return id and tonumber(id);
+end
+
 function ReagentTooltips.ModifyItemTooltip(tooltip)
   if (not ReagentTooltips.db.profile.Disabled) then
     local ToolTipString = "";
     local TooltTipStringCount = 1;
     local itemName, itemLink = tooltip:GetItem();
-    local ToolTipList = ReagentTooltips:SearchReagentDB(itemName);
-    if (not itemName) or (not ToolTipList) or (#(ToolTipList) == 0) then
+    local itemID = ReagentTooltips:GetItemIDFromLink(itemLink);
+    local ToolTipList = ReagentTooltips:SearchReagentDB(itemID);
+    if (not itemID) or (not ToolTipList) or (#(ToolTipList) == 0) then
       return;
     end
     table.sort(ToolTipList);
@@ -80,13 +89,12 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
   end
 end
 
-function ReagentTooltips:SearchReagentDB(ItemName)
-  if (ReagentTooltips.db.profile.Disabled) or (not ItemName) or (not tostring(ItemName)) then
+function ReagentTooltips:SearchReagentDB(itemIDQuery)
+  if (ReagentTooltips.db.profile.Disabled) or (not itemIDQuery) or (not tostring(itemIDQuery)) then
     return {};
   end
 
   local ToolTipList = {};
-
   local professions = {
     "Alchemy",
     "Blacksmithing",
@@ -102,9 +110,8 @@ function ReagentTooltips:SearchReagentDB(ItemName)
   };
 
   for k, profession in ipairs(professions) do
-    for k, v in pairs(ReagentTooltips[profession]) do
-      local item = GetItemInfo(v);
-      if (item) and (ItemName == item) then
+    for k, itemID in pairs(ReagentTooltips[profession]) do
+      if (itemIDQuery == itemID) then
         table.insert(ToolTipList, BabbleInventory[profession]);
         break;
       end
