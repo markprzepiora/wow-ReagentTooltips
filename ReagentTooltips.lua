@@ -12,7 +12,7 @@ function ReagentTooltips:OnInitialize()
 end
 
 function ReagentTooltips:OnEnable()
-	if (ReagentTooltips:CheckDb() == true) then
+	if (ReagentTooltips:CheckDb()) then
 		ReagentTooltips:HookTooltips();
 	else
 		message(L["All or part of ReagentTooltips's DB was not detected. Please exit the game and delete your ReagentTooltips folder and reinstall it to fix the problem."]);
@@ -28,40 +28,19 @@ function ReagentTooltips:ChatCommand()
 end
 
 function ReagentTooltips:CheckDb()
-	if (not ReagentTooltips.Alchemy) then
-		return false;
-	end
-	if (not ReagentTooltips.Blacksmithing) then
-		return false;
-	end
-	if (not ReagentTooltips.Cooking) then
-		return false;
-	end
-	if (not ReagentTooltips.Enchanting) then
-		return false;
-	end
-	if (not ReagentTooltips.Engineering) then
-		return false;
-	end
-	if (not ReagentTooltips.FirstAid) then
-		return false;
-	end
-	if (not ReagentTooltips.Inscription) then
-		return false;
-	end
-	if (not ReagentTooltips.Jewelcrafting) then
-		return false;
-	end
-	if (not ReagentTooltips.Leatherworking) then
-		return false;
-	end
-	if (not ReagentTooltips.Mining) then
-		return false;
-	end
-	if (not ReagentTooltips.Tailoring) then
-		return false;
-	end
-	return true;
+  return not not (
+    ReagentTooltips.Alchemy and
+    ReagentTooltips.Blacksmithing and
+    ReagentTooltips.Cooking and
+    ReagentTooltips.Enchanting and
+    ReagentTooltips.Engineering and
+    ReagentTooltips.FirstAid and
+    ReagentTooltips.Inscription and
+    ReagentTooltips.Jewelcrafting and
+    ReagentTooltips.Leatherworking and
+    ReagentTooltips.Mining and
+    ReagentTooltips.Tailoring
+  )
 end
 
 function ReagentTooltips.ModifyItemTooltip(tooltip)
@@ -71,7 +50,7 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
 		local itemName, itemLink = tooltip:GetItem();
 		local ToolTipList = ReagentTooltips:SearchReagentDB(itemName);
 		if (not itemName) or (not ToolTipList) or (#(ToolTipList) == 0) then
-			return; --GTFO!
+			return;
 		end
 		ReagentTooltips:SearchReagentDB(itemName);
 		table.sort(ToolTipList);
