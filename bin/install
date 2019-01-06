@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+set -eu
+set -o pipefail
+
+readonly PROGDIR=$(cd "${0%/*}" && pwd)
+
+wow_dir=$("$PROGDIR"/guess-wow-dir)
+addons_dir="$wow_dir/_retail_/Interface/addons"
+
+if [ ! -d "$addons_dir" ]; then
+  echo "ERROR: Addons directory doesn't exist: $addons_dir"
+  exit 1
+fi
+
+cd "$PROGDIR"/..
+rm -rf "$addons_dir"/ReagentHelper3
+git archive --format=tar --prefix=ReagentHelper3/ HEAD | tar xvf - -C "$addons_dir"

@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require 'open3'
+require 'fileutils'
+require 'pathname'
+
+dirs = [
+  "/mnt/d/World of Warcraft",
+  "/mnt/c/Program Files/World of Warcraft",
+  "/mnt/c/Program Files (x86)/World of Warcraft",
+]
+
+dir = dirs.find do |dir|
+  File.exists?(dir) &&
+  File.directory?(dir) &&
+  File.exists?(File.join(dir, "Launcher.db")) &&
+  File.exists?(File.join(dir, "_retail_"))
+end
+
+if dir
+  puts dir
+else
+  exit 1
+end
