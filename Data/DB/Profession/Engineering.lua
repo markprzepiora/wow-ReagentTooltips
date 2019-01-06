@@ -5,276 +5,276 @@
 local ReagentTooltips = ReagentTooltips;
 
 ReagentTooltips.Engineering = {
-  165703, --Breath of Bwonsamdi
-  161131, --Barely Stable Azerite Reactor
-  161132, --Crush Resistant Stabilizer
-  161136, --Azerite Forged Protection Plating
-  161137, --Blast-Fired Electric Servomotor
-  152513, --Platinum Ore
-  152512, --Monelite Ore
-  152579, --Storm Silver Ore
-  162461, --Sanguicell
-  124124, --Blood of Sargeras
-  130178, --Furystone
-  151568, --Primal Sargerite
-  152668, --Expulsom
-  162460, --Hydrocore
-  163203, --Hypersensitive Azeritometer Sensor
-  165948, --Tidalcore
-  124116, --Felhide
-  124444, --Infernal Brimstone
-  127004, --Imbued Silkweave
-  151564, --Empyrium
-  123919, --Felslate
-  124461, --Demonsteel Bar
-  124106, --Felwort
-  124109, --Highmountain Salmon
-  124112, --Black Barracuda
-  124119, --Big Gamy Ribs
-  124121, --Wildfowl Egg
-  113588, --Temporal Crystal
-  127759, --Felblight
-  111366, --Gearspring Parts
-  113261, --Sorcerous Fire
-  113262, --Sorcerous Water
-  113263, --Sorcerous Earth
-  118472, --Savage Blood
-  120945, --Primal Spirit
-  109118, --Blackrock Ore
-  109119, --True Iron Ore
-  109128, --Nagrand Arrowbloom
-  123918, --Leystone Ore
-  124113, --Stonehide Leather
-  124115, --Stormscale
-  124437, --Shal'dorei Silk
-  76061, --Spirit of Harmony
-  76131, --Primordial Ruby
-  76132, --Primal Diamond
-  76138, --River's Heart
-  76139, --Wild Jade
-  76140, --Vermilion Onyx
-  76142, --Sun's Radiance
-  83092, --Orb of Mystery
-  94113, --Jard's Peculiar Energy Source
-  72095, --Trillium Bar
-  111557, --Sumptuous Fur
-  72104, --Living Steel
-  72093, --Kyparite
-  76133, --Lapis Lazuli
-  72096, --Ghost Iron Bar
-  72988, --Windwool Cloth
-  77467, --Ghost Iron Bolts
-  77468, --High-Explosive Gunpowder
-  52078, --Chaos Orb
-  58480, --Truegold
-  52190, --Inferno Ruby
-  52191, --Ocean Sapphire
-  52192, --Dream Emerald
-  52186, --Elementium Bar
-  52325, --Volatile Fire
-  52327, --Volatile Earth
-  52328, --Volatile Air
-  53039, --Hardened Elementium Bar
-  52179, --Alicite
-  52181, --Hessonite
-  52182, --Jasper
-  52976, --Savage Leather
-  53010, --Embersilk Cloth
-  54849, --Obsidium Bar
-  60224, --Handful of Obsidium Bolts
-  62778, --Toughened Flesh
-  67749, --Electrified Ether
-  36922, --King's Amber
-  34052, --Dream Shard
-  36918, --Scarlet Ruby
-  36921, --Autumn's Glow
-  36924, --Sky Sapphire
-  36927, --Twilight Opal
-  36930, --Monarch Topaz
-  36933, --Forest Emerald
-  43102, --Frozen Orb
-  44499, --Salvaged Iron Golem Parts
-  44500, --Elementium-Plated Exhaust Pipe
-  44501, --Goblin-Machined Piston
-  37663, --Titansteel Bar
-  41163, --Titanium Bar
-  36913, --Saronite Bar
-  38425, --Heavy Borean Leather
-  40533, --Walnut Stock
-  44128, --Arctic Fur
-  35622, --Eternal Water
-  35623, --Eternal Air
-  35624, --Eternal Earth
-  35625, --Eternal Life
-  35627, --Eternal Shadow
-  36860, --Eternal Fire
-  36920, --Sun Crystal
-  37701, --Crystallized Earth
-  37702, --Crystallized Fire
-  37705, --Crystallized Water
-  36916, --Cobalt Bar
-  39690, --Volatile Blasting Trigger
-  39681, --Handful of Cobalt Bolts
-  39684, --Hair Trigger
-  22449, --Large Prismatic Shard
-  23436, --Living Ruby
-  23437, --Talasite
-  23438, --Star of Elune
-  23439, --Noble Topaz
-  23440, --Dawnstone
-  23441, --Nightseye
-  24271, --Spellcloth
-  24272, --Shadowcloth
-  23449, --Khorium Bar
-  35128, --Hardened Khorium
-  23785, --Hardened Adamantite Tube
-  23786, --Khorium Power Core
-  23787, --Felsteel Stabilizer
-  33470, --Frostweave Cloth
-  33568, --Borean Leather
-  39682, --Overcharged Capacitor
-  39683, --Froststeel Tube
-  32423, --Icy Blasting Primers
-  22448, --Small Prismatic Shard
-  23571, --Primal Might
-  23572, --Primal Nether
-  21884, --Primal Fire
-  21885, --Primal Water
-  21886, --Primal Life
-  21929, --Flame Spessarite
-  22451, --Primal Air
-  22452, --Primal Earth
-  22456, --Primal Shadow
-  22457, --Primal Mana
-  23077, --Blood Garnet
-  23079, --Deep Peridot
-  23112, --Golden Draenite
-  22573, --Mote of Earth
-  22574, --Mote of Fire
-  23446, --Adamantite Bar
-  23573, --Hardened Adamantite Bar
-  23784, --Adamantite Frame
-  23793, --Heavy Knothide Leather
-  17010, --Fiery Core
-  17011, --Lava Core
-  12364, --Huge Emerald
-  12800, --Azerothian Diamond
-  23448, --Felsteel Bar
-  21840, --Bolt of Netherweave
-  21877, --Netherweave Cloth
-  21887, --Knothide Leather
-  22445, --Arcane Dust
-  23445, --Fel Iron Bar
-  23781, --Elemental Blasting Powder
-  23782, --Fel Iron Casing
-  23783, --Handful of Fel Iron Bolts
-  90146, --Tinker's Kit
-  13467, --Icecap
-  16006, --Delicate Arcanite Converter
-  7076, --Essence of Earth
-  7078, --Essence of Fire
-  7080, --Essence of Water
-  7082, --Essence of Air
-  12360, --Arcanite Bar
-  12361, --Blue Sapphire
-  12799, --Large Opal
-  12803, --Living Essence
-  12808, --Essence of Undeath
-  12655, --Enchanted Thorium Bar
-  12804, --Powerful Mojo
-  12810, --Enchanted Leather
-  15994, --Thorium Widget
-  6037, --Truesilver Bar
-  7910, --Star Ruby
-  4342, --Purple Dye
-  8170, --Rugged Leather
-  10647, --Engineer's Ink
-  11371, --Dark Iron Bar
-  12359, --Thorium Bar
-  14047, --Runecloth
-  14227, --Ironweb Spider Silk
-  15407, --Cured Rugged Hide
-  15992, --Dense Blasting Powder
-  18631, --Truesilver Transformer
-  7909, --Aquamarine
-  4339, --Bolt of Mageweave
-  7075, --Core of Earth
-  7077, --Heart of Fire
-  7079, --Globe of Water
-  7972, --Ichor of Undeath
-  10286, --Heart of the Wild
-  12365, --Dense Stone
-  10561, --Mithril Casing
-  9060, --Inlaid Mithril Cylinder
-  9061, --Goblin Rocket Fuel
-  3864, --Citrine
-  8153, --Wildvine
-  3860, --Mithril Bar
-  4304, --Thick Leather
-  4338, --Mageweave Cloth
-  8150, --Deeprock Salt
-  10285, --Shadow Silk
-  10560, --Unstable Trigger
-  10559, --Mithril Tube
-  16000, --Thorium Tube
-  1529, --Jade
-  3859, --Steel Bar
-  4337, --Thick Spider's Silk
-  7912, --Solid Stone
-  10505, --Solid Blasting Powder
-  4389, --Gyrochronatom
-  4387, --Iron Strut
-  1705, --Lesser Moonstone
-  3577, --Gold Bar
-  3575, --Iron Bar
-  4234, --Heavy Leather
-  4306, --Silk Cloth
-  10558, --Gold Power Core
-  11291, --Star Wood
-  4382, --Bronze Framework
-  7191, --Fused Wiring
-  163569, --Insulated Wiring
-  1206, --Moss Agate
-  2838, --Heavy Stone
-  4375, --Whirring Bronze Gizmo
-  4377, --Heavy Blasting Powder
-  4400, --Heavy Stock
-  4402, --Small Flame Sac
-  7067, --Elemental Earth
-  7068, --Elemental Fire
-  7069, --Elemental Air
-  4371, --Bronze Tube
-  1210, --Shadowgem
-  2319, --Medium Leather
-  2841, --Bronze Bar
-  4404, --Silver Contact
-  818, --Tigerseye
-  2592, --Wool Cloth
-  2605, --Green Dye
-  2836, --Coarse Stone
-  4364, --Coarse Blasting Powder
-  2842, --Silver Bar
-  2318, --Light Leather
-  2840, --Copper Bar
-  4399, --Wooden Stock
-  4359, --Handful of Copper Bolts
-  774, --Malachite
-  2589, --Linen Cloth
-  2835, --Rough Stone
-  4357, --Rough Blasting Powder
-  4470, --Simple Wood
-  144329, --Hardened Felglass
-  814, --Flask of Oil
-  4611, --Blue Pearl
-  39354, --Light Parchment
-  136633, --Loose Trigger
-  136636, --Sniping Scope
-  136637, --Oversized Blasting Cap
-  136638, --True Iron Barrel
-  140781, --X-87 Battle Circuit
-  140782, --Neural Net Detangler
-  140783, --Predictive Combat Operations Databank
-  140784, --Fel Piston Stabilizer
-  140785, --Hardened Circuitboard Plating
-  160502, --Chemical Blasting Cap
+  [165703]=true, --Breath of Bwonsamdi
+  [161131]=true, --Barely Stable Azerite Reactor
+  [161132]=true, --Crush Resistant Stabilizer
+  [161136]=true, --Azerite Forged Protection Plating
+  [161137]=true, --Blast-Fired Electric Servomotor
+  [152513]=true, --Platinum Ore
+  [152512]=true, --Monelite Ore
+  [152579]=true, --Storm Silver Ore
+  [162461]=true, --Sanguicell
+  [124124]=true, --Blood of Sargeras
+  [130178]=true, --Furystone
+  [151568]=true, --Primal Sargerite
+  [152668]=true, --Expulsom
+  [162460]=true, --Hydrocore
+  [163203]=true, --Hypersensitive Azeritometer Sensor
+  [165948]=true, --Tidalcore
+  [124116]=true, --Felhide
+  [124444]=true, --Infernal Brimstone
+  [127004]=true, --Imbued Silkweave
+  [151564]=true, --Empyrium
+  [123919]=true, --Felslate
+  [124461]=true, --Demonsteel Bar
+  [124106]=true, --Felwort
+  [124109]=true, --Highmountain Salmon
+  [124112]=true, --Black Barracuda
+  [124119]=true, --Big Gamy Ribs
+  [124121]=true, --Wildfowl Egg
+  [113588]=true, --Temporal Crystal
+  [127759]=true, --Felblight
+  [111366]=true, --Gearspring Parts
+  [113261]=true, --Sorcerous Fire
+  [113262]=true, --Sorcerous Water
+  [113263]=true, --Sorcerous Earth
+  [118472]=true, --Savage Blood
+  [120945]=true, --Primal Spirit
+  [109118]=true, --Blackrock Ore
+  [109119]=true, --True Iron Ore
+  [109128]=true, --Nagrand Arrowbloom
+  [123918]=true, --Leystone Ore
+  [124113]=true, --Stonehide Leather
+  [124115]=true, --Stormscale
+  [124437]=true, --Shal'dorei Silk
+  [76061]=true, --Spirit of Harmony
+  [76131]=true, --Primordial Ruby
+  [76132]=true, --Primal Diamond
+  [76138]=true, --River's Heart
+  [76139]=true, --Wild Jade
+  [76140]=true, --Vermilion Onyx
+  [76142]=true, --Sun's Radiance
+  [83092]=true, --Orb of Mystery
+  [94113]=true, --Jard's Peculiar Energy Source
+  [72095]=true, --Trillium Bar
+  [111557]=true, --Sumptuous Fur
+  [72104]=true, --Living Steel
+  [72093]=true, --Kyparite
+  [76133]=true, --Lapis Lazuli
+  [72096]=true, --Ghost Iron Bar
+  [72988]=true, --Windwool Cloth
+  [77467]=true, --Ghost Iron Bolts
+  [77468]=true, --High-Explosive Gunpowder
+  [52078]=true, --Chaos Orb
+  [58480]=true, --Truegold
+  [52190]=true, --Inferno Ruby
+  [52191]=true, --Ocean Sapphire
+  [52192]=true, --Dream Emerald
+  [52186]=true, --Elementium Bar
+  [52325]=true, --Volatile Fire
+  [52327]=true, --Volatile Earth
+  [52328]=true, --Volatile Air
+  [53039]=true, --Hardened Elementium Bar
+  [52179]=true, --Alicite
+  [52181]=true, --Hessonite
+  [52182]=true, --Jasper
+  [52976]=true, --Savage Leather
+  [53010]=true, --Embersilk Cloth
+  [54849]=true, --Obsidium Bar
+  [60224]=true, --Handful of Obsidium Bolts
+  [62778]=true, --Toughened Flesh
+  [67749]=true, --Electrified Ether
+  [36922]=true, --King's Amber
+  [34052]=true, --Dream Shard
+  [36918]=true, --Scarlet Ruby
+  [36921]=true, --Autumn's Glow
+  [36924]=true, --Sky Sapphire
+  [36927]=true, --Twilight Opal
+  [36930]=true, --Monarch Topaz
+  [36933]=true, --Forest Emerald
+  [43102]=true, --Frozen Orb
+  [44499]=true, --Salvaged Iron Golem Parts
+  [44500]=true, --Elementium-Plated Exhaust Pipe
+  [44501]=true, --Goblin-Machined Piston
+  [37663]=true, --Titansteel Bar
+  [41163]=true, --Titanium Bar
+  [36913]=true, --Saronite Bar
+  [38425]=true, --Heavy Borean Leather
+  [40533]=true, --Walnut Stock
+  [44128]=true, --Arctic Fur
+  [35622]=true, --Eternal Water
+  [35623]=true, --Eternal Air
+  [35624]=true, --Eternal Earth
+  [35625]=true, --Eternal Life
+  [35627]=true, --Eternal Shadow
+  [36860]=true, --Eternal Fire
+  [36920]=true, --Sun Crystal
+  [37701]=true, --Crystallized Earth
+  [37702]=true, --Crystallized Fire
+  [37705]=true, --Crystallized Water
+  [36916]=true, --Cobalt Bar
+  [39690]=true, --Volatile Blasting Trigger
+  [39681]=true, --Handful of Cobalt Bolts
+  [39684]=true, --Hair Trigger
+  [22449]=true, --Large Prismatic Shard
+  [23436]=true, --Living Ruby
+  [23437]=true, --Talasite
+  [23438]=true, --Star of Elune
+  [23439]=true, --Noble Topaz
+  [23440]=true, --Dawnstone
+  [23441]=true, --Nightseye
+  [24271]=true, --Spellcloth
+  [24272]=true, --Shadowcloth
+  [23449]=true, --Khorium Bar
+  [35128]=true, --Hardened Khorium
+  [23785]=true, --Hardened Adamantite Tube
+  [23786]=true, --Khorium Power Core
+  [23787]=true, --Felsteel Stabilizer
+  [33470]=true, --Frostweave Cloth
+  [33568]=true, --Borean Leather
+  [39682]=true, --Overcharged Capacitor
+  [39683]=true, --Froststeel Tube
+  [32423]=true, --Icy Blasting Primers
+  [22448]=true, --Small Prismatic Shard
+  [23571]=true, --Primal Might
+  [23572]=true, --Primal Nether
+  [21884]=true, --Primal Fire
+  [21885]=true, --Primal Water
+  [21886]=true, --Primal Life
+  [21929]=true, --Flame Spessarite
+  [22451]=true, --Primal Air
+  [22452]=true, --Primal Earth
+  [22456]=true, --Primal Shadow
+  [22457]=true, --Primal Mana
+  [23077]=true, --Blood Garnet
+  [23079]=true, --Deep Peridot
+  [23112]=true, --Golden Draenite
+  [22573]=true, --Mote of Earth
+  [22574]=true, --Mote of Fire
+  [23446]=true, --Adamantite Bar
+  [23573]=true, --Hardened Adamantite Bar
+  [23784]=true, --Adamantite Frame
+  [23793]=true, --Heavy Knothide Leather
+  [17010]=true, --Fiery Core
+  [17011]=true, --Lava Core
+  [12364]=true, --Huge Emerald
+  [12800]=true, --Azerothian Diamond
+  [23448]=true, --Felsteel Bar
+  [21840]=true, --Bolt of Netherweave
+  [21877]=true, --Netherweave Cloth
+  [21887]=true, --Knothide Leather
+  [22445]=true, --Arcane Dust
+  [23445]=true, --Fel Iron Bar
+  [23781]=true, --Elemental Blasting Powder
+  [23782]=true, --Fel Iron Casing
+  [23783]=true, --Handful of Fel Iron Bolts
+  [90146]=true, --Tinker's Kit
+  [13467]=true, --Icecap
+  [16006]=true, --Delicate Arcanite Converter
+  [7076]=true, --Essence of Earth
+  [7078]=true, --Essence of Fire
+  [7080]=true, --Essence of Water
+  [7082]=true, --Essence of Air
+  [12360]=true, --Arcanite Bar
+  [12361]=true, --Blue Sapphire
+  [12799]=true, --Large Opal
+  [12803]=true, --Living Essence
+  [12808]=true, --Essence of Undeath
+  [12655]=true, --Enchanted Thorium Bar
+  [12804]=true, --Powerful Mojo
+  [12810]=true, --Enchanted Leather
+  [15994]=true, --Thorium Widget
+  [6037]=true, --Truesilver Bar
+  [7910]=true, --Star Ruby
+  [4342]=true, --Purple Dye
+  [8170]=true, --Rugged Leather
+  [10647]=true, --Engineer's Ink
+  [11371]=true, --Dark Iron Bar
+  [12359]=true, --Thorium Bar
+  [14047]=true, --Runecloth
+  [14227]=true, --Ironweb Spider Silk
+  [15407]=true, --Cured Rugged Hide
+  [15992]=true, --Dense Blasting Powder
+  [18631]=true, --Truesilver Transformer
+  [7909]=true, --Aquamarine
+  [4339]=true, --Bolt of Mageweave
+  [7075]=true, --Core of Earth
+  [7077]=true, --Heart of Fire
+  [7079]=true, --Globe of Water
+  [7972]=true, --Ichor of Undeath
+  [10286]=true, --Heart of the Wild
+  [12365]=true, --Dense Stone
+  [10561]=true, --Mithril Casing
+  [9060]=true, --Inlaid Mithril Cylinder
+  [9061]=true, --Goblin Rocket Fuel
+  [3864]=true, --Citrine
+  [8153]=true, --Wildvine
+  [3860]=true, --Mithril Bar
+  [4304]=true, --Thick Leather
+  [4338]=true, --Mageweave Cloth
+  [8150]=true, --Deeprock Salt
+  [10285]=true, --Shadow Silk
+  [10560]=true, --Unstable Trigger
+  [10559]=true, --Mithril Tube
+  [16000]=true, --Thorium Tube
+  [1529]=true, --Jade
+  [3859]=true, --Steel Bar
+  [4337]=true, --Thick Spider's Silk
+  [7912]=true, --Solid Stone
+  [10505]=true, --Solid Blasting Powder
+  [4389]=true, --Gyrochronatom
+  [4387]=true, --Iron Strut
+  [1705]=true, --Lesser Moonstone
+  [3577]=true, --Gold Bar
+  [3575]=true, --Iron Bar
+  [4234]=true, --Heavy Leather
+  [4306]=true, --Silk Cloth
+  [10558]=true, --Gold Power Core
+  [11291]=true, --Star Wood
+  [4382]=true, --Bronze Framework
+  [7191]=true, --Fused Wiring
+  [163569]=true, --Insulated Wiring
+  [1206]=true, --Moss Agate
+  [2838]=true, --Heavy Stone
+  [4375]=true, --Whirring Bronze Gizmo
+  [4377]=true, --Heavy Blasting Powder
+  [4400]=true, --Heavy Stock
+  [4402]=true, --Small Flame Sac
+  [7067]=true, --Elemental Earth
+  [7068]=true, --Elemental Fire
+  [7069]=true, --Elemental Air
+  [4371]=true, --Bronze Tube
+  [1210]=true, --Shadowgem
+  [2319]=true, --Medium Leather
+  [2841]=true, --Bronze Bar
+  [4404]=true, --Silver Contact
+  [818]=true, --Tigerseye
+  [2592]=true, --Wool Cloth
+  [2605]=true, --Green Dye
+  [2836]=true, --Coarse Stone
+  [4364]=true, --Coarse Blasting Powder
+  [2842]=true, --Silver Bar
+  [2318]=true, --Light Leather
+  [2840]=true, --Copper Bar
+  [4399]=true, --Wooden Stock
+  [4359]=true, --Handful of Copper Bolts
+  [774]=true, --Malachite
+  [2589]=true, --Linen Cloth
+  [2835]=true, --Rough Stone
+  [4357]=true, --Rough Blasting Powder
+  [4470]=true, --Simple Wood
+  [144329]=true, --Hardened Felglass
+  [814]=true, --Flask of Oil
+  [4611]=true, --Blue Pearl
+  [39354]=true, --Light Parchment
+  [136633]=true, --Loose Trigger
+  [136636]=true, --Sniping Scope
+  [136637]=true, --Oversized Blasting Cap
+  [136638]=true, --True Iron Barrel
+  [140781]=true, --X-87 Battle Circuit
+  [140782]=true, --Neural Net Detangler
+  [140783]=true, --Predictive Combat Operations Databank
+  [140784]=true, --Fel Piston Stabilizer
+  [140785]=true, --Hardened Circuitboard Plating
+  [160502]=true, --Chemical Blasting Cap
 }

@@ -5,202 +5,202 @@
 local ReagentTooltips = ReagentTooltips;
 
 ReagentTooltips.Tailoring = {
-  165703, --Breath of Bwonsamdi
-  158378, --Embroidered Deep Sea Satin
-  152577, --Deep Sea Satin
-  152576, --Tidespray Linen
-  162461, --Sanguicell
-  124124, --Blood of Sargeras
-  130183, --Shadowruby
-  151568, --Primal Sargerite
-  152668, --Expulsom
-  162460, --Hydrocore
-  165948, --Tidalcore
-  124440, --Arkhana
-  127004, --Imbued Silkweave
-  124106, --Felwort
-  127759, --Felblight
-  111556, --Hexweave Cloth
-  113262, --Sorcerous Water
-  113263, --Sorcerous Earth
-  113264, --Sorcerous Air
-  118472, --Savage Blood
-  120945, --Primal Spirit
-  109119, --True Iron Ore
-  109126, --Gorgrond Flytrap
-  110609, --Raw Beast Hide
-  123918, --Leystone Ore
-  124113, --Stonehide Leather
-  124115, --Stormscale
-  124437, --Shal'dorei Silk
-  124438, --Unbroken Claw
-  124439, --Unbroken Tooth
-  127037, --Runic Catgut
-  127681, --Sharp Spritethorn
-  142335, --Pristine Falcosaur Feather
-  151567, --Lightweave Cloth
-  159959, --Nylon Thread
-  76061, --Spirit of Harmony
-  80433, --Blood Spirit
-  82447, --Imperial Silk
-  94289, --Haunting Spirit
-  98619, --Celestial Cloth
-  102218, --Spirit of War
-  82441, --Bolt of Windwool Cloth
-  111557, --Sumptuous Fur
-  72988, --Windwool Cloth
-  71998, --Essence of Destruction
-  52078, --Chaos Orb
-  54440, --Dreamcloth
-  52325, --Volatile Fire
-  52326, --Volatile Water
-  52327, --Volatile Earth
-  52328, --Volatile Air
-  52329, --Volatile Life
-  52555, --Hypnotic Dust
-  53010, --Embersilk Cloth
-  53643, --Bolt of Embersilk Cloth
-  36919, --Cardinal Ruby
-  36922, --King's Amber
-  36925, --Majestic Zircon
-  36934, --Eye of Zul
-  22682, --Frozen Rune
-  34052, --Dream Shard
-  36930, --Monarch Topaz
-  41593, --Ebonweave
-  41594, --Moonshroud
-  41595, --Spellweave
-  43102, --Frozen Orb
-  45087, --Runed Orb
-  47556, --Crusader Orb
-  49908, --Primordial Saronite
-  69237, --Living Ember
-  36908, --Frost Lotus
-  38425, --Heavy Borean Leather
-  30183, --Nether Vortex
-  36784, --Siren's Tear
-  34055, --Greater Cosmic Essence
-  35622, --Eternal Water
-  35624, --Eternal Earth
-  35625, --Eternal Life
-  35627, --Eternal Shadow
-  36783, --Northsea Pearl
-  36860, --Eternal Fire
-  41511, --Bolt of Imbued Frostweave
-  37701, --Crystallized Earth
-  37702, --Crystallized Fire
-  37704, --Crystallized Life
-  42253, --Iceweb Spider Silk
-  22450, --Void Crystal
-  21845, --Primal Mooncloth
-  24271, --Spellcloth
-  24272, --Shadowcloth
-  34664, --Sunmote
-  22794, --Fel Lotus
-  21844, --Bolt of Soulcloth
-  33470, --Frostweave Cloth
-  34054, --Infinite Dust
-  38426, --Eternium Thread
-  41510, --Bolt of Frostweave
-  21842, --Bolt of Imbued Netherweave
-  23571, --Primal Might
-  23572, --Primal Nether
-  32428, --Heart of Darkness
-  21884, --Primal Fire
-  21885, --Primal Water
-  21886, --Primal Life
-  22446, --Greater Planar Essence
-  22451, --Primal Air
-  22452, --Primal Earth
-  22456, --Primal Shadow
-  22457, --Primal Mana
-  17010, --Fiery Core
-  17011, --Lava Core
-  12364, --Huge Emerald
-  12800, --Azerothian Diamond
-  12809, --Guardian Stone
-  12811, --Righteous Orb
-  13468, --Black Lotus
-  17012, --Core Leather
-  21840, --Bolt of Netherweave
-  21877, --Netherweave Cloth
-  21881, --Netherweb Spider Silk
-  21882, --Soul Essence
-  21887, --Knothide Leather
-  22445, --Arcane Dust
-  14344, --Large Brilliant Shard
-  7076, --Essence of Earth
-  7078, --Essence of Fire
-  7080, --Essence of Water
-  7082, --Essence of Air
-  12360, --Arcanite Bar
-  12803, --Living Essence
-  12808, --Essence of Undeath
-  16203, --Greater Eternal Essence
-  20520, --Dark Rune
-  12804, --Powerful Mojo
-  12810, --Enchanted Leather
-  14048, --Bolt of Runecloth
-  14342, --Mooncloth
-  156930, --Rich Illusion Dust
-  6037, --Truesilver Bar
-  7910, --Star Ruby
-  12662, --Demonic Rune
-  4342, --Purple Dye
-  8170, --Rugged Leather
-  10290, --Pink Dye
-  14047, --Runecloth
-  14227, --Ironweb Spider Silk
-  14256, --Felcloth
-  14341, --Rune Thread
-  9210, --Ghost Dye
-  4339, --Bolt of Mageweave
-  7077, --Heart of Fire
-  7079, --Globe of Water
-  7972, --Ichor of Undeath
-  10286, --Heart of the Wild
-  8831, --Purple Lotus
-  4625, --Firebloom
-  3864, --Citrine
-  7971, --Black Pearl
-  8153, --Wildvine
-  13926, --Golden Pearl
-  2325, --Black Dye
-  4304, --Thick Leather
-  4338, --Mageweave Cloth
-  8343, --Heavy Silken Thread
-  10285, --Shadow Silk
-  1529, --Jade
-  4305, --Bolt of Silk Cloth
-  4337, --Thick Spider's Silk
-  6261, --Orange Dye
-  3577, --Gold Bar
-  4234, --Heavy Leather
-  4291, --Silken Thread
-  4306, --Silk Cloth
-  7071, --Iron Buckle
-  5500, --Iridescent Pearl
-  2997, --Bolt of Woolen Cloth
-  4340, --Gray Dye
-  4341, --Yellow Dye
-  6371, --Fire Oil
-  7067, --Elemental Earth
-  7068, --Elemental Fire
-  7069, --Elemental Air
-  7070, --Elemental Water
-  7072, --Naga Scale
-  2319, --Medium Leather
-  2321, --Fine Thread
-  3182, --Spider's Silk
-  5498, --Small Lustrous Pearl
-  2592, --Wool Cloth
-  2605, --Green Dye
-  2318, --Light Leather
-  2604, --Red Dye
-  2996, --Bolt of Linen Cloth
-  6260, --Blue Dye
-  2320, --Coarse Thread
-  2324, --Bleach
-  2589, --Linen Cloth
-  18240, --Ogre Tannin
+  [165703]=true, --Breath of Bwonsamdi
+  [158378]=true, --Embroidered Deep Sea Satin
+  [152577]=true, --Deep Sea Satin
+  [152576]=true, --Tidespray Linen
+  [162461]=true, --Sanguicell
+  [124124]=true, --Blood of Sargeras
+  [130183]=true, --Shadowruby
+  [151568]=true, --Primal Sargerite
+  [152668]=true, --Expulsom
+  [162460]=true, --Hydrocore
+  [165948]=true, --Tidalcore
+  [124440]=true, --Arkhana
+  [127004]=true, --Imbued Silkweave
+  [124106]=true, --Felwort
+  [127759]=true, --Felblight
+  [111556]=true, --Hexweave Cloth
+  [113262]=true, --Sorcerous Water
+  [113263]=true, --Sorcerous Earth
+  [113264]=true, --Sorcerous Air
+  [118472]=true, --Savage Blood
+  [120945]=true, --Primal Spirit
+  [109119]=true, --True Iron Ore
+  [109126]=true, --Gorgrond Flytrap
+  [110609]=true, --Raw Beast Hide
+  [123918]=true, --Leystone Ore
+  [124113]=true, --Stonehide Leather
+  [124115]=true, --Stormscale
+  [124437]=true, --Shal'dorei Silk
+  [124438]=true, --Unbroken Claw
+  [124439]=true, --Unbroken Tooth
+  [127037]=true, --Runic Catgut
+  [127681]=true, --Sharp Spritethorn
+  [142335]=true, --Pristine Falcosaur Feather
+  [151567]=true, --Lightweave Cloth
+  [159959]=true, --Nylon Thread
+  [76061]=true, --Spirit of Harmony
+  [80433]=true, --Blood Spirit
+  [82447]=true, --Imperial Silk
+  [94289]=true, --Haunting Spirit
+  [98619]=true, --Celestial Cloth
+  [102218]=true, --Spirit of War
+  [82441]=true, --Bolt of Windwool Cloth
+  [111557]=true, --Sumptuous Fur
+  [72988]=true, --Windwool Cloth
+  [71998]=true, --Essence of Destruction
+  [52078]=true, --Chaos Orb
+  [54440]=true, --Dreamcloth
+  [52325]=true, --Volatile Fire
+  [52326]=true, --Volatile Water
+  [52327]=true, --Volatile Earth
+  [52328]=true, --Volatile Air
+  [52329]=true, --Volatile Life
+  [52555]=true, --Hypnotic Dust
+  [53010]=true, --Embersilk Cloth
+  [53643]=true, --Bolt of Embersilk Cloth
+  [36919]=true, --Cardinal Ruby
+  [36922]=true, --King's Amber
+  [36925]=true, --Majestic Zircon
+  [36934]=true, --Eye of Zul
+  [22682]=true, --Frozen Rune
+  [34052]=true, --Dream Shard
+  [36930]=true, --Monarch Topaz
+  [41593]=true, --Ebonweave
+  [41594]=true, --Moonshroud
+  [41595]=true, --Spellweave
+  [43102]=true, --Frozen Orb
+  [45087]=true, --Runed Orb
+  [47556]=true, --Crusader Orb
+  [49908]=true, --Primordial Saronite
+  [69237]=true, --Living Ember
+  [36908]=true, --Frost Lotus
+  [38425]=true, --Heavy Borean Leather
+  [30183]=true, --Nether Vortex
+  [36784]=true, --Siren's Tear
+  [34055]=true, --Greater Cosmic Essence
+  [35622]=true, --Eternal Water
+  [35624]=true, --Eternal Earth
+  [35625]=true, --Eternal Life
+  [35627]=true, --Eternal Shadow
+  [36783]=true, --Northsea Pearl
+  [36860]=true, --Eternal Fire
+  [41511]=true, --Bolt of Imbued Frostweave
+  [37701]=true, --Crystallized Earth
+  [37702]=true, --Crystallized Fire
+  [37704]=true, --Crystallized Life
+  [42253]=true, --Iceweb Spider Silk
+  [22450]=true, --Void Crystal
+  [21845]=true, --Primal Mooncloth
+  [24271]=true, --Spellcloth
+  [24272]=true, --Shadowcloth
+  [34664]=true, --Sunmote
+  [22794]=true, --Fel Lotus
+  [21844]=true, --Bolt of Soulcloth
+  [33470]=true, --Frostweave Cloth
+  [34054]=true, --Infinite Dust
+  [38426]=true, --Eternium Thread
+  [41510]=true, --Bolt of Frostweave
+  [21842]=true, --Bolt of Imbued Netherweave
+  [23571]=true, --Primal Might
+  [23572]=true, --Primal Nether
+  [32428]=true, --Heart of Darkness
+  [21884]=true, --Primal Fire
+  [21885]=true, --Primal Water
+  [21886]=true, --Primal Life
+  [22446]=true, --Greater Planar Essence
+  [22451]=true, --Primal Air
+  [22452]=true, --Primal Earth
+  [22456]=true, --Primal Shadow
+  [22457]=true, --Primal Mana
+  [17010]=true, --Fiery Core
+  [17011]=true, --Lava Core
+  [12364]=true, --Huge Emerald
+  [12800]=true, --Azerothian Diamond
+  [12809]=true, --Guardian Stone
+  [12811]=true, --Righteous Orb
+  [13468]=true, --Black Lotus
+  [17012]=true, --Core Leather
+  [21840]=true, --Bolt of Netherweave
+  [21877]=true, --Netherweave Cloth
+  [21881]=true, --Netherweb Spider Silk
+  [21882]=true, --Soul Essence
+  [21887]=true, --Knothide Leather
+  [22445]=true, --Arcane Dust
+  [14344]=true, --Large Brilliant Shard
+  [7076]=true, --Essence of Earth
+  [7078]=true, --Essence of Fire
+  [7080]=true, --Essence of Water
+  [7082]=true, --Essence of Air
+  [12360]=true, --Arcanite Bar
+  [12803]=true, --Living Essence
+  [12808]=true, --Essence of Undeath
+  [16203]=true, --Greater Eternal Essence
+  [20520]=true, --Dark Rune
+  [12804]=true, --Powerful Mojo
+  [12810]=true, --Enchanted Leather
+  [14048]=true, --Bolt of Runecloth
+  [14342]=true, --Mooncloth
+  [156930]=true, --Rich Illusion Dust
+  [6037]=true, --Truesilver Bar
+  [7910]=true, --Star Ruby
+  [12662]=true, --Demonic Rune
+  [4342]=true, --Purple Dye
+  [8170]=true, --Rugged Leather
+  [10290]=true, --Pink Dye
+  [14047]=true, --Runecloth
+  [14227]=true, --Ironweb Spider Silk
+  [14256]=true, --Felcloth
+  [14341]=true, --Rune Thread
+  [9210]=true, --Ghost Dye
+  [4339]=true, --Bolt of Mageweave
+  [7077]=true, --Heart of Fire
+  [7079]=true, --Globe of Water
+  [7972]=true, --Ichor of Undeath
+  [10286]=true, --Heart of the Wild
+  [8831]=true, --Purple Lotus
+  [4625]=true, --Firebloom
+  [3864]=true, --Citrine
+  [7971]=true, --Black Pearl
+  [8153]=true, --Wildvine
+  [13926]=true, --Golden Pearl
+  [2325]=true, --Black Dye
+  [4304]=true, --Thick Leather
+  [4338]=true, --Mageweave Cloth
+  [8343]=true, --Heavy Silken Thread
+  [10285]=true, --Shadow Silk
+  [1529]=true, --Jade
+  [4305]=true, --Bolt of Silk Cloth
+  [4337]=true, --Thick Spider's Silk
+  [6261]=true, --Orange Dye
+  [3577]=true, --Gold Bar
+  [4234]=true, --Heavy Leather
+  [4291]=true, --Silken Thread
+  [4306]=true, --Silk Cloth
+  [7071]=true, --Iron Buckle
+  [5500]=true, --Iridescent Pearl
+  [2997]=true, --Bolt of Woolen Cloth
+  [4340]=true, --Gray Dye
+  [4341]=true, --Yellow Dye
+  [6371]=true, --Fire Oil
+  [7067]=true, --Elemental Earth
+  [7068]=true, --Elemental Fire
+  [7069]=true, --Elemental Air
+  [7070]=true, --Elemental Water
+  [7072]=true, --Naga Scale
+  [2319]=true, --Medium Leather
+  [2321]=true, --Fine Thread
+  [3182]=true, --Spider's Silk
+  [5498]=true, --Small Lustrous Pearl
+  [2592]=true, --Wool Cloth
+  [2605]=true, --Green Dye
+  [2318]=true, --Light Leather
+  [2604]=true, --Red Dye
+  [2996]=true, --Bolt of Linen Cloth
+  [6260]=true, --Blue Dye
+  [2320]=true, --Coarse Thread
+  [2324]=true, --Bleach
+  [2589]=true, --Linen Cloth
+  [18240]=true, --Ogre Tannin
 }

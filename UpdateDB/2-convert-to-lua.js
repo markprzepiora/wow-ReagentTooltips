@@ -18,7 +18,7 @@ files.forEach(({ jsonFileName, luaName }) => {
   let items = JSON.parse(fs.readFileSync(`${__dirname}/items-json/${jsonFileName}`));
   let luaItemLines = items.map(item => {
     const name = (item.name || "").replace(/^[0-9]/, '');
-    return `  ${item.id}, --${name}`;
+    return `  [${item.id}]=true, --${name}`;
   });
 
   let lua = `--[[

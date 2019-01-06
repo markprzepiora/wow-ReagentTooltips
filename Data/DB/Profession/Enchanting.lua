@@ -5,73 +5,73 @@
 local ReagentTooltips = ReagentTooltips;
 
 ReagentTooltips.Enchanting = {
-  152882, --Runed Norgal Rod
-  124442, --Chaos Crystal
-  152877, --Veiled Crystal
-  152876, --Umbra Shard
-  124440, --Arkhana
-  152875, --Gloom Dust
-  124441, --Leylight Shard
-  111245, --Luminous Shard
-  109693, --Draenic Dust
-  113588, --Temporal Crystal
-  115504, --Fractured Temporal Crystal
-  115502, --Small Luminous Shard
-  102218, --Spirit of War
-  80433, --Blood Spirit
-  74247, --Ethereal Shard
-  94289, --Haunting Spirit
-  74248, --Sha Crystal
-  74250, --Mysterious Essence
-  74252, --Small Ethereal Shard
-  74249, --Spirit Dust
-  52722, --Maelstrom Crystal
-  52723, --Runed Elementium Rod
-  52721, --Heavenly Shard
-  52720, --Small Heavenly Shard
-  105718, --Sha Crystal Fragment
-  52719, --Greater Celestial Essence
-  52718, --Lesser Celestial Essence
-  52555, --Hypnotic Dust
-  44452, --Runed Titanium Rod
-  34052, --Dream Shard
-  89738, --Essence or Dust
-  34057, --Abyss Crystal
-  34053, --Small Dream Shard
-  34055, --Greater Cosmic Essence
-  25845, --Eternium Rod
-  22450, --Void Crystal
-  41741, --Cobalt Rod
-  41745, --Titanium Rod
-  34054, --Infinite Dust
-  22449, --Large Prismatic Shard
-  25844, --Adamantite Rod
-  34056, --Lesser Cosmic Essence
-  22448, --Small Prismatic Shard
-  22446, --Greater Planar Essence
-  22462, --Runed Adamantite Rod
-  22461, --Runed Fel Iron Rod
-  22463, --Runed Eternium Rod
-  22445, --Arcane Dust
-  25843, --Fel Iron Rod
-  22447, --Lesser Planar Essence
-  16207, --Runed Arcanite Rod
-  156930, --Rich Illusion Dust
-  14344, --Large Brilliant Shard
-  16206, --Arcanite Rod
-  16203, --Greater Eternal Essence
-  16204, --Light Illusion Dust
-  16202, --Lesser Eternal Essence
-  14343, --Small Brilliant Shard
-  11144, --Truesilver Rod
-  11145, --Runed Truesilver Rod
-  11128, --Golden Rod
-  11130, --Runed Golden Rod
-  6339, --Runed Silver Rod
-  6338, --Silver Rod
-  10939, --Greater Magic Essence
-  10940, --Strange Dust
-  10938, --Lesser Magic Essence
-  6218, --Runed Copper Rod
-  6217, --Copper Rod
+  [152882]=true, --Runed Norgal Rod
+  [124442]=true, --Chaos Crystal
+  [152877]=true, --Veiled Crystal
+  [152876]=true, --Umbra Shard
+  [124440]=true, --Arkhana
+  [152875]=true, --Gloom Dust
+  [124441]=true, --Leylight Shard
+  [111245]=true, --Luminous Shard
+  [109693]=true, --Draenic Dust
+  [113588]=true, --Temporal Crystal
+  [115504]=true, --Fractured Temporal Crystal
+  [115502]=true, --Small Luminous Shard
+  [102218]=true, --Spirit of War
+  [80433]=true, --Blood Spirit
+  [74247]=true, --Ethereal Shard
+  [94289]=true, --Haunting Spirit
+  [74248]=true, --Sha Crystal
+  [74250]=true, --Mysterious Essence
+  [74252]=true, --Small Ethereal Shard
+  [74249]=true, --Spirit Dust
+  [52722]=true, --Maelstrom Crystal
+  [52723]=true, --Runed Elementium Rod
+  [52721]=true, --Heavenly Shard
+  [52720]=true, --Small Heavenly Shard
+  [105718]=true, --Sha Crystal Fragment
+  [52719]=true, --Greater Celestial Essence
+  [52718]=true, --Lesser Celestial Essence
+  [52555]=true, --Hypnotic Dust
+  [44452]=true, --Runed Titanium Rod
+  [34052]=true, --Dream Shard
+  [89738]=true, --Essence or Dust
+  [34057]=true, --Abyss Crystal
+  [34053]=true, --Small Dream Shard
+  [34055]=true, --Greater Cosmic Essence
+  [25845]=true, --Eternium Rod
+  [22450]=true, --Void Crystal
+  [41741]=true, --Cobalt Rod
+  [41745]=true, --Titanium Rod
+  [34054]=true, --Infinite Dust
+  [22449]=true, --Large Prismatic Shard
+  [25844]=true, --Adamantite Rod
+  [34056]=true, --Lesser Cosmic Essence
+  [22448]=true, --Small Prismatic Shard
+  [22446]=true, --Greater Planar Essence
+  [22462]=true, --Runed Adamantite Rod
+  [22461]=true, --Runed Fel Iron Rod
+  [22463]=true, --Runed Eternium Rod
+  [22445]=true, --Arcane Dust
+  [25843]=true, --Fel Iron Rod
+  [22447]=true, --Lesser Planar Essence
+  [16207]=true, --Runed Arcanite Rod
+  [156930]=true, --Rich Illusion Dust
+  [14344]=true, --Large Brilliant Shard
+  [16206]=true, --Arcanite Rod
+  [16203]=true, --Greater Eternal Essence
+  [16204]=true, --Light Illusion Dust
+  [16202]=true, --Lesser Eternal Essence
+  [14343]=true, --Small Brilliant Shard
+  [11144]=true, --Truesilver Rod
+  [11145]=true, --Runed Truesilver Rod
+  [11128]=true, --Golden Rod
+  [11130]=true, --Runed Golden Rod
+  [6339]=true, --Runed Silver Rod
+  [6338]=true, --Silver Rod
+  [10939]=true, --Greater Magic Essence
+  [10940]=true, --Strange Dust
+  [10938]=true, --Lesser Magic Essence
+  [6218]=true, --Runed Copper Rod
+  [6217]=true, --Copper Rod
 }

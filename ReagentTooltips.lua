@@ -104,11 +104,8 @@ function ReagentTooltips:SearchReagentDB(itemIDQuery)
   local ToolTipList = {};
 
   for _, profession in ipairs(PROFESSIONS) do
-    for _, itemID in pairs(ReagentTooltips[profession]) do
-      if (itemIDQuery == itemID) then
-        table.insert(ToolTipList, BabbleInventory[profession]);
-        break;
-      end
+    if (ReagentTooltips[profession][itemIDQuery]) then
+      table.insert(ToolTipList, BabbleInventory[profession]);
     end
   end
 

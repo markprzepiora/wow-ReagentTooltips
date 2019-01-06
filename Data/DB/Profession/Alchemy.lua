@@ -5,257 +5,257 @@
 local ReagentTooltips = ReagentTooltips;
 
 ReagentTooltips.Alchemy = {
-  165703, --Breath of Bwonsamdi
-  152510, --Anchor Weed
-  152577, --Deep Sea Satin
-  152505, --Riverbud
-  152506, --Star Moss
-  152507, --Akunda's Bite
-  152508, --Winter's Kiss
-  152509, --Siren's Pollen
-  152511, --Sea Stalk
-  152512, --Monelite Ore
-  152543, --Sand Shifter
-  152547, --Great Sea Catfish
-  152576, --Tidespray Linen
-  152579, --Storm Silver Ore
-  154164, --Blood-Stained Bone
-  154897, --Stringy Loins
-  154898, --Meaty Haunch
-  162461, --Sanguicell
-  124124, --Blood of Sargeras
-  151568, --Primal Sargerite
-  152668, --Expulsom
-  162460, --Hydrocore
-  165948, --Tidalcore
-  124444, --Infernal Brimstone
-  123919, --Felslate
-  124106, --Felwort
-  124101, --Aethril
-  124102, --Dreamleaf
-  124103, --Foxflower
-  124104, --Fjarnskaggl
-  124105, --Starlight Rose
-  124107, --Cursed Queenfish
-  124108, --Mossgill Perch
-  124109, --Highmountain Salmon
-  124110, --Stormray
-  124111, --Runescale Koi
-  124112, --Black Barracuda
-  124117, --Lean Shank
-  124118, --Fatty Bearsteak
-  124119, --Big Gamy Ribs
-  124120, --Leyblood
-  124121, --Wildfowl Egg
-  128304, --Yseralline Seed
-  133607, --Silver Mackerel
-  151565, --Astral Glory
-  127759, --Felblight
-  108996, --Alchemical Catalyst
-  113261, --Sorcerous Fire
-  113262, --Sorcerous Water
-  113263, --Sorcerous Earth
-  113264, --Sorcerous Air
-  118472, --Savage Blood
-  109118, --Blackrock Ore
-  109119, --True Iron Ore
-  109123, --Crescent Oil
-  109124, --Frostweed
-  109125, --Fireweed
-  109126, --Gorgrond Flytrap
-  109127, --Starflower
-  109128, --Nagrand Arrowbloom
-  109129, --Talador Orchid
-  109137, --Crescent Saberfish Flesh
-  109138, --Jawless Skulker Flesh
-  109139, --Fat Sleeper Flesh
-  109140, --Blind Lake Sturgeon Flesh
-  109141, --Fire Ammonite Tentacle
-  109142, --Sea Scorpion Segment
-  109143, --Abyssal Gulper Eel Flesh
-  109144, --Blackwater Whiptail Flesh
-  123918, --Leystone Ore
-  124113, --Stonehide Leather
-  124115, --Stormscale
-  124437, --Shal'dorei Silk
-  124438, --Unbroken Claw
-  124439, --Unbroken Tooth
-  76061, --Spirit of Harmony
-  76139, --Wild Jade
-  76140, --Vermilion Onyx
-  76141, --Imperial Amethyst
-  72095, --Trillium Bar
-  72238, --Golden Lotus
-  79011, --Fool's Cap
-  76130, --Tiger Opal
-  76133, --Lapis Lazuli
-  76134, --Sunstone
-  76135, --Roguestone
-  76136, --Pandarian Garnet
-  76137, --Alexandrite
-  79010, --Snow Lily
-  83064, --Spinefish
-  72096, --Ghost Iron Bar
-  72235, --Silkweed
-  65893, --Sands of Time
-  51950, --Pyrium Bar
-  58480, --Truegold
-  52987, --Twilight Jasmine
-  65892, --Pyrium-Laced Crystalline Vial
-  72234, --Green Tea Leaf
-  72237, --Rain Poppy
-  52988, --Whiptail
-  52186, --Elementium Bar
-  52325, --Volatile Fire
-  52326, --Volatile Water
-  52327, --Volatile Earth
-  52328, --Volatile Air
-  52329, --Volatile Life
-  52986, --Heartblossom
-  52984, --Stormvine
-  52985, --Azshara's Veil
-  52177, --Carnelian
-  52178, --Zephyrite
-  52179, --Alicite
-  52180, --Nightstone
-  52181, --Hessonite
-  52182, --Jasper
-  52983, --Cinderbloom
-  53065, --Albino Cavefish
-  56850, --Deepstone Oil
-  36918, --Scarlet Ruby
-  36921, --Autumn's Glow
-  36924, --Sky Sapphire
-  36927, --Twilight Opal
-  36930, --Monarch Topaz
-  36933, --Forest Emerald
-  36908, --Frost Lotus
-  36905, --Lichbloom
-  36906, --Icethorn
-  36913, --Saronite Bar
-  36903, --Adder's Tongue
-  30183, --Nether Vortex
-  35622, --Eternal Water
-  35623, --Eternal Air
-  35624, --Eternal Earth
-  35625, --Eternal Life
-  35627, --Eternal Shadow
-  36860, --Eternal Fire
-  36917, --Bloodstone
-  36923, --Chalcedony
-  36929, --Huge Citrine
-  36932, --Dark Jade
-  37701, --Crystallized Earth
-  37702, --Crystallized Fire
-  37703, --Crystallized Shadow
-  37704, --Crystallized Life
-  37705, --Crystallized Water
-  40195, --Pygmy Oil
-  40199, --Pygmy Suckerfish
-  44958, --Ethereal Oil
-  36901, --Goldclover
-  36904, --Tiger Lily
-  36907, --Talandra's Rose
-  37921, --Deadnettle
-  25867, --Earthstorm Diamond
-  25868, --Skyfire Diamond
-  22794, --Fel Lotus
-  22791, --Netherbloom
-  22792, --Nightmare Vine
-  22793, --Mana Thistle
-  41814, --Glassfin Minnow
-  22790, --Ancient Lichen
-  23571, --Primal Might
-  21884, --Primal Fire
-  21885, --Primal Water
-  21886, --Primal Life
-  21929, --Flame Spessarite
-  22451, --Primal Air
-  22452, --Primal Earth
-  22456, --Primal Shadow
-  22457, --Primal Mana
-  23077, --Blood Garnet
-  23079, --Deep Peridot
-  23107, --Shadow Draenite
-  23112, --Golden Draenite
-  23117, --Azure Moonstone
-  22573, --Mote of Earth
-  22574, --Mote of Fire
-  22578, --Mote of Water
-  22787, --Ragveil
-  12363, --Arcane Crystal
-  13468, --Black Lotus
-  19943, --Massive Mojo
-  22785, --Felweed
-  22786, --Dreaming Glory
-  22789, --Terocone
-  23782, --Fel Iron Casing
-  12938, --Blood of Heroes
-  13467, --Icecap
-  13466, --Sorrowmoss
-  13465, --Mountain Silversage
-  7076, --Essence of Earth
-  7078, --Essence of Fire
-  7080, --Essence of Water
-  7082, --Essence of Air
-  12803, --Living Essence
-  12808, --Essence of Undeath
-  12804, --Powerful Mojo
-  156930, --Rich Illusion Dust
-  13463, --Dreamfoil
-  13464, --Golden Sansam
-  4342, --Purple Dye
-  8846, --Gromsblood
-  12359, --Thorium Bar
-  13423, --Stonescale Oil
-  8839, --Blindweed
-  8845, --Ghost Mushroom
-  8838, --Sungrass
-  7077, --Heart of Fire
-  7972, --Ichor of Undeath
-  10286, --Heart of the Wild
-  13422, --Stonescale Eel
-  8831, --Purple Lotus
-  4625, --Firebloom
-  8153, --Wildvine
-  3858, --Mithril Ore
-  3860, --Mithril Bar
-  9262, --Black Vitriol
-  10620, --Thorium Ore
-  3819, --Dragon's Teeth
-  3358, --Khadgar's Whisker
-  3821, --Goldthorn
-  3818, --Fadeleaf
-  3357, --Liferoot
-  3575, --Iron Bar
-  5637, --Large Fang
-  4402, --Small Flame Sac
-  6359, --Firefin Snapper
-  6371, --Fire Oil
-  7067, --Elemental Earth
-  7068, --Elemental Fire
-  7070, --Elemental Water
-  3356, --Kingsblood
-  3355, --Wild Steelbloom
-  3369, --Grave Moss
-  2453, --Bruiseweed
-  3820, --Stranglekelp
-  2450, --Briarthorn
-  2452, --Swiftthistle
-  5635, --Sharp Claw
-  6358, --Oily Blackmouth
-  6370, --Blackmouth Oil
-  785, --Mageroyal
-  2449, --Earthroot
-  765, --Silverleaf
-  2447, --Peacebloom
-  137595, --Viscous Transmutagen
-  137596, --Black Transmutagen
-  137597, --Oily Transmutagen
-  1288, --Large Venom Sac
-  1475, --Small Venom Sac
-  3164, --Discolored Worg Heart
-  3371, --Crystal Vial
-  19441, --Huge Venom Sac
-  158186, --Distilled Water
+  [165703]=true, --Breath of Bwonsamdi
+  [152510]=true, --Anchor Weed
+  [152577]=true, --Deep Sea Satin
+  [152505]=true, --Riverbud
+  [152506]=true, --Star Moss
+  [152507]=true, --Akunda's Bite
+  [152508]=true, --Winter's Kiss
+  [152509]=true, --Siren's Pollen
+  [152511]=true, --Sea Stalk
+  [152512]=true, --Monelite Ore
+  [152543]=true, --Sand Shifter
+  [152547]=true, --Great Sea Catfish
+  [152576]=true, --Tidespray Linen
+  [152579]=true, --Storm Silver Ore
+  [154164]=true, --Blood-Stained Bone
+  [154897]=true, --Stringy Loins
+  [154898]=true, --Meaty Haunch
+  [162461]=true, --Sanguicell
+  [124124]=true, --Blood of Sargeras
+  [151568]=true, --Primal Sargerite
+  [152668]=true, --Expulsom
+  [162460]=true, --Hydrocore
+  [165948]=true, --Tidalcore
+  [124444]=true, --Infernal Brimstone
+  [123919]=true, --Felslate
+  [124106]=true, --Felwort
+  [124101]=true, --Aethril
+  [124102]=true, --Dreamleaf
+  [124103]=true, --Foxflower
+  [124104]=true, --Fjarnskaggl
+  [124105]=true, --Starlight Rose
+  [124107]=true, --Cursed Queenfish
+  [124108]=true, --Mossgill Perch
+  [124109]=true, --Highmountain Salmon
+  [124110]=true, --Stormray
+  [124111]=true, --Runescale Koi
+  [124112]=true, --Black Barracuda
+  [124117]=true, --Lean Shank
+  [124118]=true, --Fatty Bearsteak
+  [124119]=true, --Big Gamy Ribs
+  [124120]=true, --Leyblood
+  [124121]=true, --Wildfowl Egg
+  [128304]=true, --Yseralline Seed
+  [133607]=true, --Silver Mackerel
+  [151565]=true, --Astral Glory
+  [127759]=true, --Felblight
+  [108996]=true, --Alchemical Catalyst
+  [113261]=true, --Sorcerous Fire
+  [113262]=true, --Sorcerous Water
+  [113263]=true, --Sorcerous Earth
+  [113264]=true, --Sorcerous Air
+  [118472]=true, --Savage Blood
+  [109118]=true, --Blackrock Ore
+  [109119]=true, --True Iron Ore
+  [109123]=true, --Crescent Oil
+  [109124]=true, --Frostweed
+  [109125]=true, --Fireweed
+  [109126]=true, --Gorgrond Flytrap
+  [109127]=true, --Starflower
+  [109128]=true, --Nagrand Arrowbloom
+  [109129]=true, --Talador Orchid
+  [109137]=true, --Crescent Saberfish Flesh
+  [109138]=true, --Jawless Skulker Flesh
+  [109139]=true, --Fat Sleeper Flesh
+  [109140]=true, --Blind Lake Sturgeon Flesh
+  [109141]=true, --Fire Ammonite Tentacle
+  [109142]=true, --Sea Scorpion Segment
+  [109143]=true, --Abyssal Gulper Eel Flesh
+  [109144]=true, --Blackwater Whiptail Flesh
+  [123918]=true, --Leystone Ore
+  [124113]=true, --Stonehide Leather
+  [124115]=true, --Stormscale
+  [124437]=true, --Shal'dorei Silk
+  [124438]=true, --Unbroken Claw
+  [124439]=true, --Unbroken Tooth
+  [76061]=true, --Spirit of Harmony
+  [76139]=true, --Wild Jade
+  [76140]=true, --Vermilion Onyx
+  [76141]=true, --Imperial Amethyst
+  [72095]=true, --Trillium Bar
+  [72238]=true, --Golden Lotus
+  [79011]=true, --Fool's Cap
+  [76130]=true, --Tiger Opal
+  [76133]=true, --Lapis Lazuli
+  [76134]=true, --Sunstone
+  [76135]=true, --Roguestone
+  [76136]=true, --Pandarian Garnet
+  [76137]=true, --Alexandrite
+  [79010]=true, --Snow Lily
+  [83064]=true, --Spinefish
+  [72096]=true, --Ghost Iron Bar
+  [72235]=true, --Silkweed
+  [65893]=true, --Sands of Time
+  [51950]=true, --Pyrium Bar
+  [58480]=true, --Truegold
+  [52987]=true, --Twilight Jasmine
+  [65892]=true, --Pyrium-Laced Crystalline Vial
+  [72234]=true, --Green Tea Leaf
+  [72237]=true, --Rain Poppy
+  [52988]=true, --Whiptail
+  [52186]=true, --Elementium Bar
+  [52325]=true, --Volatile Fire
+  [52326]=true, --Volatile Water
+  [52327]=true, --Volatile Earth
+  [52328]=true, --Volatile Air
+  [52329]=true, --Volatile Life
+  [52986]=true, --Heartblossom
+  [52984]=true, --Stormvine
+  [52985]=true, --Azshara's Veil
+  [52177]=true, --Carnelian
+  [52178]=true, --Zephyrite
+  [52179]=true, --Alicite
+  [52180]=true, --Nightstone
+  [52181]=true, --Hessonite
+  [52182]=true, --Jasper
+  [52983]=true, --Cinderbloom
+  [53065]=true, --Albino Cavefish
+  [56850]=true, --Deepstone Oil
+  [36918]=true, --Scarlet Ruby
+  [36921]=true, --Autumn's Glow
+  [36924]=true, --Sky Sapphire
+  [36927]=true, --Twilight Opal
+  [36930]=true, --Monarch Topaz
+  [36933]=true, --Forest Emerald
+  [36908]=true, --Frost Lotus
+  [36905]=true, --Lichbloom
+  [36906]=true, --Icethorn
+  [36913]=true, --Saronite Bar
+  [36903]=true, --Adder's Tongue
+  [30183]=true, --Nether Vortex
+  [35622]=true, --Eternal Water
+  [35623]=true, --Eternal Air
+  [35624]=true, --Eternal Earth
+  [35625]=true, --Eternal Life
+  [35627]=true, --Eternal Shadow
+  [36860]=true, --Eternal Fire
+  [36917]=true, --Bloodstone
+  [36923]=true, --Chalcedony
+  [36929]=true, --Huge Citrine
+  [36932]=true, --Dark Jade
+  [37701]=true, --Crystallized Earth
+  [37702]=true, --Crystallized Fire
+  [37703]=true, --Crystallized Shadow
+  [37704]=true, --Crystallized Life
+  [37705]=true, --Crystallized Water
+  [40195]=true, --Pygmy Oil
+  [40199]=true, --Pygmy Suckerfish
+  [44958]=true, --Ethereal Oil
+  [36901]=true, --Goldclover
+  [36904]=true, --Tiger Lily
+  [36907]=true, --Talandra's Rose
+  [37921]=true, --Deadnettle
+  [25867]=true, --Earthstorm Diamond
+  [25868]=true, --Skyfire Diamond
+  [22794]=true, --Fel Lotus
+  [22791]=true, --Netherbloom
+  [22792]=true, --Nightmare Vine
+  [22793]=true, --Mana Thistle
+  [41814]=true, --Glassfin Minnow
+  [22790]=true, --Ancient Lichen
+  [23571]=true, --Primal Might
+  [21884]=true, --Primal Fire
+  [21885]=true, --Primal Water
+  [21886]=true, --Primal Life
+  [21929]=true, --Flame Spessarite
+  [22451]=true, --Primal Air
+  [22452]=true, --Primal Earth
+  [22456]=true, --Primal Shadow
+  [22457]=true, --Primal Mana
+  [23077]=true, --Blood Garnet
+  [23079]=true, --Deep Peridot
+  [23107]=true, --Shadow Draenite
+  [23112]=true, --Golden Draenite
+  [23117]=true, --Azure Moonstone
+  [22573]=true, --Mote of Earth
+  [22574]=true, --Mote of Fire
+  [22578]=true, --Mote of Water
+  [22787]=true, --Ragveil
+  [12363]=true, --Arcane Crystal
+  [13468]=true, --Black Lotus
+  [19943]=true, --Massive Mojo
+  [22785]=true, --Felweed
+  [22786]=true, --Dreaming Glory
+  [22789]=true, --Terocone
+  [23782]=true, --Fel Iron Casing
+  [12938]=true, --Blood of Heroes
+  [13467]=true, --Icecap
+  [13466]=true, --Sorrowmoss
+  [13465]=true, --Mountain Silversage
+  [7076]=true, --Essence of Earth
+  [7078]=true, --Essence of Fire
+  [7080]=true, --Essence of Water
+  [7082]=true, --Essence of Air
+  [12803]=true, --Living Essence
+  [12808]=true, --Essence of Undeath
+  [12804]=true, --Powerful Mojo
+  [156930]=true, --Rich Illusion Dust
+  [13463]=true, --Dreamfoil
+  [13464]=true, --Golden Sansam
+  [4342]=true, --Purple Dye
+  [8846]=true, --Gromsblood
+  [12359]=true, --Thorium Bar
+  [13423]=true, --Stonescale Oil
+  [8839]=true, --Blindweed
+  [8845]=true, --Ghost Mushroom
+  [8838]=true, --Sungrass
+  [7077]=true, --Heart of Fire
+  [7972]=true, --Ichor of Undeath
+  [10286]=true, --Heart of the Wild
+  [13422]=true, --Stonescale Eel
+  [8831]=true, --Purple Lotus
+  [4625]=true, --Firebloom
+  [8153]=true, --Wildvine
+  [3858]=true, --Mithril Ore
+  [3860]=true, --Mithril Bar
+  [9262]=true, --Black Vitriol
+  [10620]=true, --Thorium Ore
+  [3819]=true, --Dragon's Teeth
+  [3358]=true, --Khadgar's Whisker
+  [3821]=true, --Goldthorn
+  [3818]=true, --Fadeleaf
+  [3357]=true, --Liferoot
+  [3575]=true, --Iron Bar
+  [5637]=true, --Large Fang
+  [4402]=true, --Small Flame Sac
+  [6359]=true, --Firefin Snapper
+  [6371]=true, --Fire Oil
+  [7067]=true, --Elemental Earth
+  [7068]=true, --Elemental Fire
+  [7070]=true, --Elemental Water
+  [3356]=true, --Kingsblood
+  [3355]=true, --Wild Steelbloom
+  [3369]=true, --Grave Moss
+  [2453]=true, --Bruiseweed
+  [3820]=true, --Stranglekelp
+  [2450]=true, --Briarthorn
+  [2452]=true, --Swiftthistle
+  [5635]=true, --Sharp Claw
+  [6358]=true, --Oily Blackmouth
+  [6370]=true, --Blackmouth Oil
+  [785]=true, --Mageroyal
+  [2449]=true, --Earthroot
+  [765]=true, --Silverleaf
+  [2447]=true, --Peacebloom
+  [137595]=true, --Viscous Transmutagen
+  [137596]=true, --Black Transmutagen
+  [137597]=true, --Oily Transmutagen
+  [1288]=true, --Large Venom Sac
+  [1475]=true, --Small Venom Sac
+  [3164]=true, --Discolored Worg Heart
+  [3371]=true, --Crystal Vial
+  [19441]=true, --Huge Venom Sac
+  [158186]=true, --Distilled Water
 }
