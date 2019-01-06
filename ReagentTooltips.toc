@@ -4,10 +4,10 @@
 ## OptionalDeps: Ace3, LibBabble-Inventory-3.0
 ## SavedVariables: ReagentTooltipsDB
 ## Title: Reagent Tooltips
-## Version: 3.0
+## Version: 3.1
 ## X-Category: Bags & Inventory
 ## X-Embeds: Ace3
-## X-Curse-Packaged-Version: v3.0
+## X-Curse-Packaged-Version: v3.1
 ## X-Curse-Project-Name: Reagent Tooltips
 ## X-Curse-Project-ID: reagent-tooltips
 embeds.xml
