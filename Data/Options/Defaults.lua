@@ -1,6 +1,6 @@
-local ReagentHelper3 = ReagentHelper3;
+local ReagentTooltips = ReagentTooltips;
 
-ReagentHelper3.defaults = {
+ReagentTooltips.defaults = {
 	profile = {
 		Disabled = false,
 		DisableProfession = false,

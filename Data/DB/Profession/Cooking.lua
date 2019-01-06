@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper3 = ReagentHelper3;
+local ReagentTooltips = ReagentTooltips;
 
-ReagentHelper3.Cooking = {
+ReagentTooltips.Cooking = {
   162515, --Midnight Salmon
   152543, --Sand Shifter
   152544, --Slimy Mackerel

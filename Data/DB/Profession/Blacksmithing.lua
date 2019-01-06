@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper3 = ReagentHelper3;
+local ReagentTooltips = ReagentTooltips;
 
-ReagentHelper3.Blacksmithing = {
+ReagentTooltips.Blacksmithing = {
   165703, --Breath of Bwonsamdi
   152513, --Platinum Ore
   152512, --Monelite Ore

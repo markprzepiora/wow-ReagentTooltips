@@ -14,5 +14,7 @@ if [ ! -d "$addons_dir" ]; then
 fi
 
 cd "$PROGDIR"/..
+rm -rf "$addons_dir"/ReagentTooltips
+rm -rf "$addons_dir"/ReagentHelper2
 rm -rf "$addons_dir"/ReagentHelper3
-git archive --format=tar --prefix=ReagentHelper3/ HEAD | tar xvf - -C "$addons_dir"
+git archive --format=tar --prefix=ReagentTooltips/ HEAD | tar xvf - -C "$addons_dir"

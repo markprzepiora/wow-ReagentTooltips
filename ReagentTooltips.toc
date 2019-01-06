@@ -2,15 +2,14 @@
 ## Interface: 80100
 ## Notes: Shows within a reagent items tooltip the Profession and/or Class it is used for.
 ## OptionalDeps: Ace3, LibBabble-Inventory-3.0
-## SavedVariables: ReagentHelper3DB
-## Title: Reagent Helper 3
+## SavedVariables: ReagentTooltipsDB
+## Title: Reagent Tooltips
 ## Version: 3.0
 ## X-Category: Bags & Inventory
 ## X-Embeds: Ace3
 ## X-Curse-Packaged-Version: v3.0
-## X-Curse-Project-Name: Reagent Helper 3
-## X-Curse-Project-ID: reagent-helper-3
-## X-Curse-Repository-ID: wow/reagent-helper-3/mainline
+## X-Curse-Project-Name: Reagent Tooltips
+## X-Curse-Project-ID: reagent-tooltips
 embeds.xml
 Localization\enUS.lua
 Localization\zhTW.lua
@@ -21,7 +20,7 @@ Localization\frFR.lua
 Localization\esMX.lua
 Localization\esES.lua
 Localization\deDE.lua
-ReagentHelper3.lua
+ReagentTooltips.lua
 LoadDB.xml
 Data\Options\Options.lua
 Data\Options\Defaults.lua

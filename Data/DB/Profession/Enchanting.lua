@@ -2,9 +2,9 @@
   Data Parsed from WowHead.com
 ]]
 
-local ReagentHelper3 = ReagentHelper3;
+local ReagentTooltips = ReagentTooltips;
 
-ReagentHelper3.Enchanting = {
+ReagentTooltips.Enchanting = {
   152882, --Runed Norgal Rod
   124442, --Chaos Crystal
   152877, --Veiled Crystal

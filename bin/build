@@ -9,5 +9,5 @@ set -x
 
 cd "$PROGDIR"/..
 
-version=$(grep -E '^## Version: .*' ReagentHelper3.toc | grep -Eo '[0-9]+\.[0-9]+')
-git archive --format=zip --prefix=ReagentHelper3/ -o "dist/ReagentHelper3-v${version}.zip" HEAD
+version=$(grep -E '^## Version: .*' ReagentTooltips.toc | grep -Eo '[0-9]+\.[0-9]+')
+git archive --format=zip --prefix=ReagentTooltips/ -o "dist/ReagentTooltips-v${version}.zip" HEAD
