@@ -2,6 +2,18 @@ ReagentTooltips = LibStub("AceAddon-3.0"):NewAddon("ReagentTooltips", "AceEvent-
 local AceConfig = LibStub("AceConfigDialog-3.0");
 local L = LibStub("AceLocale-3.0"):GetLocale("ReagentTooltips");
 local BabbleInventory = LibStub("LibBabble-Inventory-3.0"):GetLookupTable();
+local PROFESSIONS = {
+  "Alchemy",
+  "Blacksmithing",
+  "Cooking",
+  "Enchanting",
+  "Engineering",
+  "Inscription",
+  "Jewelcrafting",
+  "Leatherworking",
+  "Mining",
+  "Tailoring",
+};
 
 function ReagentTooltips:OnInitialize()
   ReagentTooltips:RegisterChatCommand("ReagentTooltips", "ChatCommand")
@@ -28,18 +40,13 @@ function ReagentTooltips:ChatCommand()
 end
 
 function ReagentTooltips:CheckDb()
-  return not not (
-    ReagentTooltips.Alchemy and
-    ReagentTooltips.Blacksmithing and
-    ReagentTooltips.Cooking and
-    ReagentTooltips.Enchanting and
-    ReagentTooltips.Engineering and
-    ReagentTooltips.Inscription and
-    ReagentTooltips.Jewelcrafting and
-    ReagentTooltips.Leatherworking and
-    ReagentTooltips.Mining and
-    ReagentTooltips.Tailoring
-  )
+  for _, profession in ipairs(PROFESSIONS) do
+    if (not ReagentTooltips[profession]) then
+      return false
+    end
+  end
+
+  return true
 end
 
 function ReagentTooltips:GetItemIDFromLink(itemLink)
@@ -90,26 +97,14 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
 end
 
 function ReagentTooltips:SearchReagentDB(itemIDQuery)
-  if (ReagentTooltips.db.profile.Disabled) or (not itemIDQuery) or (not tostring(itemIDQuery)) then
+  if (not itemIDQuery) or (not tostring(itemIDQuery)) then
     return {};
   end
 
   local ToolTipList = {};
-  local professions = {
-    "Alchemy",
-    "Blacksmithing",
-    "Cooking",
-    "Enchanting",
-    "Engineering",
-    "Inscription",
-    "Jewelcrafting",
-    "Leatherworking",
-    "Mining",
-    "Tailoring",
-  };
 
-  for k, profession in ipairs(professions) do
-    for k, itemID in pairs(ReagentTooltips[profession]) do
+  for _, profession in ipairs(PROFESSIONS) do
+    for _, itemID in pairs(ReagentTooltips[profession]) do
       if (itemIDQuery == itemID) then
         table.insert(ToolTipList, BabbleInventory[profession]);
         break;
