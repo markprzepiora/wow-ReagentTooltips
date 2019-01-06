@@ -58,10 +58,13 @@ function ReagentTooltips:GetItemIDFromLink(itemLink)
   return id and tonumber(id);
 end
 
+local mod = function(n, k)
+  return n - math.floor(n/k)*k
+end
+
 function ReagentTooltips.ModifyItemTooltip(tooltip)
   if (not ReagentTooltips.db.profile.Disabled) then
     local ToolTipString = "";
-    local TooltTipStringCount = 1;
     local itemName, itemLink = tooltip:GetItem();
     local itemID = ReagentTooltips:GetItemIDFromLink(itemLink);
     local ToolTipList = ReagentTooltips:SearchReagentDB(itemID);
@@ -69,24 +72,23 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
       return;
     end
     table.sort(ToolTipList);
-    if (ReagentTooltips.db.profile.ToolTipCommma == false) then
-      for k, v in pairs(ToolTipList) do
+    if (not ReagentTooltips.db.profile.ToolTipCommma) then
+      -- In the normal case, we just put one profession on each line
+      for _, v in pairs(ToolTipList) do
         tooltip:AddLine(v);
       end
     else
-      for k, v in pairs(ToolTipList) do
-        if (ToolTipString == "") or (ToolTipString == nil) then
+      for index, v in pairs(ToolTipList) do
+        if (ToolTipString == "") then
           ToolTipString = v;
-          TooltTipStringCount = TooltTipStringCount + 1;
         else
-          if (TooltTipStringCount == 4) or (TooltTipStringCount == 7) or (TooltTipStringCount == 10) then
-            tooltip:AddLine(ToolTipString..",");
-            ToolTipString = "";
+          -- When we reach three words on a line, split
+          if (index > 3 and mod(index, 3) == 1) then
+            tooltip:AddLine(ToolTipString .. ",");
             ToolTipString = v;
-            TooltTipStringCount = TooltTipStringCount + 1;
+          -- Until then, join with commas
           else
-            ToolTipString = ToolTipString..", "..v;
-            TooltTipStringCount = TooltTipStringCount + 1;
+            ToolTipString = ToolTipString .. ", " .. v;
           end
         end
       end
@@ -97,10 +99,6 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
 end
 
 function ReagentTooltips:SearchReagentDB(itemIDQuery)
-  if (not itemIDQuery) or (not tostring(itemIDQuery)) then
-    return {};
-  end
-
   local ToolTipList = {};
 
   for _, profession in ipairs(PROFESSIONS) do
