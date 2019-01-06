@@ -14,15 +14,6 @@ ReagentTooltips.options = {
 				set = function(info, v) ReagentTooltips.db.profile.Disabled = v;	end,
 				order = 10
 			},
-			DisableProfession = {
-				type = "toggle",
-				name = L["Disable Profession Reagents"],
-				desc = L["Disables Professions in the Reagent Tooltip."],
-				width = "full",
-				get = function(info) return ReagentTooltips.db.profile.DisableProfession; end,
-				set = function(info, v) ReagentTooltips.db.profile.DisableProfession = v; end,
-				order = 20
-			},
 			ToolTipCommma = {
 				type = "toggle",
 				name = L["Tooltip Commas"],

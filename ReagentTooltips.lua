@@ -86,84 +86,82 @@ function ReagentTooltips:SearchReagentDB(ItemName)
     return;
   end
   local ToolTipList = {};
-  if (ReagentTooltips.db.profile.Disabled == false) then
-    if (ReagentTooltips.db.profile.DisableProfession == false) then
-      for k, v in pairs(ReagentTooltips.Alchemy) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Alchemy"]);
-          break;
-        end
+  if (not ReagentTooltips.db.profile.Disabled) then
+    for k, v in pairs(ReagentTooltips.Alchemy) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Alchemy"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Blacksmithing) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Blacksmithing"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Blacksmithing) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Blacksmithing"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Cooking) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Cooking"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Cooking) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Cooking"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Enchanting) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Enchanting"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Enchanting) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Enchanting"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Engineering) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Engineering"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Engineering) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Engineering"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.FirstAid) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["First Aid"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.FirstAid) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["First Aid"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Inscription) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Inscription"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Inscription) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Inscription"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Jewelcrafting) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Jewelcrafting"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Jewelcrafting) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Jewelcrafting"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Leatherworking) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Leatherworking"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Leatherworking) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Leatherworking"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Mining) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Mining"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Mining) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Mining"]);
+        break;
       end
-      for k, v in pairs(ReagentTooltips.Tailoring) do
-        local item = GetItemInfo(v);
-        if (item) and (ItemName == item) then
-          table.insert(ToolTipList, BabbleInventory["Tailoring"]);
-          break;
-        end
+    end
+    for k, v in pairs(ReagentTooltips.Tailoring) do
+      local item = GetItemInfo(v);
+      if (item) and (ItemName == item) then
+        table.insert(ToolTipList, BabbleInventory["Tailoring"]);
+        break;
       end
     end
   end
