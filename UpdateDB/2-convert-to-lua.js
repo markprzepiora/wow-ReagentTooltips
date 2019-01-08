@@ -1,5 +1,7 @@
 const fs = require('fs');
 const path = require('path');
+const R = require('ramda');
+const { sortBy, prop } = R;
 
 let files = [
   { jsonFileName: "alchemy.json",         luaName: "Alchemy" },
@@ -14,9 +16,12 @@ let files = [
   { jsonFileName: "tailoring.json",       luaName: "Tailoring" },
 ];
 
+let sortByID = sortBy(prop('id'));
+
 files.forEach(({ jsonFileName, luaName }) => {
   let items = JSON.parse(fs.readFileSync(`${__dirname}/items-json/${jsonFileName}`));
-  let luaItemLines = items.map(item => {
+  let itemsSortedByID = sortByID(items);
+  let luaItemLines = itemsSortedByID.map(item => {
     const name = (item.name || "").replace(/^[0-9]/, '');
     return `  [${item.id}]=true, --${name}`;
   });
