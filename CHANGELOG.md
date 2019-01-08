@@ -1,5 +1,9 @@
 # Reagent Tooltips Changelog
 
+## v3.2
+
+- Add many missing Jewelcrafting and Enchanting reagents.
+
 ## v3.1
 
 - Remove FirstAid database
