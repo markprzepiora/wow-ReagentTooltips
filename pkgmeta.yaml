@@ -1,0 +1,17 @@
+package-as: ReagentTooltips
+enable-nolib-creation: no
+
+ignore:
+    - UpdateDB
+    - logo.png
+    - logo.psd
+    - bin
+    - dist
+    - .gitattributes
+    - .gitignore
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+license-output: LICENSE.txt
