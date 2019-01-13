@@ -13,14 +13,6 @@ local filter = function(fn, collection)
   return result
 end
 
-local map = function(fn, collection)
-  local result = {}
-  for _, value in ipairs(collection) do
-    table.insert(result, fn(value))
-  end
-  return result
-end
-
 local getItemIDFromLink = function(itemLink)
   -- Regex taken from http://wowwiki.wikia.com/wiki/ItemLink
   local _, _, _, _, id, _, _, _, _, _, _, _, _, _ = string.find(
@@ -35,11 +27,13 @@ function ReagentTooltips:OnEnable()
 end
 
 function ReagentTooltips.ModifyItemTooltip(tooltip)
-  local itemName, itemLink = tooltip:GetItem()
+  local _, itemLink = tooltip:GetItem()
   local itemID = getItemIDFromLink(itemLink)
   local matchingProfessions = ReagentTooltips.GetProfessionsUsingItem(itemID)
 
-  for _, profession in ipairs(matchingProfessions) do tooltip:AddLine(BabbleInventory[profession]) end
+  for _, profession in ipairs(matchingProfessions) do
+    tooltip:AddLine(BabbleInventory[profession])
+  end
 
   tooltip:Show()
 end
