@@ -8,9 +8,7 @@ local PROFESSIONS = {
 local filter = function(fn, collection)
   local result = {}
   for _, value in ipairs(collection) do
-    if fn(value) then
-      table.insert(result, value)
-    end
+    if fn(value) then table.insert(result, value) end
   end
   return result
 end
@@ -41,17 +39,12 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
   local itemID = getItemIDFromLink(itemLink)
   local matchingProfessions = ReagentTooltips.GetProfessionsUsingItem(itemID)
 
-  for _, v in ipairs(matchingProfessions) do
-    tooltip:AddLine(v)
-  end
+  for _, profession in ipairs(matchingProfessions) do tooltip:AddLine(BabbleInventory[profession]) end
 
   tooltip:Show()
 end
 
 function ReagentTooltips.GetProfessionsUsingItem(itemIDQuery)
   local professionHasItem = function(profession) return ReagentTooltips[profession][itemIDQuery] end
-  local localize = function(profession) return BabbleInventory[profession] end
-  local matchingProfessions = filter(professionHasItem, PROFESSIONS)
-
-  return map(localize, matchingProfessions)
+  return filter(professionHasItem, PROFESSIONS)
 end
