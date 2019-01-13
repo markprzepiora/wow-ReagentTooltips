@@ -1,5 +1,5 @@
 ReagentTooltips = LibStub("AceAddon-3.0"):NewAddon("ReagentTooltips", "AceEvent-3.0", "AceConsole-3.0")
-local BabbleInventory = LibStub("LibBabble-Inventory-3.0"):GetLookupTable()
+local Localize = LibStub("LibBabble-Inventory-3.0"):GetLookupTable()
 local PROFESSIONS = {
   "Alchemy", "Blacksmithing", "Cooking", "Enchanting", "Engineering",
   "Inscription", "Jewelcrafting", "Leatherworking", "Mining", "Tailoring",
@@ -32,7 +32,7 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
   local matchingProfessions = ReagentTooltips.GetProfessionsUsingItem(itemID)
 
   for _, profession in ipairs(matchingProfessions) do
-    tooltip:AddLine(BabbleInventory[profession])
+    tooltip:AddLine(Localize[profession])
   end
 
   tooltip:Show()

@@ -11,14 +11,5 @@
 ## X-Curse-Project-Name: Reagent Tooltips
 ## X-Curse-Project-ID: reagent-tooltips
 embeds.xml
-Localization\enUS.lua
-Localization\zhTW.lua
-Localization\zhCN.lua
-Localization\ruRU.lua
-Localization\koKR.lua
-Localization\frFR.lua
-Localization\esMX.lua
-Localization\esES.lua
-Localization\deDE.lua
 ReagentTooltips.lua
 LoadDB.xml
