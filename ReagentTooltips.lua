@@ -5,12 +5,20 @@ local PROFESSIONS = {
   "Inscription", "Jewelcrafting", "Leatherworking", "Mining", "Tailoring",
 }
 
-local filter = function(collection, fn)
+local filter = function(fn, collection)
   local result = {}
   for _, value in ipairs(collection) do
     if fn(value) then
       table.insert(result, value)
     end
+  end
+  return result
+end
+
+local map = function(fn, collection)
+  local result = {}
+  for _, value in ipairs(collection) do
+    table.insert(result, fn(value))
   end
   return result
 end
@@ -31,7 +39,7 @@ end
 function ReagentTooltips.ModifyItemTooltip(tooltip)
   local itemName, itemLink = tooltip:GetItem()
   local itemID = getItemIDFromLink(itemLink)
-  local matchingProfessions = ReagentTooltips:GetProfessionsUsingItem(itemID)
+  local matchingProfessions = ReagentTooltips.GetProfessionsUsingItem(itemID)
 
   for _, v in ipairs(matchingProfessions) do
     tooltip:AddLine(v)
@@ -40,8 +48,10 @@ function ReagentTooltips.ModifyItemTooltip(tooltip)
   tooltip:Show()
 end
 
-function ReagentTooltips:GetProfessionsUsingItem(itemIDQuery)
-  return filter(PROFESSIONS, function(profession)
-    return ReagentTooltips[profession][itemIDQuery]
-  end)
+function ReagentTooltips.GetProfessionsUsingItem(itemIDQuery)
+  local professionHasItem = function(profession) return ReagentTooltips[profession][itemIDQuery] end
+  local localize = function(profession) return BabbleInventory[profession] end
+  local matchingProfessions = filter(professionHasItem, PROFESSIONS)
+
+  return map(localize, matchingProfessions)
 end
