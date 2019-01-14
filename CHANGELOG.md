@@ -1,5 +1,10 @@
 # Reagent Tooltips Changelog
 
+## v3.3
+
+- Refactor and remove dead code
+- Remove unused dependencies
+
 ## v3.2
 
 - Add many missing Jewelcrafting and Enchanting reagents.
