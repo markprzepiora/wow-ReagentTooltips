@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const R = require('ramda');
-const { sortBy, uniqBy, prop } = R;
+const { sortBy, uniqBy, prop } = require('ramda');
 
 let id = prop('id');
 let sortByID = sortBy(id);

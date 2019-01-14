@@ -5,14 +5,6 @@ local PROFESSIONS = {
   "Inscription", "Jewelcrafting", "Leatherworking", "Mining", "Tailoring",
 }
 
-local filter = function(fn, collection)
-  local result = {}
-  for _, value in ipairs(collection) do
-    if fn(value) then table.insert(result, value) end
-  end
-  return result
-end
-
 local getItemIDFromLink = function(itemLink)
   -- Regex taken from http://wowwiki.wikia.com/wiki/ItemLink
   local _, _, _, _, id, _, _, _, _, _, _, _, _, _ = string.find(
@@ -29,16 +21,10 @@ end
 function ReagentTooltips.ModifyItemTooltip(tooltip)
   local _, itemLink = tooltip:GetItem()
   local itemID = getItemIDFromLink(itemLink)
-  local matchingProfessions = ReagentTooltips.GetProfessionsUsingItem(itemID)
 
-  for _, profession in ipairs(matchingProfessions) do
-    tooltip:AddLine(Localize[profession])
+  for _, profession in ipairs(PROFESSIONS) do
+    if ReagentTooltips[profession][itemID] then
+      tooltip:AddLine(Localize[profession])
+    end
   end
-
-  tooltip:Show()
-end
-
-function ReagentTooltips.GetProfessionsUsingItem(itemIDQuery)
-  local professionHasItem = function(profession) return ReagentTooltips[profession][itemIDQuery] end
-  return filter(professionHasItem, PROFESSIONS)
 end
