@@ -1,4 +1,4 @@
-ReagentTooltips = LibStub("AceAddon-3.0"):NewAddon("ReagentTooltips", "AceEvent-3.0", "AceConsole-3.0")
+ReagentTooltips = LibStub("AceAddon-3.0"):NewAddon("ReagentTooltips")
 local Localize = LibStub("LibBabble-Inventory-3.0"):GetLookupTable()
 local PROFESSIONS = {
   "Alchemy", "Blacksmithing", "Cooking", "Enchanting", "Engineering",
